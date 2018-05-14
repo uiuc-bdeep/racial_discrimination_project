@@ -1,0 +1,13 @@
+person id,first name,last name,racial category,education level,income level,email,phone number,pair id
+1,Jalen,Jackson,male,black,high,jalenj166,3477081038,0
+2,Lamar,Williams,male,black,medium,lamarw1668,3477546436,0
+3,DaQuan,Ronison,male,black,low,dqronison1445,3475715353,0
+4,Nia,Harris,female,black,high,niaharris56,3479974314,0
+5,Ebony,James,female,black,medium,ebonyjames776,3479975026,0
+6,Shanice,Thomas,female,black,low,shanicethomas086,3475715778,0
+7,Caleb,Peterson,male,white,high,calebpeterson0522,3474749277,1
+8,Charlie,Myers,male,white,medium,charliemyers274,3475667119,0
+9,Ronnie,Miller,male,white,low,rmiller5099,3473520703,0
+10,Aubrey,Murphy,female,white,high,amurphy7116,3475097020,0
+11,Erica,Cox,female,white,medium,ecox3471,3479215063,0
+12,Leslie,Wood,female,white,low,woodleslie542,3473630468,0
