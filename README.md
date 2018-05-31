@@ -1,14 +1,17 @@
 # Racial Discrimination Project
 ## Environment Setup
 ### Specify Project Root
+Set your PROJ_ROOT environment variable and navigate to your PROJ_ROOT
+
 	export PROJ_ROOT="/path/to/racial_discrimination_project"
 	cd $PROJ_ROOT
 
 ### Clone Project
+If git is configured from the command line:
 
 	git clone git@github.com:uiuc-bdeep/racial_discrimination_project.git
 
-or without having git configured from the command line:
+or if using a local copy:
 
 	git clone https://github.com/uiuc-bdeep/racial_discrimination_project.git
 
