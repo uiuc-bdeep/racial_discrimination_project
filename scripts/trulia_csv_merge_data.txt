@@ -1,1 +1,0 @@
-champaign_pretest_1/champaign_il_rental_house.csv\champaign_pretest_1/champaign_rental_status_sheet_fin.csv\champaign_pretest_1/champaign_rental_phone_status_sheet_fin.csv\champaign_pretest_1/champaign_merge_sheet.csv\
