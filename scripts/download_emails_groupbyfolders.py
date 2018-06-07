@@ -3,23 +3,29 @@ import os
 import imaplib
 import getpass
 import pandas as pd
+import json
 
 IMAP_SERVER = 'imap.gmail.com'
-#EMAIL_FOLDER = 'LA-Response'
-EMAIL_FOLDERS = ['LA-Response','LA-Nonresponse']
+EMAIL_FOLDERS = ['INBOX','LA-Response','LA-Nonresponse']
 EMAIL_DOMAIN ='@gmail.com'
 PASSWORD = 'BdeepTrulia'
 
-FILE_SEPARATOR = '/'
-PROJ_ROOT = '/path/to/racial_discrimination_project/'
-NAMES_FILE = 'project_files/names_market.csv'
-TRIAL_NAME= 'losangeles'
-DATA_DIR = '/path/to/data/'
+PROJ_ROOT = os.environ['PROJ_ROOT']
 
-names = pd.read_csv(PROJ_ROOT+NAMES_FILE)
-# ACCOUNT_LIST = names['email'].values
-## Can subset accounts here
-ACCOUNT_LIST = ['jramirez7561']
+with open(PROJ_ROOT + 'parameters.json') as parameter_json:
+    parameters = json.load(parameter_json)
+
+PROJ_ROOT = parameters['PROJ_ROOT']
+TRIAL_DATA = parameters['TRIAL_DATA']
+NAMES_FILE = PROJ_ROOT +'project_files/names_market.csv'
+DATA_DIR = TRIAL_DATA+'emails/'
+
+names = pd.read_csv(NAMES_FILE)
+ACCOUNT_LIST = names['email'].values
+# print (ACCOUNT_LIST)
+
+EMAIL_FOLDERS=['INBOX','Notafolder']
+ACCOUNT_LIST = ['jramirez7561','woodleslie542']
 
 def process_mailbox(M, account_prefix, folder):
     """
@@ -35,9 +41,9 @@ def process_mailbox(M, account_prefix, folder):
     for num in data[0].split():
         rv, data = M.fetch(num, '(RFC822)')
         if rv != 'OK':
-            print "ERROR getting message", num
+            print ("ERROR getting message", num)
             return
-        print "Writing message ", num
+        print ("Writing message ", num)
         print(account_prefix+'.'+num)
         f = open('%s/%s.eml' %(os.getcwd(), account_prefix+'.'+num), 'wb')
         f.write(data[0][1])
@@ -46,19 +52,14 @@ def process_mailbox(M, account_prefix, folder):
 def main():
     if not os.path.exists(DATA_DIR):
         os.makedirs(DATA_DIR)
-    if TRIAL_NAME in os.listdir(DATA_DIR):
-            print ("Found " + TRIAL_NAME + " in the data folder")
-    else:
-        print ("Making trial directory: " + TRIAL_NAME)
-        os.mkdir(DATA_DIR+TRIAL_NAME)
     for folder in EMAIL_FOLDERS:
-        if folder in os.listdir(DATA_DIR+TRIAL_NAME+FILE_SEPARATOR):
+        if folder in os.listdir(DATA_DIR):
             print("Found "+folder+" in data directory")
         else:
             print("Making folder " + folder)
-            os.mkdir(DATA_DIR+TRIAL_NAME+FILE_SEPARATOR+folder+FILE_SEPARATOR)
+            os.mkdir(DATA_DIR+folder)
 
-    data_home = DATA_DIR+TRIAL_NAME+FILE_SEPARATOR
+    data_home = DATA_DIR
     os.chdir(data_home)
     print(os.getcwd())
 
@@ -70,15 +71,17 @@ def main():
         M.login(email_account, PASSWORD)
 
         for folder in EMAIL_FOLDERS:
-            os.chdir(data_home+FILE_SEPARATOR+folder)
+            os.chdir(data_home+folder)
             print(os.getcwd())
+            print("Processing mailbox: ", folder)
+    #        process_mailbox(M,account,folder)
             rv, data = M.select(folder)
             if rv == 'OK':
-                print "Processing mailbox: ", folder
+                print ("Processing mailbox: ", folder)
                 process_mailbox(M,account,folder)
                 M.close()
             else:
-                print "ERROR: Unable to open mailbox ", rv
+                print ("ERROR: Unable to open mailbox ", rv)
         M.logout()
 
 if __name__ == "__main__":
