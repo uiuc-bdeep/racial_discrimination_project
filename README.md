@@ -6,6 +6,7 @@ Set your PROJ_ROOT environment variable and navigate to your PROJ_ROOT
 	export PROJ_ROOT="/path/to/racial_discrimination_project"
 	cd $PROJ_ROOT
 
+
 ### Clone Project
 If git is configured from the command line:
 
@@ -24,3 +25,6 @@ Specify a virtualenv that with python2:
 
 Activate it with:
 	source env/bin/activate
+
+### Set Project Parameters
+Modify the parameters in parameters.json 
