@@ -22,10 +22,10 @@ DATA_DIR = TRIAL_DATA+'emails/'
 
 names = pd.read_csv(NAMES_FILE)
 ACCOUNT_LIST = names['email'].values
-# print (ACCOUNT_LIST)
+print (ACCOUNT_LIST)
 
-EMAIL_FOLDERS=['INBOX','Notafolder']
-ACCOUNT_LIST = ['jramirez7561','woodleslie542']
+EMAIL_FOLDERS=['INBOX','AT-Response','AT-Nonresponse']
+ACCOUNT_LIST = ['jramirez7561','woodleslie542','shanicethomas086']
 
 def process_mailbox(M, account_prefix, folder):
     """
@@ -74,10 +74,8 @@ def main():
             os.chdir(data_home+folder)
             print(os.getcwd())
             print("Processing mailbox: ", folder)
-    #        process_mailbox(M,account,folder)
             rv, data = M.select(folder)
             if rv == 'OK':
-                print ("Processing mailbox: ", folder)
                 process_mailbox(M,account,folder)
                 M.close()
             else:
