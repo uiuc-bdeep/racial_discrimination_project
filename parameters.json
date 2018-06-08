@@ -1,4 +1,4 @@
 {
-    "PROJ_ROOT":"/path/to/",
-    "TRIAL_DATA": "/path/to/data/losangeles_data/"
+    "PROJ_ROOT":"/home/ephrim/uiuc-bdeep/racial_discrimination_project/",
+    "TRIAL_DATA": "/home/ephrim/uiuc-bdeep/racial_discrimination_project/data/atlanta_data/"
 }

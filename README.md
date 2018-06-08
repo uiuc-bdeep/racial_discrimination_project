@@ -3,7 +3,7 @@
 ### Specify Project Root
 Set your PROJ_ROOT environment variable and navigate to your PROJ_ROOT
 
-	export PROJ_ROOT="/path/to/racial_discrimination_project"
+	export PROJ_ROOT="/path/to/racial_discrimination_project/"
 	cd $PROJ_ROOT
 
 
@@ -21,10 +21,16 @@ or if using a local copy:
 Project is currently using Python2
 
 Specify a virtualenv that with python2:
+
 	virtualenv env -p /usr/bin/python2
 
 Activate it with:
+
 	source env/bin/activate
 
 ### Set Project Parameters
-Modify the parameters in parameters.json 
+Modify the parameters in parameters.json to point to folders on your machine.
+
+And then ignore the parameters.json file even though it has been checked in:
+
+	git update-index --assume-unchanged parameters.json
