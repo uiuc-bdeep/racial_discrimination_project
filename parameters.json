@@ -1,4 +1,4 @@
 {
-    "PROJ_ROOT":"/home/ephrim/uiuc-bdeep/racial_discrimination_project/",
-    "TRIAL_DATA": "/home/ephrim/uiuc-bdeep/racial_discrimination_project/data/atlanta_data/"
+    "PROJ_ROOT":"/path/to/uiuc-bdeep/racial_discrimination_project/",
+    "TRIAL_DATA": "/path/to/uiuc-bdeep/racial_discrimination_project/data/atlanta_data/"
 }
