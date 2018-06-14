@@ -6,7 +6,7 @@ import pandas as pd
 import json
 
 IMAP_SERVER = 'imap.gmail.com'
-EMAIL_FOLDERS = ['INBOX','LA-Response','LA-Nonresponse']
+EMAIL_FOLDERS=['GA-Response','GA-Nonresponse']
 EMAIL_DOMAIN ='@gmail.com'
 PASSWORD = 'BdeepTrulia'
 
@@ -24,8 +24,7 @@ names = pd.read_csv(NAMES_FILE)
 ACCOUNT_LIST = names['email'].values
 print (ACCOUNT_LIST)
 
-EMAIL_FOLDERS=['INBOX','AT-Response','AT-Nonresponse']
-ACCOUNT_LIST = ['jramirez7561','woodleslie542','shanicethomas086']
+# ACCOUNT_LIST = ['jramirez7561','woodleslie542','shanicethomas086']
 
 def process_mailbox(M, account_prefix, folder):
     """
