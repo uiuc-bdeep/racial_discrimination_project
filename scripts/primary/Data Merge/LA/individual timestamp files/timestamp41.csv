@@ -1,0 +1,14 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,645 North Cherokee Avenue,5/23/18 0:56
+2,Lamar Williams,male,black,medium,8905 South Hoover Street,5/24/18 10:16
+3,DaQuan Ronison,male,black,low,12488 Gilmore Avenue #4,5/24/18 10:24
+7,Caleb Peterson,male,white,high,1936 Selby Avenue #402,5/24/18 10:29
+8,Charlie Myers,male,white,medium,1849 South La Brea Avenue,5/24/18 10:30
+9,Ronnie Miller,male,white,low,4280 Denker Avenue,5/24/18 10:32
+10,Aubrey Murphy,female,white,high,847 North Rampart Boulevard #1,5/24/18 10:44
+13,Jorge Rodriguez,male,hispanic,high,160 South Orange Drive,5/24/18 10:55
+14,Pedro Sanchez,male,hispanic,medium,4021 Lyceum Avenue,5/24/18 10:56
+15,Luis Torres,male,hispanic,low,1936 Selby Avenue #302,5/24/18 11:00
+16,Isabella Lopez,female,hispanic,high,1189 West 36th Street #2,5/24/18 11:01
+17,Mariana Morales,female,hispanic,medium,10705 South Figueroa Street #1,5/24/18 11:03
+18,Jimena Ramirez,female,hispanic,low,455 Levering Avenue,5/24/18 11:05

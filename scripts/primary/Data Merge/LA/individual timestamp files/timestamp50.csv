@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1850 Hi Point Street,5/23/18 11:30
+2,Lamar Williams,male,black,medium,12234 Montana Avenue #301,5/23/18 11:31
+3,DaQuan Ronison,male,black,low,1126 East 111th Drive,5/23/18 11:32
+4,Nia Harris,female,black,high,563 Quail Drive,5/23/18 11:33
+5,Ebony James,female,black,medium,W Fountain Ave and N Fuller Ave,5/23/18 11:34
+6,Shanice Thomas,female,black,low,1522 South Westgate Avenue #403,5/23/18 11:35
+7,Caleb Peterson,male,white,high,507 Glenrock Avenue #401,5/23/18 11:36
+8,Charlie Myers,male,white,medium,823 North Alta Vista Boulevard,5/23/18 11:37
+9,Ronnie Miller,male,white,low,500 North Harper Avenue,5/23/18 11:39
+10,Aubrey Murphy,female,white,high,11162 Exposition Boulevard #101,5/23/18 12:33
+11,Erica Cox,female,white,medium,852 North Poinsettia Place #6,5/23/18 12:35
+12,Leslie Wood,female,white,low,6201 Whitworth Drive,5/23/18 12:36
+13,Jorge Rodriguez,male,hispanic,high,736 East 24th Street #1,5/23/18 12:37
+14,Pedro Sanchez,male,hispanic,medium,6442 Moore Drive,5/23/18 12:38
+15,Luis Torres,male,hispanic,low,153 East 87th Place,5/23/18 12:39
+16,Isabella Lopez,female,hispanic,high,7101 South La Cienega Boulevard,5/23/18 12:41
+17,Mariana Morales,female,hispanic,medium,3727 San Rafael Avenue,5/23/18 12:42
+18,Jimena Ramirez,female,hispanic,low,507 Glenrock Avenue #101,5/23/18 12:44

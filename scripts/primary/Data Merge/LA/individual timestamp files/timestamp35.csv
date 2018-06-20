@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,203 N Avenue 49 #49,5/22/18 16:59
+2,Lamar Williams,male,black,medium,647 Museum Drive,5/22/18 17:00
+3,DaQuan Ronison,male,black,low,11728 Dorothy Street,5/22/18 17:01
+4,Nia Harris,female,black,high,11911 Mayfield Avenue #203,5/22/18 17:02
+5,Ebony James,female,black,medium,9716 Saturn Street,5/22/18 17:02
+6,Shanice Thomas,female,black,low,1855 Purdue Avenue #206,5/22/18 17:24
+7,Caleb Peterson,male,white,high,648 Brittania Street,5/22/18 17:27
+8,Charlie Myers,male,white,medium,3441 Descanso Drive,5/22/18 17:27
+9,Ronnie Miller,male,white,low,4222 3rd Avenue #4222,5/22/18 17:28
+10,Aubrey Murphy,female,white,high,8308 Yuma Place,5/22/18 17:29
+11,Erica Cox,female,white,medium,3760 Wellington Road,5/22/18 17:32
+12,Leslie Wood,female,white,low,756 North Ridgewood Place,5/22/18 17:34
+13,Jorge Rodriguez,male,hispanic,high,3274 Barham Boulevard,5/22/18 17:35
+14,Pedro Sanchez,male,hispanic,medium,2309 Hauser Boulevard #4,5/22/18 17:36
+15,Luis Torres,male,hispanic,low,2106 Park Grove Avenue,5/22/18 17:37
+16,Isabella Lopez,female,hispanic,high,1519 Granville Avenue #203,5/22/18 17:38
+17,Mariana Morales,female,hispanic,medium,1411 North Stanley Avenue,5/22/18 19:20
+18,Jimena Ramirez,female,hispanic,low,2410 Tracy Terrace,5/22/18 19:21

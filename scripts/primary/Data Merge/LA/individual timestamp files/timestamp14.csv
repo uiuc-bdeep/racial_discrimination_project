@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,11860 Kiowa Avenue #102,5/21/18 13:48
+2,Lamar Williams,male,black,medium,11336 Montana Avenue,5/21/18 13:49
+3,DaQuan Ronison,male,black,low,1304 Roxbury Drive #203,5/21/18 13:50
+4,Nia Harris,female,black,high,856 South Wilton Place #1,5/21/18 13:51
+5,Ebony James,female,black,medium,1155 South Grand Avenue #1903,5/21/18 13:52
+6,Shanice Thomas,female,black,low,10705 South Figueroa Street #1,5/21/18 13:53
+7,Caleb Peterson,male,white,high,1855 Purdue Avenue #206,5/21/18 13:54
+8,Charlie Myers,male,white,medium,8508 Avalon Boulevard #5,5/21/18 13:57
+9,Ronnie Miller,male,white,low,801 South Lucerne Boulevard #406,5/21/18 13:58
+10,Aubrey Murphy,female,white,high,12695 Sandhill Lane #3,5/21/18 13:59
+11,Erica Cox,female,white,medium,3438 Hollydale Drive,5/21/18 14:00
+12,Leslie Wood,female,white,low,1500 South Beverly Drive,5/21/18 14:02
+13,Jorge Rodriguez,male,hispanic,high,2431 North Gower Street,5/21/18 14:03
+14,Pedro Sanchez,male,hispanic,medium,W Fountain Ave and N Fuller Ave,5/21/18 14:04
+15,Luis Torres,male,hispanic,low,1729 South Carmelina Avenue,5/21/18 14:05
+16,Isabella Lopez,female,hispanic,high,547 North Martel Avenue,5/21/18 14:06
+17,Mariana Morales,female,hispanic,medium,8308 Yuma Place,5/21/18 14:07
+18,Jimena Ramirez,female,hispanic,low,10507 Holman Avenue,5/21/18 14:08

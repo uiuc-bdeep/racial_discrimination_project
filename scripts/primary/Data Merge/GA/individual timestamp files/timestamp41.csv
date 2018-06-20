@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,3378 Greenbriar Parkway Southwest,6/10/18 1:35
+2,Lamar Williams,male,black,medium,4867 Ashford Dunwoody Road,
+3,DaQuan Robinson,male,black,low,3558 Piedmont Road Northeast,6/10/18 1:37
+4,Nia Harris,female,black,high,3505 Redwine Road,6/10/18 1:38
+5,Ebony James,female,black,medium,508 Main Street Northeast,6/10/18 1:39
+6,Shanice Thomas,female,black,low,205 12th Street Northeast,6/10/18 1:40
+7,Caleb Peterson,male,white,high,40 Peachtree Valley Road Northeast,6/10/18 1:41
+8,Charlie Myers,male,white,medium,50 Lincoln Court Avenue NE,6/10/18 1:42
+9,Ronnie Miller,male,white,low,2144 Peachtree Road Northwest,6/10/18 1:43
+10,Aubrey Murphy,female,white,high,3205 Cumberland Boulevard,6/10/18 1:44
+11,Erica Cox,female,white,medium,2000 Asbury Square,6/10/18 1:45
+12,Leslie Wood,female,white,low,600 Phipps Boulevard Northeast,6/10/18 1:46
+13,Jorge Rodriguez,male,hispanic,high,675 Ponce De Leon Avenue NE,6/10/18 1:47
+14,Pedro Sanchez,male,hispanic,medium,4695 North Church Lane SE,6/10/18 1:48
+15,Luis Torres,male,hispanic,low,144 Moreland Avenue NE,6/10/18 1:49
+16,Isabella Lopez,female,hispanic,high,7700 Colquitt Road,6/10/18 1:50
+17,Mariana Morales,female,hispanic,medium,22 14th Street Northwest,6/10/18 1:51
+18,Jimena Ramirez,female,hispanic,low,465 Memorial Drive Southeast,6/10/18 1:52

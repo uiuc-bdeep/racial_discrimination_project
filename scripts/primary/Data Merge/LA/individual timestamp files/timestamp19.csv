@@ -1,0 +1,18 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,7357 Pyramid Place,5/21/18 15:33
+2,Lamar Williams,male,black,medium,219 South Orange Drive,5/21/18 15:34
+3,DaQuan Ronison,male,black,low,812 North Croft Avenue #201,5/21/18 15:35
+4,Nia Harris,female,black,high,1818 Thayer Avenue #305,5/21/18 15:36
+5,Ebony James,female,black,medium,1001 Tiverton Avenue #4158,5/21/18 15:38
+6,Shanice Thomas,female,black,low,1936 Selby Avenue #401,5/21/18 15:40
+7,Caleb Peterson,male,white,high,1833 Carmona Avenue,5/21/18 15:42
+8,Charlie Myers,male,white,medium,1701 Butler Avenue,5/21/18 15:44
+9,Ronnie Miller,male,white,low,208 West 126th Street,5/21/18 15:49
+10,Aubrey Murphy,female,white,high,2311 Roscomare Road #12,5/21/18 15:50
+11,Erica Cox,female,white,medium,1630 South Gramercy Place #1,5/21/18 15:55
+12,Leslie Wood,female,white,low,1235 Innes Avenue,5/21/18 15:58
+13,Jorge Rodriguez,male,hispanic,high,4626 W Avenue 41 #41,5/21/18 16:18
+14,Pedro Sanchez,male,hispanic,medium,1133 West 39th Place,5/21/18 16:21
+15,Luis Torres,male,hispanic,low,4723 August Street #10,5/21/18 16:25
+16,Isabella Lopez,female,hispanic,high,1143 South Hayworth Avenue,5/21/18 16:29
+17,Mariana Morales,female,hispanic,medium,907 South Shenandoah Street #201,5/21/18 16:32

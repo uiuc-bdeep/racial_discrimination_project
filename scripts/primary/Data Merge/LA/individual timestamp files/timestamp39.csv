@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1741 South Bentley Avenue #3,5/22/18 22:09
+2,Lamar Williams,male,black,medium,668 Laveta Terrace #221,5/22/18 22:11
+3,DaQuan Ronison,male,black,low,7101 South La Cienega Boulevard,5/22/18 22:12
+4,Nia Harris,female,black,high,3263 1/2 City Terrace Drive,5/22/18 22:14
+5,Ebony James,female,black,medium,1120 Irolo Street #103,5/22/18 22:18
+6,Shanice Thomas,female,black,low,8873 Skyline Drive,5/22/18 22:22
+7,Caleb Peterson,male,white,high,12441 Greene Avenue,5/22/18 22:24
+8,Charlie Myers,male,white,medium,4731 Oakwood Avenue,5/22/18 22:25
+9,Ronnie Miller,male,white,low,10620 Eastborne Avenue #101,5/22/18 22:26
+10,Aubrey Murphy,female,white,high,3708 Buckingham Road,5/22/18 22:29
+11,Erica Cox,female,white,medium,4151 Redwood Avenue #305,5/22/18 22:31
+12,Leslie Wood,female,white,low,122 N Avenue 23 #23,5/22/18 22:34
+13,Jorge Rodriguez,male,hispanic,high,11728 Westbrent Street #204,5/22/18 22:38
+14,Pedro Sanchez,male,hispanic,medium,2601 Ivan Hill Terrace,5/22/18 22:38
+15,Luis Torres,male,hispanic,low,6420 Dix Street,5/22/18 22:39
+16,Isabella Lopez,female,hispanic,high,10616 Wellworth Avenue,5/22/18 22:43
+17,Mariana Morales,female,hispanic,medium,3400 London Street #3400,5/22/18 22:44
+18,Jimena Ramirez,female,hispanic,low,1955 Micheltorena Street,5/22/18 22:45

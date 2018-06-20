@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1785 McKendree Lake Drive,6/11/18 15:07
+2,Lamar Williams,male,black,medium,5033 Eagles Nest Court,6/11/18 15:08
+3,DaQuan Robinson,male,black,low,2565 Freemans Walk Drive,6/11/18 15:09
+4,Nia Harris,female,black,high,2124 Hickory Bend Southeast,6/11/18 16:23
+5,Ebony James,female,black,medium,2457 Stancrest Lane,6/11/18 16:24
+6,Shanice Thomas,female,black,low,3795 Rosemary Lane Southeast,6/11/18 16:25
+7,Caleb Peterson,male,white,high,1862 Bitsy Grant Court,6/11/18 16:28
+8,Charlie Myers,male,white,medium,1470 Margate Court,6/11/18 16:29
+9,Ronnie Miller,male,white,low,3814 Palisade Court,6/11/18 16:30
+10,Aubrey Murphy,female,white,high,2562 Freemans Walk Path,6/11/18 16:31
+11,Erica Cox,female,white,medium,635 Union Hill Road,6/11/18 16:32
+12,Leslie Wood,female,white,low,245 Longcreek Drive,6/11/18 16:33
+13,Jorge Rodriguez,male,hispanic,high,2698 Winky Blf,6/11/18 16:34
+14,Pedro Sanchez,male,hispanic,medium,2078 Marbut Lane,6/11/18 16:35
+15,Luis Torres,male,hispanic,low,1792 Austin Drive,6/11/18 16:36
+16,Isabella Lopez,female,hispanic,high,2783 Coventry Grn Southeast #D,6/11/18 16:37
+17,Mariana Morales,female,hispanic,medium,3691 Salem Hills Court,6/11/18 16:38
+18,Jimena Ramirez,female,hispanic,low,10725 Morton Chase Way,6/11/18 16:39

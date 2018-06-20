@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,2704 South Rimpau Boulevard,5/21/18 14:51
+2,Lamar Williams,male,black,medium,5010 West Slauson Avenue,5/21/18 14:52
+3,DaQuan Ronison,male,black,low,1042 South Crescent Heights Boulevard,5/21/18 14:53
+4,Nia Harris,female,black,high,1538 South Durango Avenue,5/21/18 14:54
+5,Ebony James,female,black,medium,1955 Micheltorena Street,5/21/18 14:55
+6,Shanice Thomas,female,black,low,2711 West 74th Street,5/21/18 14:56
+7,Caleb Peterson,male,white,high,2012 South Bedford Street #2,5/21/18 14:57
+8,Charlie Myers,male,white,medium,131 E Avenue 43 #43,5/21/18 14:58
+9,Ronnie Miller,male,white,low,740 Norway Lane,5/21/18 14:59
+10,Aubrey Murphy,female,white,high,8873 Skyline Drive,5/21/18 15:00
+11,Erica Cox,female,white,medium,7838 Naylor Avenue,5/21/18 15:02
+12,Leslie Wood,female,white,low,260 S Avenue 55 #H,5/21/18 15:03
+13,Jorge Rodriguez,male,hispanic,high,1818 Federal Avenue #2,5/21/18 15:04
+14,Pedro Sanchez,male,hispanic,medium,6131 Melvil Street,5/21/18 15:05
+15,Luis Torres,male,hispanic,low,11435 South New Hampshire Avenue #3,5/21/18 15:06
+16,Isabella Lopez,female,hispanic,high,756 1/2 North Ridgewood Place,5/21/18 15:07
+17,Mariana Morales,female,hispanic,medium,11919 Iowa Avenue,5/21/18 15:09
+18,Jimena Ramirez,female,hispanic,low,847 North Rampart Boulevard #1,5/21/18 15:10

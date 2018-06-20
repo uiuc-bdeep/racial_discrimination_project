@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,7103 South La Cienega Boulevard,5/22/18 9:28
+2,Lamar Williams,male,black,medium,1212 South Hayworth Avenue #1212,5/22/18 9:30
+3,DaQuan Ronison,male,black,low,1630 South Gramercy Place #1,5/22/18 9:31
+4,Nia Harris,female,black,high,1025 North La Jolla Avenue,5/22/18 9:33
+5,Ebony James,female,black,medium,1833 Carmona Avenue,5/22/18 9:34
+6,Shanice Thomas,female,black,low,6250 West Olympic Boulevard,5/22/18 9:35
+7,Caleb Peterson,male,white,high,1317 Devlin Drive,5/22/18 9:37
+8,Charlie Myers,male,white,medium,726 South Orange Grove Avenue,5/22/18 9:38
+9,Ronnie Miller,male,white,low,1714 Warnall Avenue,5/22/18 9:40
+10,Aubrey Murphy,female,white,high,3189 Lake Hollywood Drive,5/22/18 9:41
+11,Erica Cox,female,white,medium,2919 Baldwin Street #A,5/22/18 9:43
+12,Leslie Wood,female,white,low,1729 South Carmelina Avenue,5/22/18 9:44
+13,Jorge Rodriguez,male,hispanic,high,219 South Orange Drive,5/22/18 9:46
+14,Pedro Sanchez,male,hispanic,medium,2711 West 74th Street,5/22/18 9:47
+15,Luis Torres,male,hispanic,low,11860 Kiowa Avenue #102,5/22/18 9:49
+16,Isabella Lopez,female,hispanic,high,149 South Saint Andrews Place #4,5/22/18 9:50
+17,Mariana Morales,female,hispanic,medium,3668 Jasmine Avenue #1,5/22/18 9:52
+18,Jimena Ramirez,female,hispanic,low,1303 Wellesley Avenue #405,5/22/18 9:53

@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,6627 Emmet Terrace,5/23/18 12:46
+2,Lamar Williams,male,black,medium,637-647 Maltman Avenue #645,5/23/18 12:47
+3,DaQuan Ronison,male,black,low,2919 Baldwin Street #A,5/23/18 12:48
+4,Nia Harris,female,black,high,1317 Devlin Drive,5/23/18 12:49
+5,Ebony James,female,black,medium,4222 3rd Avenue #4222,5/23/18 12:51
+6,Shanice Thomas,female,black,low,150 West 118th Street,5/23/18 12:52
+7,Caleb Peterson,male,white,high,3240 Castalia Avenue,5/23/18 12:53
+8,Charlie Myers,male,white,medium,238 North Irving Boulevard,5/23/18 12:54
+9,Ronnie Miller,male,white,low,1001 Tiverton Avenue #4158,5/23/18 12:56
+10,Aubrey Murphy,female,white,high,3136 Floye Drive,5/23/18 12:57
+11,Erica Cox,female,white,medium,2106 Park Grove Avenue,5/23/18 12:58
+12,Leslie Wood,female,white,low,509 South Gramercy Place #4,5/23/18 13:00
+13,Jorge Rodriguez,male,hispanic,high,702 East 54th Street,5/23/18 13:01
+14,Pedro Sanchez,male,hispanic,medium,1062 South Alfred Street,5/23/18 13:02
+15,Luis Torres,male,hispanic,low,8905 South Hoover Street,5/23/18 13:04
+16,Isabella Lopez,female,hispanic,high,668 Laveta Terrace #221,5/23/18 13:05
+17,Mariana Morales,female,hispanic,medium,945 South Sycamore Avenue,5/23/18 13:06
+18,Jimena Ramirez,female,hispanic,low,2427 Bagley Avenue,5/23/18 13:07

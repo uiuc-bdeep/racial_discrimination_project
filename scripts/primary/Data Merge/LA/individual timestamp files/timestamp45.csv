@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,2009 West 112th Street,5/23/18 9:48
+2,Lamar Williams,male,black,medium,907 South Shenandoah Street #201,5/23/18 10:13
+3,DaQuan Ronison,male,black,low,10417 Louisiana Avenue,5/23/18 10:13
+4,Nia Harris,female,black,high,648 Brittania Street,5/23/18 10:14
+5,Ebony James,female,black,medium,11919 Iowa Avenue,5/23/18 10:14
+6,Shanice Thomas,female,black,low,1729 South Carmelina Avenue,5/23/18 10:15
+7,Caleb Peterson,male,white,high,420 North Harvard Boulevard,5/23/18 10:15
+8,Charlie Myers,male,white,medium,6560 Arlington Avenue,5/23/18 10:16
+9,Ronnie Miller,male,white,low,504 1/2 Casanova Street,5/23/18 10:16
+10,Aubrey Murphy,female,white,high,8333 West 1st Street,5/23/18 10:16
+11,Erica Cox,female,white,medium,1303 Wellesley Avenue #405,5/23/18 10:17
+12,Leslie Wood,female,white,low,149 South Saint Andrews Place #4,5/23/18 10:17
+13,Jorge Rodriguez,male,hispanic,high,1519 Granville Avenue #303,5/23/18 10:18
+14,Pedro Sanchez,male,hispanic,medium,7103 South La Cienega Boulevard,5/23/18 10:18
+15,Luis Torres,male,hispanic,low,107 South Sweetzer Avenue #304,5/23/18 10:19
+16,Isabella Lopez,female,hispanic,high,7838 Naylor Avenue,5/23/18 10:19
+17,Mariana Morales,female,hispanic,medium,1326 South Centinela Avenue #401,5/23/18 10:20
+18,Jimena Ramirez,female,hispanic,low,1833 Carmona Avenue,5/23/18 10:20

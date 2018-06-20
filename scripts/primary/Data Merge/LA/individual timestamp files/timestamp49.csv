@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,3441 Descanso Drive,5/23/18 11:05
+2,Lamar Williams,male,black,medium,931 South Genesee Avenue,5/23/18 11:06
+3,DaQuan Ronison,male,black,low,912 South Bundy Drive,5/23/18 11:08
+4,Nia Harris,female,black,high,621 Lillian Way,5/23/18 11:09
+5,Ebony James,female,black,medium,4353 Don Miguel Drive #10,5/23/18 11:11
+6,Shanice Thomas,female,black,low,726 South Orange Grove Avenue,5/23/18 11:12
+7,Caleb Peterson,male,white,high,1355 Portia Street,5/23/18 11:13
+8,Charlie Myers,male,white,medium,711 Maltman Avenue,5/23/18 11:14
+9,Ronnie Miller,male,white,low,856 South Wilton Place #1,5/23/18 11:20
+10,Aubrey Murphy,female,white,high,3400 London Street #3400,5/23/18 11:21
+11,Erica Cox,female,white,medium,4733 Oakwood Avenue,5/23/18 11:22
+12,Leslie Wood,female,white,low,320 West 52nd Place,5/23/18 11:23
+13,Jorge Rodriguez,male,hispanic,high,600 West 9th Street #305,5/23/18 11:24
+14,Pedro Sanchez,male,hispanic,medium,1610 6th Avenue,5/23/18 11:25
+15,Luis Torres,male,hispanic,low,1436 South Bedford Street #5,5/23/18 11:26
+16,Isabella Lopez,female,hispanic,high,4600 Don Lorenzo Drive #54,5/23/18 11:27
+17,Mariana Morales,female,hispanic,medium,11728 Dorothy Street,5/23/18 11:28
+18,Jimena Ramirez,female,hispanic,low,839 South Shenandoah Street,5/23/18 11:29

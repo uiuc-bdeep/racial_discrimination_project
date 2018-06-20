@@ -1,0 +1,5 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,424 Parkman Avenue,5/21/18 18:36
+2,Lamar Williams,male,black,medium,120 Granville Avenue,5/21/18 18:38
+3,DaQuan Ronison,male,black,low,711 Maltman Avenue,5/21/18 18:40
+4,Nia Harris,female,black,high,1411 North Stanley Avenue,5/21/18 18:45

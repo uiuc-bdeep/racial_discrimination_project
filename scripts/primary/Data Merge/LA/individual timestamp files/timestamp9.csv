@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,2601 Ivan Hill Terrace,5/21/18 11:34
+2,Lamar Williams,male,black,medium,2149 Midvale Avenue,5/21/18 11:35
+3,DaQuan Ronison,male,black,low,1655 Greenfield Avenue,5/21/18 11:36
+4,Nia Harris,female,black,high,880 West 1st Street #213,5/21/18 11:37
+5,Ebony James,female,black,medium,435 North Formosa Avenue,5/21/18 11:38
+6,Shanice Thomas,female,black,low,11871 Nebraska Avenue,5/21/18 11:39
+7,Caleb Peterson,male,white,high,10407 Wilmington Avenue,5/21/18 11:40
+8,Charlie Myers,male,white,medium,922 South Bundy Drive,5/21/18 11:41
+9,Ronnie Miller,male,white,low,181 South Sycamore Avenue,5/21/18 11:42
+10,Aubrey Murphy,female,white,high,1118 Cardiff Avenue #1,5/21/18 11:43
+11,Erica Cox,female,white,medium,647 Museum Drive,5/21/18 11:45
+12,Leslie Wood,female,white,low,6250 West Olympic Boulevard,5/21/18 11:46
+13,Jorge Rodriguez,male,hispanic,high,6262 Drexel Avenue,5/21/18 11:47
+14,Pedro Sanchez,male,hispanic,medium,1400 Camden Avenue #102,5/21/18 11:48
+15,Luis Torres,male,hispanic,low,1522 South Westgate Avenue #403,5/21/18 11:49
+16,Isabella Lopez,female,hispanic,high,2519 South Orange Drive,5/21/18 11:50
+17,Mariana Morales,female,hispanic,medium,3708 Buckingham Road,5/21/18 11:51
+18,Jimena Ramirez,female,hispanic,low,1126 East 111th Drive,5/21/18 11:52

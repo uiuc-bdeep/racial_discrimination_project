@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,12441 Greene Avenue,5/23/18 17:07
+2,Lamar Williams,male,black,medium,4151 Redwood Avenue #305,5/23/18 17:08
+3,DaQuan Ronison,male,black,low,1601 West Jefferson Boulevard,5/23/18 17:09
+4,Nia Harris,female,black,high,5120 Irvington Place,5/23/18 17:11
+5,Ebony James,female,black,medium,922 West 23rd Street #101210,5/23/18 17:12
+6,Shanice Thomas,female,black,low,1644 Marmont Avenue,5/23/18 17:15
+7,Caleb Peterson,male,white,high,1920 Overland Avenue #301,5/23/18 17:16
+8,Charlie Myers,male,white,medium,1727 N Dillon Street,5/23/18 17:17
+9,Ronnie Miller,male,white,low,7357 Pyramid Place,5/23/18 17:19
+10,Aubrey Murphy,female,white,high,3672 Hughes Avenue #1,5/23/18 17:20
+11,Erica Cox,female,white,medium,11871 Nebraska Avenue,5/23/18 20:07
+12,Leslie Wood,female,white,low,2410 Tracy Terrace,5/23/18 20:09
+13,Jorge Rodriguez,male,hispanic,high,1446 Armacost Avenue #202,5/23/18 20:10
+14,Pedro Sanchez,male,hispanic,medium,416 East 51st Street,5/23/18 20:12
+15,Luis Torres,male,hispanic,low,136 1/2 North Carondelet Street,5/23/18 20:14
+16,Isabella Lopez,female,hispanic,high,1212 South Sycamore Avenue,5/23/18 20:17
+17,Mariana Morales,female,hispanic,medium,5363 West Slauson Avenue,5/23/18 20:18
+18,Jimena Ramirez,female,hispanic,low,1701 Butler Avenue,5/23/18 20:20

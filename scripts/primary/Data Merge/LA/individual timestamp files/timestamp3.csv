@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1136 South Stanley Avenue,5/21/18 9:46
+2,Lamar Williams,male,black,medium,1401 South Saint Andrews Place #202,5/21/18 9:47
+3,DaQuan Ronison,male,black,low,547 West 88th Street,5/21/18 9:48
+4,Nia Harris,female,black,high,167 North Gardner Street,5/21/18 9:49
+5,Ebony James,female,black,medium,7135 Hollywood Boulevard #201,5/21/18 9:50
+6,Shanice Thomas,female,black,low,1355 Portia Street,5/21/18 9:51
+7,Caleb Peterson,male,white,high,6201 West 6th Street,5/21/18 9:52
+8,Charlie Myers,male,white,medium,1513 West 58th Place,5/21/18 9:53
+9,Ronnie Miller,male,white,low,1818 Thayer Avenue #208,5/21/18 9:54
+10,Aubrey Murphy,female,white,high,2472 Panorama Terrace,5/21/18 9:55
+11,Erica Cox,female,white,medium,702 East 54th Street,5/21/18 9:56
+12,Leslie Wood,female,white,low,12488 Gilmore Avenue #4,5/21/18 9:57
+13,Jorge Rodriguez,male,hispanic,high,3760 Wellington Road,5/21/18 9:58
+14,Pedro Sanchez,male,hispanic,medium,4151 Redwood Avenue #305,5/21/18 9:59
+15,Luis Torres,male,hispanic,low,2919 Baldwin Street #A,5/21/18 10:00
+16,Isabella Lopez,female,hispanic,high,1197 McClellan Drive #1197,5/21/18 10:01
+17,Mariana Morales,female,hispanic,medium,1849 South La Brea Avenue,5/21/18 10:02
+18,Jimena Ramirez,female,hispanic,low,12018 Rhode Island Avenue,5/21/18 10:03

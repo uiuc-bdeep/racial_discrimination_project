@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1240 Opal Circle,6/13/18 15:03
+2,Lamar Williams,male,black,medium,3279 Tulip Drive,6/13/18 15:04
+3,DaQuan Robinson,male,black,low,2775 Avalon Meadows Lane,6/13/18 15:05
+4,Nia Harris,female,black,high,994 Hazel Court Southwest,6/13/18 15:06
+5,Ebony James,female,black,medium,4255 Smoke Creek Parkway #A140,6/13/18 15:07
+6,Shanice Thomas,female,black,low,5550 Wellborn Creek Drive,6/13/18 15:08
+7,Caleb Peterson,male,white,high,4135 Bonneville Drive,6/13/18 15:09
+8,Charlie Myers,male,white,medium,2216 Clanton Terrace,
+9,Ronnie Miller,male,white,low,65 Hunters Ridge Court,6/13/18 15:11
+10,Aubrey Murphy,female,white,high,7551 Conyers Street,6/13/18 15:12
+11,Erica Cox,female,white,medium,260 Myrtle Grove Lane,6/13/18 15:13
+12,Leslie Wood,female,white,low,118 York Road Southwest,6/13/18 15:14
+13,Jorge Rodriguez,male,hispanic,high,1470 Margate Court,6/13/18 15:15
+14,Pedro Sanchez,male,hispanic,medium,505 Summerhill Place,6/13/18 15:16
+15,Luis Torres,male,hispanic,low,1101 Fairington Village Drive,6/13/18 15:17
+16,Isabella Lopez,female,hispanic,high,2539 Laurel Ridge Drive,6/13/18 15:18
+17,Mariana Morales,female,hispanic,medium,2485 Misty Hollow Lane,6/13/18 15:19
+18,Jimena Ramirez,female,hispanic,low,5104 Fairington Ridge Circle #5104,6/13/18 15:20

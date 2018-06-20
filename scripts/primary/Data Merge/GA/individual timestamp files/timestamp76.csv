@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,3470 Orchard Circle,6/13/18 2:42
+2,Lamar Williams,male,black,medium,2481 Trailmark Drive,
+3,DaQuan Robinson,male,black,low,635 Union Hill Road,6/13/18 2:44
+4,Nia Harris,female,black,high,616 Hunters Cove Lane,6/13/18 2:45
+5,Ebony James,female,black,medium,4531 Newcastle Circle,6/13/18 2:46
+6,Shanice Thomas,female,black,low,2375 Belaire Drive,6/13/18 2:47
+7,Caleb Peterson,male,white,high,4255 Smoke Creek Parkway #A134,6/13/18 2:48
+8,Charlie Myers,male,white,medium,6276 Cathedral Lane,6/13/18 2:49
+9,Ronnie Miller,male,white,low,4008 River Garden Circle,6/13/18 2:50
+10,Aubrey Murphy,female,white,high,2711 Ashleigh Lane,6/13/18 2:51
+11,Erica Cox,female,white,medium,1267 Sycamore Drive Southwest,6/13/18 2:52
+12,Leslie Wood,female,white,low,3155 Evergreen Eve Crossing,6/13/18 2:53
+13,Jorge Rodriguez,male,hispanic,high,82 Caldwell Road,6/13/18 2:54
+14,Pedro Sanchez,male,hispanic,medium,1467 Thompson Place,6/13/18 2:55
+15,Luis Torres,male,hispanic,low,6251 Klondike River Road,6/13/18 2:56
+16,Isabella Lopez,female,hispanic,high,3039 Fields Drive,
+17,Mariana Morales,female,hispanic,medium,7925 Paddocks Mill Drive,6/13/18 2:58
+18,Jimena Ramirez,female,hispanic,low,1965 Meadow Lane,6/13/18 2:59

@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,6560 Arlington Avenue,5/21/18 10:22
+2,Lamar Williams,male,black,medium,11611 Montana Avenue #1,5/21/18 10:23
+3,DaQuan Ronison,male,black,low,6418 Dix Street,5/21/18 10:24
+4,Nia Harris,female,black,high,3816 Clinton Street,5/21/18 10:25
+5,Ebony James,female,black,medium,507 Glenrock Avenue #401,5/21/18 10:26
+6,Shanice Thomas,female,black,low,2567 South Bundy Drive,5/21/18 10:27
+7,Caleb Peterson,male,white,high,3319 Roseview Avenue,5/21/18 10:28
+8,Charlie Myers,male,white,medium,2509 South Bedford Street,5/21/18 10:29
+9,Ronnie Miller,male,white,low,10920 National Boulevard #14,5/21/18 10:30
+10,Aubrey Murphy,female,white,high,668 Sunnyhill Drive,5/21/18 10:31
+11,Erica Cox,female,white,medium,5914 7th Avenue,5/21/18 10:32
+12,Leslie Wood,female,white,low,846 South Plymouth Boulevard,5/21/18 10:33
+13,Jorge Rodriguez,male,hispanic,high,137 North Bundy Drive,5/21/18 10:34
+14,Pedro Sanchez,male,hispanic,medium,3859 South Cochran Avenue,5/21/18 10:35
+15,Luis Torres,male,hispanic,low,1850 Hi Point Street,5/21/18 10:36
+16,Isabella Lopez,female,hispanic,high,637-647 Maltman Avenue #645,5/21/18 10:37
+17,Mariana Morales,female,hispanic,medium,10620 Eastborne Avenue #101,5/21/18 10:38
+18,Jimena Ramirez,female,hispanic,low,1172 South Crescent Heights Boulevard,5/21/18 10:39

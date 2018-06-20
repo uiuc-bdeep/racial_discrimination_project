@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1014 Saint Charles Avenue NE,6/7/18 18:48
+2,Lamar Williams,male,black,medium,1260 Fairview Road Northeast #1,6/7/18 18:49
+3,DaQuan Robinson,male,black,low,900 Peachtree Street Northeast #3,6/7/18 19:20
+4,Nia Harris,female,black,high,1796 Arkose Drive Southeast,6/7/18 19:21
+5,Ebony James,female,black,medium,447 Thackery Place Southwest,6/7/18 19:22
+6,Shanice Thomas,female,black,low,1724 Alvarado Terrace Southwest,6/7/18 19:23
+7,Caleb Peterson,male,white,high,2582 Westchester Drive,6/7/18 19:24
+8,Charlie Myers,male,white,medium,4838 Lake Forrest Drive,6/7/18 19:25
+9,Ronnie Miller,male,white,low,3039 Skyland Drive Northeast,6/7/18 19:26
+10,Aubrey Murphy,female,white,high,1287 Oak Grove Avenue SE,6/7/18 19:27
+11,Erica Cox,female,white,medium,491 Dargan Place Southwest,6/7/18 19:28
+12,Leslie Wood,female,white,low,1352 Emory Road Northeast #FRONT BUNGALOW,6/7/18 19:29
+13,Jorge Rodriguez,male,hispanic,high,2242 Jernigan Drive Southeast,6/7/18 19:30
+14,Pedro Sanchez,male,hispanic,medium,3275 River Lane Southeast,6/7/18 19:31
+15,Luis Torres,male,hispanic,low,1850 Cotillion Drive #2410,6/7/18 19:32
+16,Isabella Lopez,female,hispanic,high,375 Winding River Drive #F,6/7/18 19:33
+17,Mariana Morales,female,hispanic,medium,350 Kimberly Forest Court,6/7/18 19:34
+18,Jimena Ramirez,female,hispanic,low,2064 South Akin Drive NE,6/7/18 19:35

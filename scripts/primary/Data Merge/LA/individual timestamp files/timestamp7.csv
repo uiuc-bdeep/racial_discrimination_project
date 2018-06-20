@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,3240 Castalia Avenue,5/21/18 10:58
+2,Lamar Williams,male,black,medium,852 North Poinsettia Place #6,5/21/18 10:59
+3,DaQuan Ronison,male,black,low,10535 Wilshire Boulevard #1003,5/21/18 11:00
+4,Nia Harris,female,black,high,1633 South Crest Drive,5/21/18 11:01
+5,Ebony James,female,black,medium,10505 Scenario Lane,5/21/18 11:02
+6,Shanice Thomas,female,black,low,12600 Greene Avenue,5/21/18 11:03
+7,Caleb Peterson,male,white,high,1823 North Fuller Avenue #6,5/21/18 11:04
+8,Charlie Myers,male,white,medium,645 North Cherokee Avenue,5/21/18 11:05
+9,Ronnie Miller,male,white,low,12919 Walsh Avenue,5/21/18 11:06
+10,Aubrey Murphy,female,white,high,1436 South Bedford Street #5,5/21/18 11:07
+11,Erica Cox,female,white,medium,136 1/2 North Carondelet Street,5/21/18 11:08
+12,Leslie Wood,female,white,low,203 N Avenue 49 #49,5/21/18 11:09
+13,Jorge Rodriguez,male,hispanic,high,3501 South Victoria Avenue,5/21/18 11:10
+14,Pedro Sanchez,male,hispanic,medium,1014 South Burnside Avenue,5/21/18 11:11
+15,Luis Torres,male,hispanic,low,2052 Butler Avenue,5/21/18 11:12
+16,Isabella Lopez,female,hispanic,high,912 South Bundy Drive,5/21/18 11:13
+17,Mariana Morales,female,hispanic,medium,2046 South Sherbourne Drive #4,5/21/18 11:14
+18,Jimena Ramirez,female,hispanic,low,931 South Genesee Avenue,5/21/18 11:15

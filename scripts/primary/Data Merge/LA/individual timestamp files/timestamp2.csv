@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1954 Pinehurst Road,5/21/18 9:27
+2,Lamar Williams,male,black,medium,327 North Vista Street,5/21/18 9:28
+3,DaQuan Ronison,male,black,low,3400 London Street #3400,5/21/18 9:29
+4,Nia Harris,female,black,high,9116 Haas Avenue,5/21/18 9:30
+5,Ebony James,female,black,medium,320 West 52nd Place,5/21/18 9:31
+6,Shanice Thomas,female,black,low,1301 East 108th Street #4,5/21/18 9:32
+7,Caleb Peterson,male,white,high,839 South Shenandoah Street,5/21/18 9:33
+8,Charlie Myers,male,white,medium,4250 York Boulevard,5/21/18 9:34
+9,Ronnie Miller,male,white,low,1212 South Sycamore Avenue,5/21/18 9:35
+10,Aubrey Murphy,female,white,high,11911 Mayfield Avenue #203,5/21/18 9:36
+11,Erica Cox,female,white,medium,2347 Manning Avenue,5/21/18 9:37
+12,Leslie Wood,female,white,low,1011 North Fickett Street,5/21/18 9:38
+13,Jorge Rodriguez,male,hispanic,high,12441 Greene Avenue,5/21/18 9:39
+14,Pedro Sanchez,male,hispanic,medium,11929 Courtleigh Drive #302,5/21/18 9:40
+15,Luis Torres,male,hispanic,low,1385 West 22nd Street,5/21/18 9:42
+16,Isabella Lopez,female,hispanic,high,11860 Tennessee Place,5/21/18 9:43
+17,Mariana Morales,female,hispanic,medium,1170 West 28th Street,5/21/18 9:44
+18,Jimena Ramirez,female,hispanic,low,5120 Irvington Place,5/21/18 9:45

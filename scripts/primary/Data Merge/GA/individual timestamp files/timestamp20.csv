@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,675 Ponce De Leon Avenue NE,6/8/18 19:45
+2,Lamar Williams,male,black,medium,1000 Park Avenue NE,6/8/18 19:46
+3,DaQuan Robinson,male,black,low,2550 Akers Mill Road Southeast,6/8/18 19:47
+4,Nia Harris,female,black,high,525 Glen Iris Drive Northeast,6/8/18 19:48
+5,Ebony James,female,black,medium,1500 Huntcliff Village Court,6/8/18 19:49
+6,Shanice Thomas,female,black,low,465 Memorial Drive Southeast,6/8/18 19:50
+7,Caleb Peterson,male,white,high,3505 Redwine Road,6/8/18 19:51
+8,Charlie Myers,male,white,medium,2200 Ranchwood Drive Northeast,6/8/18 19:52
+9,Ronnie Miller,male,white,low,3558 Piedmont Road Northeast,6/8/18 19:53
+10,Aubrey Murphy,female,white,high,4687 Camp Creek Parkway,6/8/18 19:54
+11,Erica Cox,female,white,medium,205 12th Street Northeast,6/8/18 19:55
+12,Leslie Wood,female,white,low,1570 Sheridan Road Northeast,6/8/18 19:56
+13,Jorge Rodriguez,male,hispanic,high,95 Peyton Road Southwest,6/8/18 19:57
+14,Pedro Sanchez,male,hispanic,medium,50 Adams Lake Boulevard Southeast,
+15,Luis Torres,male,hispanic,low,2144 Peachtree Road Northwest,6/8/18 19:59
+16,Isabella Lopez,female,hispanic,high,1824 Defoor Avenue NW,6/8/18 20:05
+17,Mariana Morales,female,hispanic,medium,40 Peachtree Valley Road Northeast,6/8/18 20:08
+18,Jimena Ramirez,female,hispanic,low,50 Lincoln Court Avenue NE,6/8/18 20:11

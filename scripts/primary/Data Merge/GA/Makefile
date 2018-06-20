@@ -1,0 +1,11 @@
+all: main
+.PHONY: all
+
+main: step_1_get_survey.R mergeData_GA.py
+	Rscript step_1_get_survey.R
+	python3 mergeData_GA.py
+
+clean:
+	rm -f *.pyc
+	clear
+	clear

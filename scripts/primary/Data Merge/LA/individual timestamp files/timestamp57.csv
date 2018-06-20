@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,4326 Russell Avenue #2,5/23/18 15:55
+2,Lamar Williams,male,black,medium,1133 West 39th Place,5/23/18 15:57
+3,DaQuan Ronison,male,black,low,1172 South Crescent Heights Boulevard,5/23/18 15:58
+4,Nia Harris,female,black,high,3665 Moore Street,5/23/18 16:00
+5,Ebony James,female,black,medium,2431 North Gower Street,5/23/18 16:01
+6,Shanice Thomas,female,black,low,11860 Tennessee Place,5/23/18 16:02
+7,Caleb Peterson,male,white,high,160 South Orange Drive,5/23/18 16:03
+8,Charlie Myers,male,white,medium,1042 South Crescent Heights Boulevard,5/23/18 16:05
+9,Ronnie Miller,male,white,low,1519 Granville Avenue #203,5/23/18 16:06
+10,Aubrey Murphy,female,white,high,235 S Avenue 20 #20,5/23/18 16:07
+11,Erica Cox,female,white,medium,2309 Hauser Boulevard #4,5/23/18 16:08
+12,Leslie Wood,female,white,low,166 South Saltair Avenue,5/23/18 16:09
+13,Jorge Rodriguez,male,hispanic,high,4015 West Jefferson Boulevard,5/23/18 16:10
+14,Pedro Sanchez,male,hispanic,medium,10407 Wilmington Avenue,5/23/18 16:12
+15,Luis Torres,male,hispanic,low,2012 South Bedford Street #2,5/23/18 16:28
+16,Isabella Lopez,female,hispanic,high,11260 Mississippi Avenue #405,5/23/18 16:31
+17,Mariana Morales,female,hispanic,medium,826 South Cochran Avenue,5/23/18 16:34
+18,Jimena Ramirez,female,hispanic,low,647 Museum Drive,5/23/18 16:35

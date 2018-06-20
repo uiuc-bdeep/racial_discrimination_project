@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1519 Granville Avenue #203,5/21/18 11:53
+2,Lamar Williams,male,black,medium,1303 Wellesley Avenue #405,5/21/18 11:54
+3,DaQuan Ronison,male,black,low,1423 South Westmoreland Avenue,5/21/18 11:55
+4,Nia Harris,female,black,high,5002 Patagonia Court,5/21/18 11:56
+5,Ebony James,female,black,medium,1189 West 36th Street #2,5/21/18 11:57
+6,Shanice Thomas,female,black,low,1121 West 39th Place,5/21/18 11:58
+7,Caleb Peterson,male,white,high,7101 South La Cienega Boulevard,5/21/18 11:59
+8,Charlie Myers,male,white,medium,1326 South Centinela Avenue #401,5/21/18 12:00
+9,Ronnie Miller,male,white,low,4015 West Jefferson Boulevard,5/21/18 12:01
+10,Aubrey Murphy,female,white,high,3263 1/2 City Terrace Drive,5/21/18 12:02
+11,Erica Cox,female,white,medium,1045 South Hayworth Avenue,5/21/18 12:03
+12,Leslie Wood,female,white,low,945 South Sycamore Avenue,5/21/18 12:04
+13,Jorge Rodriguez,male,hispanic,high,4353 Don Miguel Drive #10,5/21/18 12:05
+14,Pedro Sanchez,male,hispanic,medium,10417 Louisiana Avenue,5/21/18 12:06
+15,Luis Torres,male,hispanic,low,756 North Ridgewood Place,5/21/18 12:07
+16,Isabella Lopez,female,hispanic,high,5327 Thornburn Street,5/21/18 12:08
+17,Mariana Morales,female,hispanic,medium,6627 Emmet Terrace,5/21/18 12:09
+18,Jimena Ramirez,female,hispanic,low,5948 West 78th Street,5/21/18 12:10

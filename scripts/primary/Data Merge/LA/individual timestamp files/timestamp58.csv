@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,3121 London Street,5/23/18 16:37
+2,Lamar Williams,male,black,medium,10507 Holman Avenue,5/23/18 16:39
+3,DaQuan Ronison,male,black,low,4626 W Avenue 41 #41,5/23/18 16:41
+4,Nia Harris,female,black,high,1215 South Bedford Street #204,5/23/18 16:42
+5,Ebony James,female,black,medium,1127 South Hayworth Avenue,5/23/18 16:43
+6,Shanice Thomas,female,black,low,1014 South Burnside Avenue,5/23/18 16:46
+7,Caleb Peterson,male,white,high,1936 Selby Avenue #302,5/23/18 16:47
+8,Charlie Myers,male,white,medium,1614 West 62nd Street,5/23/18 16:49
+9,Ronnie Miller,male,white,low,1522 South Westgate Avenue #303,5/23/18 16:52
+10,Aubrey Murphy,female,white,high,1818 Thayer Avenue #305,5/23/18 16:53
+11,Erica Cox,female,white,medium,631 West 83rd Street,5/23/18 16:54
+12,Leslie Wood,female,white,low,653 Cross Avenue,5/23/18 16:56
+13,Jorge Rodriguez,male,hispanic,high,9716 Saturn Street,5/23/18 16:57
+14,Pedro Sanchez,male,hispanic,medium,8376 Hollywood Boulevard,5/23/18 16:59
+15,Luis Torres,male,hispanic,low,1500 South Beverly Drive,5/23/18 17:00
+16,Isabella Lopez,female,hispanic,high,2422 Meadowvale Avenue #1,5/23/18 17:02
+17,Mariana Morales,female,hispanic,medium,6201 West 6th Street,5/23/18 17:03
+18,Jimena Ramirez,female,hispanic,low,7024 Treasure Trail,5/23/18 17:06

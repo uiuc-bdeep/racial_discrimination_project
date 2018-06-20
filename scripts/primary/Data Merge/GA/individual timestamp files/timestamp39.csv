@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,530 Piedmont Avenue NE,6/9/18 23:32
+2,Lamar Williams,male,black,medium,325 Centennial Olympic Park Drive Northwest,6/9/18 23:33
+3,DaQuan Robinson,male,black,low,57 Trowbridge Lk,6/9/18 23:34
+4,Nia Harris,female,black,high,5555 Roswell Road,6/9/18 23:35
+5,Ebony James,female,black,medium,500 Briarvista Way Northeast,6/9/18 23:36
+6,Shanice Thomas,female,black,low,2200 Ranchwood Drive Northeast,6/9/18 23:37
+7,Caleb Peterson,male,white,high,3000 Briarcliff Road Northeast,6/9/18 23:38
+8,Charlie Myers,male,white,medium,95 Peyton Road Southwest,6/9/18 23:39
+9,Ronnie Miller,male,white,low,95 8th Street Northwest,6/9/18 23:40
+10,Aubrey Murphy,female,white,high,370 Northside Drive Northwest,6/9/18 23:41
+11,Erica Cox,female,white,medium,2432 Johnson Ferry Road Northeast,6/9/18 23:42
+12,Leslie Wood,female,white,low,1020 Lenox Park Boulevard Northeast,6/9/18 23:43
+13,Jorge Rodriguez,male,hispanic,high,1220 Mecaslin Street Northwest,6/9/18 23:44
+14,Pedro Sanchez,male,hispanic,medium,525 Glen Iris Drive Northeast,6/10/18 0:16
+15,Luis Torres,male,hispanic,low,2550 Akers Mill Road Southeast,6/10/18 1:12
+16,Isabella Lopez,female,hispanic,high,4501 Circle 75 Parkway Southeast,6/10/18 1:13
+17,Mariana Morales,female,hispanic,medium,5501 Glenridge Drive,6/10/18 1:14
+18,Jimena Ramirez,female,hispanic,low,207 13th Street Northeast,6/10/18 1:15

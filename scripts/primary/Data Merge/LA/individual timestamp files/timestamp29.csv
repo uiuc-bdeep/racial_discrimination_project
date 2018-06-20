@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,8508 Avalon Boulevard #5,5/22/18 12:44
+2,Lamar Williams,male,black,medium,4600 Don Lorenzo Drive #54,5/22/18 12:45
+3,DaQuan Ronison,male,black,low,6201 West 6th Street,5/22/18 12:47
+4,Nia Harris,female,black,high,3727 San Rafael Avenue,5/22/18 12:48
+5,Ebony James,female,black,medium,11260 Mississippi Avenue #405,5/22/18 12:50
+6,Shanice Thomas,female,black,low,625 North Harper Avenue,5/22/18 12:52
+7,Caleb Peterson,male,white,high,5327 Thornburn Street,5/22/18 12:53
+8,Charlie Myers,male,white,medium,6627 Emmet Terrace,5/22/18 12:55
+9,Ronnie Miller,male,white,low,5447 Blackwelder Street #1,5/22/18 12:57
+10,Aubrey Murphy,female,white,high,237 1/2 East Century Boulevard,5/22/18 12:58
+11,Erica Cox,female,white,medium,563 Quail Drive,5/22/18 13:00
+12,Leslie Wood,female,white,low,1014 South Burnside Avenue,5/22/18 14:35
+13,Jorge Rodriguez,male,hispanic,high,3108 Nichols Canyon Road,5/22/18 14:37
+14,Pedro Sanchez,male,hispanic,medium,420 North Harvard Boulevard,5/22/18 14:38
+15,Luis Torres,male,hispanic,low,120 Granville Avenue,5/22/18 14:40
+16,Isabella Lopez,female,hispanic,high,12600 Greene Avenue,5/22/18 14:42
+17,Mariana Morales,female,hispanic,medium,1913 Benecia Avenue,5/22/18 14:44
+18,Jimena Ramirez,female,hispanic,low,823 North Alta Vista Boulevard,5/22/18 14:45

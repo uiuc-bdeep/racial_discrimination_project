@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1128 North Kenmore Avenue,5/23/18 14:01
+2,Lamar Williams,male,black,medium,3859 South Cochran Avenue,5/23/18 14:03
+3,DaQuan Ronison,male,black,low,1400 Camden Avenue #102,5/23/18 14:04
+4,Nia Harris,female,black,high,137 North Bundy Drive,5/23/18 14:05
+5,Ebony James,female,black,medium,847 North Rampart Boulevard #1,5/23/18 14:06
+6,Shanice Thomas,female,black,low,1143 South Hayworth Avenue,5/23/18 14:08
+7,Caleb Peterson,male,white,high,1655 Greenfield Avenue,5/23/18 14:11
+8,Charlie Myers,male,white,medium,1304 Roxbury Drive #203,5/23/18 14:12
+9,Ronnie Miller,male,white,low,3274 Barham Boulevard,5/23/18 14:14
+10,Aubrey Murphy,female,white,high,8958 West 24th Street,5/23/18 14:14
+11,Erica Cox,female,white,medium,2601 Ivan Hill Terrace,5/23/18 14:16
+12,Leslie Wood,female,white,low,455 Levering Avenue,5/23/18 14:16
+13,Jorge Rodriguez,male,hispanic,high,11911 Mayfield Avenue #3,5/23/18 14:17
+14,Pedro Sanchez,male,hispanic,medium,10417 Louisiana Avenue #303,5/23/18 14:18
+15,Luis Torres,male,hispanic,low,3251 Descanso Drive,5/23/18 14:19
+16,Isabella Lopez,female,hispanic,high,8873 Skyline Drive,5/23/18 14:19
+17,Mariana Morales,female,hispanic,medium,1818 Thayer Avenue #208,5/23/18 14:20
+18,Jimena Ramirez,female,hispanic,low,2311 Roscomare Road #12,5/23/18 14:22

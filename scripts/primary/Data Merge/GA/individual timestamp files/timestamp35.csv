@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,116 Warren Street Northeast,6/9/18 21:30
+2,Lamar Williams,male,black,medium,207 Fletcher Street Southwest,6/9/18 21:31
+3,DaQuan Robinson,male,black,low,345 Winding River Drive #C,6/9/18 21:32
+4,Nia Harris,female,black,high,5095 Roswell Road,6/9/18 21:33
+5,Ebony James,female,black,medium,5510 Sturbridge Way,6/9/18 21:34
+6,Shanice Thomas,female,black,low,350 Kimberly Forest Court,6/9/18 21:35
+7,Caleb Peterson,male,white,high,21 Park Circle,6/9/18 21:36
+8,Charlie Myers,male,white,medium,5709 Rockingwood Drive,6/9/18 21:37
+9,Ronnie Miller,male,white,low,164 Walthall Street Southeast,6/9/18 21:38
+10,Aubrey Murphy,female,white,high,1260 Fairview Road Northeast #1,
+11,Erica Cox,female,white,medium,1121 Alta Avenue NE,6/9/18 21:40
+12,Leslie Wood,female,white,low,1256 Monroe Drive Northeast,6/9/18 21:41
+13,Jorge Rodriguez,male,hispanic,high,3528 Regalwoods Drive,6/9/18 21:42
+14,Pedro Sanchez,male,hispanic,medium,2423 Melinda Drive Northeast,6/9/18 21:43
+15,Luis Torres,male,hispanic,low,299 Grant Park Place Southeast,6/9/18 21:44
+16,Isabella Lopez,female,hispanic,high,3039 Skyland Drive Northeast,6/9/18 21:45
+17,Mariana Morales,female,hispanic,medium,765 Formwalt Street Southwest,6/9/18 21:46
+18,Jimena Ramirez,female,hispanic,low,2915 Ridgemore Road Northwest,6/9/18 21:47

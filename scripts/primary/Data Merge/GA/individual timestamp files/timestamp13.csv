@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1831 Briarcliff Circle Northeast,6/7/18 20:37
+2,Lamar Williams,male,black,medium,3000 Briarcliff Road Northeast,6/7/18 20:38
+3,DaQuan Robinson,male,black,low,4403 Northside Parkway Northwest,6/7/18 20:39
+4,Nia Harris,female,black,high,5675 Roswell Road,6/7/18 20:40
+5,Ebony James,female,black,medium,460 East Lake Boulevard SE,6/7/18 20:41
+6,Shanice Thomas,female,black,low,1824 Defoor Avenue NW,6/7/18 20:42
+7,Caleb Peterson,male,white,high,4501 Circle 75 Parkway Southeast,6/7/18 20:43
+8,Charlie Myers,male,white,medium,5450 Glenridge Drive,6/7/18 20:44
+9,Ronnie Miller,male,white,low,675 Ponce De Leon Avenue NE,6/7/18 20:45
+10,Aubrey Murphy,female,white,high,5501 Glenridge Drive,6/7/18 20:46
+11,Erica Cox,female,white,medium,3201 Downwood Circle Northwest,6/7/18 20:47
+12,Leslie Wood,female,white,low,177 North Colonial Homes Circle NW,6/7/18 20:48
+13,Jorge Rodriguez,male,hispanic,high,222 14th Street Northeast,6/7/18 20:49
+14,Pedro Sanchez,male,hispanic,medium,508 Main Street Northeast,6/7/18 20:50
+15,Luis Torres,male,hispanic,low,4867 Ashford Dunwoody Road,6/7/18 20:51
+16,Isabella Lopez,female,hispanic,high,530 Piedmont Avenue NE,6/7/18 20:52
+17,Mariana Morales,female,hispanic,medium,1783 Johnson Road Northwest,6/7/18 20:53
+18,Jimena Ramirez,female,hispanic,low,3505 Redwine Road,6/7/18 20:54

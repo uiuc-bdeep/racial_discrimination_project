@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,235 S Avenue 20 #20,5/21/18 10:40
+2,Lamar Williams,male,black,medium,8958 West 24th Street,5/21/18 10:41
+3,DaQuan Ronison,male,black,low,2724 W Avenue 32 #32,5/21/18 10:42
+4,Nia Harris,female,black,high,1522 South Westgate Avenue #203,5/21/18 10:43
+5,Ebony James,female,black,medium,1913 Benecia Avenue,5/21/18 10:44
+6,Shanice Thomas,female,black,low,1920 Overland Avenue #301,5/21/18 10:45
+7,Caleb Peterson,male,white,high,8376 Hollywood Boulevard,5/21/18 10:46
+8,Charlie Myers,male,white,medium,3955 Alla Road,5/21/18 10:47
+9,Ronnie Miller,male,white,low,11728 Dorothy Street,5/21/18 10:48
+10,Aubrey Murphy,female,white,high,8857 South Gramercy Place,5/21/18 10:49
+11,Erica Cox,female,white,medium,153 East 87th Place,5/21/18 10:50
+12,Leslie Wood,female,white,low,1025 North La Jolla Avenue,5/21/18 10:51
+13,Jorge Rodriguez,male,hispanic,high,2540 Laurel Pass,5/21/18 10:52
+14,Pedro Sanchez,male,hispanic,medium,449 South Le Doux Road #211,5/21/18 10:53
+15,Luis Torres,male,hispanic,low,1833 Carmona Avenue #HOUSE,5/21/18 10:54
+16,Isabella Lopez,female,hispanic,high,1717 Walgrove Avenue,5/21/18 10:55
+17,Mariana Morales,female,hispanic,medium,2009 West 112th Street,5/21/18 10:56
+18,Jimena Ramirez,female,hispanic,low,726 South Orange Grove Avenue,5/21/18 10:57

@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,3672 Hughes Avenue #1,5/21/18 13:29
+2,Lamar Williams,male,black,medium,813 South Stanley Avenue,5/21/18 13:30
+3,DaQuan Ronison,male,black,low,4733 Oakwood Avenue,5/21/18 13:32
+4,Nia Harris,female,black,high,1614 West 62nd Street,5/21/18 13:33
+5,Ebony James,female,black,medium,509 South Gramercy Place #4,5/21/18 13:34
+6,Shanice Thomas,female,black,low,238 North Irving Boulevard,5/21/18 13:35
+7,Caleb Peterson,male,white,high,1062 South Alfred Street,5/21/18 13:36
+8,Charlie Myers,male,white,medium,1212 South Hayworth Avenue #1212,5/21/18 13:37
+9,Ronnie Miller,male,white,low,7607 Arizona Avenue,5/21/18 13:38
+10,Aubrey Murphy,female,white,high,1519 Granville Avenue #303,5/21/18 13:39
+11,Erica Cox,female,white,medium,346 South Wilton Place,5/21/18 13:40
+12,Leslie Wood,female,white,low,1031 South Gramercy Drive,5/21/18 13:41
+13,Jorge Rodriguez,male,hispanic,high,922 West 23rd Street #101210,5/21/18 13:42
+14,Pedro Sanchez,male,hispanic,medium,237 1/2 East Century Boulevard,5/21/18 13:43
+15,Luis Torres,male,hispanic,low,563 Quail Drive,5/21/18 13:44
+16,Isabella Lopez,female,hispanic,high,4222 3rd Avenue #4222,5/21/18 13:45
+17,Mariana Morales,female,hispanic,medium,1317 Devlin Drive,5/21/18 13:46
+18,Jimena Ramirez,female,hispanic,low,12321 Ocean Park Boulevard #18,5/21/18 13:47

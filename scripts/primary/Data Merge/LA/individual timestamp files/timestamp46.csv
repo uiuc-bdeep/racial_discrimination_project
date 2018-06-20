@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,5948 West 78th Street,5/23/18 10:20
+2,Lamar Williams,male,black,medium,122 N Avenue 23 #23,5/23/18 10:21
+3,DaQuan Ronison,male,black,low,11435 South New Hampshire Avenue #3,5/23/18 10:21
+4,Nia Harris,female,black,high,1036 North Bonnie Brae Street #11,5/23/18 10:21
+5,Ebony James,female,black,medium,12321 Ocean Park Boulevard #18,5/23/18 10:22
+6,Shanice Thomas,female,black,low,1385 West 22nd Street,5/23/18 10:22
+7,Caleb Peterson,male,white,high,547 West 88th Street,5/23/18 10:23
+8,Charlie Myers,male,white,medium,1633 South Crest Drive,5/23/18 10:23
+9,Ronnie Miller,male,white,low,1913 Benecia Avenue,5/23/18 10:24
+10,Aubrey Murphy,female,white,high,438 South Sycamore Avenue,5/23/18 10:24
+11,Erica Cox,female,white,medium,7135 Hollywood Boulevard #201,5/23/18 10:24
+12,Leslie Wood,female,white,low,2626 Creston Drive,5/23/18 10:25
+13,Jorge Rodriguez,male,hispanic,high,242 East 92nd Street,5/23/18 10:26
+14,Pedro Sanchez,male,hispanic,medium,1212 South Hayworth Avenue #1212,5/23/18 10:27
+15,Luis Torres,male,hispanic,low,1500 South Beverly Drive #102,5/23/18 10:28
+16,Isabella Lopez,female,hispanic,high,1855 Purdue Avenue #206,5/23/18 10:28
+17,Mariana Morales,female,hispanic,medium,12919 Walsh Avenue,5/23/18 10:29
+18,Jimena Ramirez,female,hispanic,low,2472 Panorama Terrace,5/23/18 10:30

@@ -1,0 +1,13 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,6900 Bonita Terrace #105,5/23/18 22:19
+2,Lamar Williams,male,black,medium,4723 August Street #10,5/23/18 22:20
+7,Caleb Peterson,male,white,high,1522 South Westgate Avenue #203,5/23/18 22:36
+8,Charlie Myers,male,white,medium,8046 Woodland Lane,5/23/18 22:37
+9,Ronnie Miller,male,white,low,1189 West 36th Street #2,5/23/18 22:38
+10,Aubrey Murphy,female,white,high,11860 Kiowa Avenue #102,5/23/18 22:39
+11,Erica Cox,female,white,medium,1148 South Bedford Street,5/23/18 22:40
+12,Leslie Wood,female,white,low,138 North Carondelet Street,5/23/18 22:41
+13,Jorge Rodriguez,male,hispanic,high,6262 Drexel Avenue #6262,5/23/18 22:45
+14,Pedro Sanchez,male,hispanic,medium,846 South Plymouth Boulevard,5/23/18 22:52
+15,Luis Torres,male,hispanic,low,11010 Exposition Boulevard,5/24/18 9:26
+16,Isabella Lopez,female,hispanic,high,854 Serrano Place,5/24/18 9:36

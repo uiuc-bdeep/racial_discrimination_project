@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,138 North Carondelet Street,5/21/18 11:16
+2,Lamar Williams,male,black,medium,11162 Exposition Boulevard #101,5/21/18 11:17
+3,DaQuan Ronison,male,black,low,4878 Axtell Street,5/21/18 11:18
+4,Nia Harris,female,black,high,6193 Rockcliff Drive,5/21/18 11:19
+5,Ebony James,female,black,medium,628 West 76th Street,5/21/18 11:20
+6,Shanice Thomas,female,black,low,410 S Van Ness Avenue,5/21/18 11:21
+7,Caleb Peterson,male,white,high,736 East 24th Street #1,5/21/18 11:22
+8,Charlie Myers,male,white,medium,9716 Saturn Street,5/21/18 11:23
+9,Ronnie Miller,male,white,low,668 Laveta Terrace #221,5/21/18 11:24
+10,Aubrey Murphy,female,white,high,1449 Butler Avenue,5/21/18 11:25
+11,Erica Cox,female,white,medium,242 East 92nd Street,5/21/18 11:26
+12,Leslie Wood,female,white,low,2454 Nalin Drive,5/21/18 11:27
+13,Jorge Rodriguez,male,hispanic,high,6900 Bonita Terrace #105,5/21/18 11:28
+14,Pedro Sanchez,male,hispanic,medium,1936 Selby Avenue #402,5/21/18 11:29
+15,Luis Torres,male,hispanic,low,3189 Lake Hollywood Drive,5/21/18 11:30
+16,Isabella Lopez,female,hispanic,high,1036 North Bonnie Brae Street #11,5/21/18 11:31
+17,Mariana Morales,female,hispanic,medium,1712 Barry Avenue #1,5/21/18 11:32
+18,Jimena Ramirez,female,hispanic,low,10133 Tabor Street #18,5/21/18 11:33

@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1446 Armacost Avenue #202,5/22/18 12:17
+2,Lamar Williams,male,black,medium,8857 South Gramercy Place,5/22/18 12:18
+3,DaQuan Ronison,male,black,low,507 Glenrock Avenue #101,5/22/18 12:20
+4,Nia Harris,female,black,high,1818 Thayer Avenue #208,5/22/18 12:21
+5,Ebony James,female,black,medium,12919 Walsh Avenue,5/22/18 12:23
+6,Shanice Thomas,female,black,low,1823 North Fuller Avenue #6,5/22/18 12:24
+7,Caleb Peterson,male,white,high,1818 Federal Avenue #2,5/22/18 12:26
+8,Charlie Myers,male,white,medium,11919 Idaho Avenue #1,5/22/18 12:27
+9,Ronnie Miller,male,white,low,4626 W Avenue 41 #41,5/22/18 12:29
+10,Aubrey Murphy,female,white,high,10417 Louisiana Avenue,5/22/18 12:30
+11,Erica Cox,female,white,medium,4723 August Street #10,5/22/18 12:32
+12,Leslie Wood,female,white,low,922 West 23rd Street #101210,5/22/18 12:33
+13,Jorge Rodriguez,male,hispanic,high,907 South Shenandoah Street #101,5/22/18 12:35
+14,Pedro Sanchez,male,hispanic,medium,3816 Clinton Street,5/22/18 12:36
+15,Luis Torres,male,hispanic,low,1355 Portia Street,5/22/18 12:38
+16,Isabella Lopez,female,hispanic,high,1423 South Westmoreland Avenue,5/22/18 12:39
+17,Mariana Morales,female,hispanic,medium,8333 West 1st Street,5/22/18 12:41
+18,Jimena Ramirez,female,hispanic,low,6560 Arlington Avenue,5/22/18 12:43

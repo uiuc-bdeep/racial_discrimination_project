@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1409 Walgrove Avenue,5/21/18 12:11
+2,Lamar Williams,male,black,medium,420 North Harvard Boulevard,5/21/18 12:12
+3,DaQuan Ronison,male,black,low,6201 Whitworth Drive,5/21/18 12:13
+4,Nia Harris,female,black,high,10815 Rose Avenue,5/21/18 12:14
+5,Ebony James,female,black,medium,11728 Westbrent Street #204,5/21/18 12:15
+6,Shanice Thomas,female,black,low,2752 Guirado Street,5/21/18 12:16
+7,Caleb Peterson,male,white,high,10417 Louisiana Avenue #303,5/21/18 12:17
+8,Charlie Myers,male,white,medium,11010 Exposition Boulevard,5/21/18 12:18
+9,Ronnie Miller,male,white,low,1741 South Bentley Avenue #3,5/21/18 12:19
+10,Aubrey Murphy,female,white,high,7103 South La Cienega Boulevard,5/21/18 12:20
+11,Erica Cox,female,white,medium,6262 Drexel Avenue #6262,5/21/18 12:21
+12,Leslie Wood,female,white,low,1120 Irolo Street #103,5/21/18 12:22
+13,Jorge Rodriguez,male,hispanic,high,1717 Armacost Avenue #3,5/21/18 12:55
+14,Pedro Sanchez,male,hispanic,medium,1444 South Point View Street #302,5/21/18 13:06
+15,Luis Torres,male,hispanic,low,209 South Detroit Street,5/21/18 13:07
+16,Isabella Lopez,female,hispanic,high,4731 Oakwood Avenue,5/21/18 13:08
+17,Mariana Morales,female,hispanic,medium,850 North Stanley Avenue,5/21/18 13:09
+18,Jimena Ramirez,female,hispanic,low,1639 West 49th Street,5/21/18 13:10
