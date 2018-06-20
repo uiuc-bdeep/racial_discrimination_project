@@ -25,6 +25,13 @@ def find(A, x):
 			return abs((((len(A) - 1) - i) % len(A)) + 1)
 	return -1
 
+def timestampSubParse(d):
+	temp = inquiryParse(d) - timedelta(hours=5)
+	if temp.minute < 10:
+		return "{}/{}/{} {}:0{}".format(temp.month, temp.day, temp.year, temp.hour, temp.minute)
+	else:
+		return "{}/{}/{} {}:{}".format(temp.month, temp.day, temp.year, temp.hour, temp.minute)
+
 if __name__ == '__main__':
 	print("")
 
@@ -92,7 +99,6 @@ if __name__ == '__main__':
 	
 	print("Trulia.csv merged with all timestamp files. \n")
 
-	# MIGHT NEED TO FIX THIS (depends on headers)
 	# merge file with combined responses
 	df = pd.merge(df, pd.read_csv('responses_concatenated.csv'),
 			left_on=['people_name_selection/person_name', 'address_selection/property'],
@@ -105,6 +111,9 @@ if __name__ == '__main__':
 	resp = []
 	for i in range(len(df)):
 		if len(str(df['timestamp inquiry sent out'][i])) > 5 and len(str(df['dateTime_selection/timestamp'][i])) > 5:
+			# decrease 'timestamp inquiry sent out' column by 5 hours
+			df['timestamp inquiry sent out'][i] = timestampSubParse(str(df['timestamp inquiry sent out'][i]))
+			# append to time diff column
 			diffs.append(responseParse(str(df['dateTime_selection/timestamp'][i])) - inquiryParse(str(df['timestamp inquiry sent out'][i])))
 			diffs[-1] = (diffs[-1].days*24*60) + (diffs[-1].seconds/60.0)
 			resp.append(1)
