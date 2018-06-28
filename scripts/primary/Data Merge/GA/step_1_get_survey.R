@@ -9,10 +9,12 @@ json <- fromJSON(URL)
 
 response <- list()
 
-for (i in 1:nrow(json)){
-  if (strtoi(substr(json[i, "url"], 32, 38)) >= 317952){
-    response[[length(response) + 1]] <- fromJSON(json[i,"url"])
-  }
+for (i in 1:nrow(json)) {
+	id <- strtoi(substr(json[i, "url"], 32, 38))
+	# grabs LA inquiries and ignores one csv
+	if ((id >= 317952) && (id != 319742)) {
+		response[[length(response) + 1]] <- fromJSON(json[i,"url"])
+	}
 }
 
 df <- bind_rows(response)

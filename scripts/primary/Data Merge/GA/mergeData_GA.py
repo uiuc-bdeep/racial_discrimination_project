@@ -7,6 +7,8 @@ def inquiryParse(d):
 	tmp2 = tmp[2].split(' ')
 	tmp3 = tmp2[1].split(':')
 	month, day, year, hour, minute = int(tmp[0]), int(tmp[1]), int('20' + tmp2[0]), int(tmp3[0]), int(tmp3[1])
+	if len(str(year)) != 4:
+		year = int(str(year)[2:])
 	return pytz.timezone('America/Chicago').localize(datetime.datetime(year, month, day, hour, minute))
 
 def responseParse(d):
@@ -26,7 +28,7 @@ def find(A, x):
 	return -1
 
 def timestampSubParse(d):
-	temp = inquiryParse(d) - timedelta(hours=5)
+	temp = inquiryParse(d) - datetime.timedelta(hours=5)
 	if temp.minute < 10:
 		return "{}/{}/{} {}:0{}".format(temp.month, temp.day, temp.year, temp.hour, temp.minute)
 	else:
@@ -47,7 +49,7 @@ if __name__ == '__main__':
 	print("Trulia.csv has been written. \n")
 
 	# create individual address timestamp files
-	df = pd.read_csv('atlanta_ga_metro_6_11_18_round_3_timestamp_fin.csv')
+	df = pd.read_csv('atlanta_ga_metro_6_27_18_round_5_timestamp_fin.csv')
 	num_inquiries = int(df.columns.tolist()[-1].split(" ")[-1])
 	df['people_name_selection/person_name'] = df['first name'] + ' ' + df['last name']
 	for i in range(1, num_inquiries + 1):
@@ -56,10 +58,12 @@ if __name__ == '__main__':
 		tempDF = df[cols]
 		tempDF = tempDF.loc[tempDF['address ' + str(i)] != 'NA']
 		tempDF = tempDF.reset_index(drop=True)
+		#tempDF = tempDF.loc[tempDF['timestamp ' + str(i)] != 'NA']
+		#tempDF = tempDF.reset_index(drop=True)
 		if len(tempDF) != 0:
 			tempDF['address ' + str(i)] = tempDF['address ' + str(i)].str.split(',', expand=True)[0].str.split('(', expand=True)[1]
 			for j in range(len(tempDF)):
-				inquiry_dict[(tempDF['people_name_selection/person_name'][j], tempDF['address ' + str(i)][j], tempDF['timestamp ' + str(i)][j])] = tempDF['inquiry order ' + str(i)][j]
+				inquiry_dict[(tempDF['people_name_selection/person_name'][j], tempDF['address ' + str(i)][j])] = tempDF['inquiry order ' + str(i)][j]
 			tempDF.to_csv('individual timestamp files/timestamp' + str(i) + '.csv',
 				columns=['person id', 'people_name_selection/person_name', 'gender', 'racial category',
 					'education level', 'address ' + str(i), 'timestamp ' + str(i)],
@@ -146,7 +150,7 @@ if __name__ == '__main__':
 		if df['response'][i] == 1:
 			order.append(find(D[(df['people_name_selection/person_name'][i], df['Address'][i])], responseParse(df['dateTime_selection/timestamp'][i])))
 			totalResponses.append(len(D[(df['people_name_selection/person_name'][i], df['Address'][i])]))
-			inquiryOrder.append(inquiry_dict[(df['people_name_selection/person_name'][i], df['Address'][i], df['timestamp inquiry sent out'][i])])
+			inquiryOrder.append(inquiry_dict[(df['people_name_selection/person_name'][i], df['Address'][i])])
 		else:
 			order.append('n/a')
 			totalResponses.append(0)
@@ -160,8 +164,8 @@ if __name__ == '__main__':
 
 	# reorder columns
 	cols = df.columns.tolist()
-	cols = [cols[83]] + [cols[82]] + [cols[114]] + [cols[96]] + [cols[85]] + [cols[113]] + [cols[3]] + cols[115:] + [cols[15]] + [cols[62]] + [cols[78]] + cols[:3] + cols[4:15] + cols[16:62] + cols[63:78] + cols[80:82] + [cols[84]] + cols[86:96] + cols[97:113]
+	cols = [cols[83]] + [cols[115]] + [cols[82]] + [cols[81]] + [cols[80]] + [cols[84]] + [cols[79]] + [cols[85]] + [cols[96]] + [cols[114]] + cols[116:] + cols[:3] + cols[4:79] + cols[86:96] + cols[97:114]
 	df = df[cols]
-	
+
 	df.to_csv('GA_Trulia_MERGED_allTimestamps_MERGED_allResponses.csv', index=False)
 	print('GA_Trulia_MERGED_allTimestamps_MERGED_allResponses.csv has been written. \n')
