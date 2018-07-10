@@ -40,16 +40,16 @@ if __name__ == '__main__':
 	inquiry_dict = {}
 
 	# get addresses
-	df = pd.read_csv('Atlanta_trulia_tract_6_7_18_round_3.csv')
+	df = pd.read_csv(os.getcwd() + '/input/Atlanta_trulia_tract_6_7_18_round_3.csv')
 	#df = df.loc[(df['Bedroom_max'] == '3') & (df['Bathroom_max'] == 2.0)]
 	df = df.drop_duplicates(subset = 'Address')
 	df = df.reset_index(drop=True)
-	df.to_csv('Trulia.csv', index=False)
+	df.to_csv(os.getcwd() + '/input/Trulia.csv', index=False)
 
 	print("Trulia.csv has been written. \n")
 
 	# create individual address timestamp files
-	df = pd.read_csv('atlanta_ga_metro_6_27_18_round_5_timestamp_fin.csv')
+	df = pd.read_csv(os.getcwd() + '/input/atlanta_ga_metro_7_2_18_round_6_timestamp_fin.csv')
 	num_inquiries = int(df.columns.tolist()[-1].split(" ")[-1])
 	df['people_name_selection/person_name'] = df['first name'] + ' ' + df['last name']
 	for i in range(1, num_inquiries + 1):
@@ -76,10 +76,10 @@ if __name__ == '__main__':
 
 	# join addresses file with each individual timestamp file
 	files = os.listdir('individual timestamp files')
-	df = pd.read_csv('Trulia.csv')
+	df = pd.read_csv(os.getcwd() + '/input/Trulia.csv')
 	for file in files:
 		if file != ".DS_Store":
-			df2 = pd.read_csv('individual timestamp files/' + file)
+			df2 = pd.read_csv(os.getcwd() + '/individual timestamp files/' + file)
 			df2 = pd.merge(df, df2,
 				left_on=['Address'],
 				right_on=['address_selection/property'],
@@ -96,15 +96,15 @@ if __name__ == '__main__':
 	flag = True
 	for file in files:
 		if flag:
-			df = pd.read_csv('individual joins/' + file)
+			df = pd.read_csv(os.getcwd() + '/individual joins/' + file)
 			flag = False
 		else:
-			df = df.append(pd.read_csv("individual joins/" + file), ignore_index=True)
+			df = df.append(pd.read_csv(os.getcwd() + "/individual joins/" + file), ignore_index=True)
 	
 	print("Trulia.csv merged with all timestamp files. \n")
 
 	# merge file with combined responses
-	df = pd.merge(df, pd.read_csv('responses_concatenated.csv'),
+	df = pd.merge(df, pd.read_csv(os.getcwd() + '/input/responses_concatenated.csv'),
 			left_on=['people_name_selection/person_name', 'address_selection/property'],
 			right_on=['people_name_selection/person_name', 'address_selection/property'],
 			how='left')
@@ -134,10 +134,10 @@ if __name__ == '__main__':
 	D = {}
 	for i in range(len(df)):
 		if df['response'][i] == 1:
-			if not (df['people_name_selection/person_name'][i], df['Address'][i]) in D:
-				D[(df['people_name_selection/person_name'][i], df['Address'][i])] = [responseParse(df['dateTime_selection/timestamp'][i])]
+			if not (df['people_name_selection/person_name'][i], df['address_selection/property'][i]) in D:
+				D[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])] = [responseParse(df['dateTime_selection/timestamp'][i])]
 			else:
-				D[(df['people_name_selection/person_name'][i], df['Address'][i])].append(responseParse(df['dateTime_selection/timestamp'][i]))
+				D[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])].append(responseParse(df['dateTime_selection/timestamp'][i]))
 
 	for key in D:
 		D[key].sort()
@@ -148,9 +148,9 @@ if __name__ == '__main__':
 	inquiryOrder = []
 	for i in range(len(df)):
 		if df['response'][i] == 1:
-			order.append(find(D[(df['people_name_selection/person_name'][i], df['Address'][i])], responseParse(df['dateTime_selection/timestamp'][i])))
-			totalResponses.append(len(D[(df['people_name_selection/person_name'][i], df['Address'][i])]))
-			inquiryOrder.append(inquiry_dict[(df['people_name_selection/person_name'][i], df['Address'][i])])
+			order.append(find(D[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])], responseParse(df['dateTime_selection/timestamp'][i])))
+			totalResponses.append(len(D[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])]))
+			inquiryOrder.append(inquiry_dict[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])])
 		else:
 			order.append('n/a')
 			totalResponses.append(0)
@@ -167,5 +167,5 @@ if __name__ == '__main__':
 	cols = [cols[83]] + [cols[115]] + [cols[82]] + [cols[81]] + [cols[80]] + [cols[84]] + [cols[79]] + [cols[85]] + [cols[96]] + [cols[114]] + cols[116:] + cols[:3] + cols[4:79] + cols[86:96] + cols[97:114]
 	df = df[cols]
 
-	df.to_csv('GA_Trulia_MERGED_allTimestamps_MERGED_allResponses.csv', index=False)
+	df.to_csv(os.getcwd() + '/output/GA_Trulia_MERGED_allTimestamps_MERGED_allResponses.csv', index=False)
 	print('GA_Trulia_MERGED_allTimestamps_MERGED_allResponses.csv has been written. \n')

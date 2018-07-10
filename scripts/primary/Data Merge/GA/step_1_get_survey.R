@@ -1,6 +1,8 @@
 library(jsonlite)
 library(dplyr)
 
+print("Pulling responses from Ona...")
+
 URL <- "https://api.ona.io/api/v1/data?owner=chkim12"
 
 options(timeout=1000000)
@@ -23,4 +25,6 @@ df$`_tags` <- NULL
 df$`_geolocation` <- NULL
 df$`_attachments` <- NULL
 
+setwd("input")
 write.csv(df, "responses_concatenated.csv", row.names = F)
+print("responses_concatenated.csv has been written.")
