@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,650 North Rope Mill Road,6/26/18 23:01
+2,Lamar Williams,male,black,medium,3 Mill Gate Drive,6/26/18 23:02
+3,DaQuan Robinson,male,black,low,230 Charlotte Boulevard,6/26/18 23:03
+4,Nia Harris,female,black,high,440 Jefferson Avenue,6/26/18 23:04
+5,Ebony James,female,black,medium,109 Elcona Drive,6/26/18 23:05
+6,Shanice Thomas,female,black,low,3269 Robin Hood Lane,6/26/18 23:06
+7,Caleb Peterson,male,white,high,1133 Larkspur Drive,6/26/18 23:07
+8,Charlie Myers,male,white,medium,1328 Labelle Street,6/26/18 23:08
+9,Ronnie Miller,male,white,low,166 White Antelope Street,6/26/18 23:09
+10,Aubrey Murphy,female,white,high,212 Harris Oaks,6/26/18 23:10
+11,Erica Cox,female,white,medium,1734 Cardinal Road,6/26/18 23:11
+12,Leslie Wood,female,white,low,300 London Lane,6/26/18 23:12
+13,Jorge Rodriguez,male,hispanic,high,195 Sea Marsh Court,6/26/18 23:13
+14,Pedro Sanchez,male,hispanic,medium,228 Mill Trace,6/26/18 23:14
+15,Luis Torres,male,hispanic,low,6266 Dorsett Shoals Road #297,6/26/18 23:15
+16,Isabella Lopez,female,hispanic,high,289 Monarch Village Way,6/26/18 23:16
+17,Mariana Morales,female,hispanic,medium,231 Cedar Drive,6/26/18 23:17
+18,Jimena Ramirez,female,hispanic,low,60 Dillard Drive Northeast,6/26/18 23:18

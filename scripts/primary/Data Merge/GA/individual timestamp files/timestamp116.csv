@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,3587 Lower Roswell Road,6/21/18 18:16
+2,Lamar Williams,male,black,medium,3263 Harris Road Southwest,6/21/18 18:17
+3,DaQuan Robinson,male,black,low,4368 Clairesbrook Lane,6/21/18 18:18
+4,Nia Harris,female,black,high,2663 Candler Drive Southwest,6/21/18 18:19
+5,Ebony James,female,black,medium,4235 Fawn Lane Southeast,6/21/18 18:20
+6,Shanice Thomas,female,black,low,735 Greenhedge Drive,6/21/18 18:21
+7,Caleb Peterson,male,white,high,3136 Palomino Drive,6/21/18 18:22
+8,Charlie Myers,male,white,medium,3199 Rock Pine Way,6/21/18 18:23
+9,Ronnie Miller,male,white,low,3317 Hickory Bluff Drive,6/21/18 18:24
+10,Aubrey Murphy,female,white,high,2008 Greenhill Pass,6/21/18 18:55
+11,Erica Cox,female,white,medium,4809 Cedar Lake Drive Southeast,6/21/18 18:56
+12,Leslie Wood,female,white,low,604 Overlook Drive,
+13,Jorge Rodriguez,male,hispanic,high,4649 Big Valley Court,6/21/18 18:58
+14,Pedro Sanchez,male,hispanic,medium,3461 Bankhead Highway #38,6/21/18 18:59
+15,Luis Torres,male,hispanic,low,25 Magnolia Avenue,6/21/18 19:00
+16,Isabella Lopez,female,hispanic,high,4207 Village Square Lane,
+17,Mariana Morales,female,hispanic,medium,6359 Bells Ferry Road #160,6/21/18 19:02
+18,Jimena Ramirez,female,hispanic,low,1097 Trestle Drive,6/21/18 19:03

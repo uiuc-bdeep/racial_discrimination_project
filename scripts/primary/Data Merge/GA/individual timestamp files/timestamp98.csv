@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,3016 Springdale Court,6/19/18 19:43
+2,Lamar Williams,male,black,medium,413 Valley View Drive,6/19/18 19:44
+3,DaQuan Robinson,male,black,low,5329 Biffle Downs Road,6/19/18 19:45
+4,Nia Harris,female,black,high,3372 Birchwood Trail,6/19/18 19:46
+5,Ebony James,female,black,medium,2820 Forest Close Drive,6/19/18 19:47
+6,Shanice Thomas,female,black,low,3234 Valley View Street,6/19/18 19:48
+7,Caleb Peterson,male,white,high,3935 Stanton Trail,6/19/18 19:49
+8,Charlie Myers,male,white,medium,3600 Lower Roswell Road,6/19/18 19:50
+9,Ronnie Miller,male,white,low,1280 Liberty Hill Road Northeast,6/19/18 19:51
+10,Aubrey Murphy,female,white,high,2236 Blenheim Court,6/19/18 19:52
+11,Erica Cox,female,white,medium,2865 Colleton Drive,
+12,Leslie Wood,female,white,low,1730 Sierra Drive,6/19/18 19:54
+13,Jorge Rodriguez,male,hispanic,high,5325 Brickleberry Way,6/19/18 19:55
+14,Pedro Sanchez,male,hispanic,medium,1810 Woodberry Court,6/19/18 19:56
+15,Luis Torres,male,hispanic,low,3461 Bankhead Highway #43,6/19/18 19:57
+16,Isabella Lopez,female,hispanic,high,4795 Manor Drive,6/19/18 19:58
+17,Mariana Morales,female,hispanic,medium,442 Jack Atkins Road,6/19/18 19:59
+18,Jimena Ramirez,female,hispanic,low,3317 Hickory Bluff Drive,6/19/18 20:00

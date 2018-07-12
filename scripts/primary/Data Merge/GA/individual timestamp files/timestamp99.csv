@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,132 Johnson Drive,6/19/18 20:01
+2,Lamar Williams,male,black,medium,2293 Paces Ferry Road Southeast,6/19/18 20:02
+3,DaQuan Robinson,male,black,low,111 Dearing Court,6/19/18 20:03
+4,Nia Harris,female,black,high,1145 Bank Street Southeast,6/19/18 20:04
+5,Ebony James,female,black,medium,310 Soft Pine Trail,6/19/18 20:05
+6,Shanice Thomas,female,black,low,2392 Rodgers Drive Southeast,6/19/18 20:06
+7,Caleb Peterson,male,white,high,4806 Davenport Trace Northwest,6/19/18 20:07
+8,Charlie Myers,male,white,medium,3618 Whitfield Way,6/19/18 20:08
+9,Ronnie Miller,male,white,low,4235 Fawn Lane Southeast,6/19/18 20:09
+10,Aubrey Murphy,female,white,high,6359 Bells Ferry Road #121,6/19/18 20:10
+11,Erica Cox,female,white,medium,3185 Lawrenceville Highway,6/19/18 20:11
+12,Leslie Wood,female,white,low,1919 Leacroft Court,6/19/18 20:12
+13,Jorge Rodriguez,male,hispanic,high,3984 Oak Glenn Drive,6/19/18 20:13
+14,Pedro Sanchez,male,hispanic,medium,135 Spring Drive,6/19/18 20:14
+15,Luis Torres,male,hispanic,low,305 Winter Park Lane,6/19/18 20:15
+16,Isabella Lopez,female,hispanic,high,6359 Bells Ferry Road #25,6/19/18 20:16
+17,Mariana Morales,female,hispanic,medium,3510 Commanche Court Southeast,6/19/18 20:17
+18,Jimena Ramirez,female,hispanic,low,3136 Palomino Drive,6/19/18 20:18

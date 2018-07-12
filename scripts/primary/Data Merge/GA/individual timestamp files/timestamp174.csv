@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,5744 Mountain Park Way,6/28/18 18:28
+2,Lamar Williams,male,black,medium,724 Highway 293 #60,6/28/18 18:29
+3,DaQuan Robinson,male,black,low,200 Hillcrest Avenue,6/28/18 18:30
+4,Nia Harris,female,black,high,17060 Wildwood Road,
+5,Ebony James,female,black,medium,576 Woodbridge Drive,6/28/18 18:35
+6,Shanice Thomas,female,black,low,10 Laura Way,6/28/18 18:36
+7,Caleb Peterson,male,white,high,160 Devilla Trace,
+8,Charlie Myers,male,white,medium,134 Highland Circle,6/28/18 18:44
+9,Ronnie Miller,male,white,low,289 Monarch Village Way,6/28/18 18:45
+10,Aubrey Murphy,female,white,high,2532 Dobbs Drive Northwest,6/28/18 18:46
+11,Erica Cox,female,white,medium,105 Sheldon Way,6/28/18 18:47
+12,Leslie Wood,female,white,low,3138 Calumet Circle Northwest,6/28/18 18:48
+13,Jorge Rodriguez,male,hispanic,high,51 Villa Ridge Drive,6/28/18 18:49
+14,Pedro Sanchez,male,hispanic,medium,8572 Glenwoods Drive,
+15,Luis Torres,male,hispanic,low,3035 Reynolds Run,
+16,Isabella Lopez,female,hispanic,high,110 Pemberton Place,6/28/18 18:52
+17,Mariana Morales,female,hispanic,medium,728 South Fairfield Drive,6/28/18 18:53
+18,Jimena Ramirez,female,hispanic,low,444 Jefferson Street Ext #5,

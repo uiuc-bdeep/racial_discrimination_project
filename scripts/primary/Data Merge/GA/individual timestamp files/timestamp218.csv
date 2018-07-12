@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,6297 Queens Court,7/1/18 23:55
+2,Lamar Williams,male,black,medium,2292 Ivy Crest Drive,7/1/18 23:59
+3,DaQuan Robinson,male,black,low,564 Hammond Drive,7/2/18 0:00
+4,Nia Harris,female,black,high,14475 Highway 18 Chalet #104,7/2/18 0:05
+5,Ebony James,female,black,medium,1931 Neely Avenue,7/2/18 0:07
+6,Shanice Thomas,female,black,low,3900 Maple Wood Trail,7/2/18 0:08
+7,Caleb Peterson,male,white,high,5407 Pine Valley Drive,7/2/18 0:09
+8,Charlie Myers,male,white,medium,4621 Whispering Pines Drive,7/2/18 0:10
+9,Ronnie Miller,male,white,low,508 Martin Luther King Drive,7/2/18 0:11
+10,Aubrey Murphy,female,white,high,8480 Oakley Circle,7/2/18 0:12
+11,Erica Cox,female,white,medium,406 Garden Court #406,7/2/18 0:15
+12,Leslie Wood,female,white,low,283 Pinewood Trail #A,7/2/18 0:16
+13,Jorge Rodriguez,male,hispanic,high,2860 Oxford Road,7/2/18 0:17
+14,Pedro Sanchez,male,hispanic,medium,4725 Kitty Hawk Place,7/2/18 0:18
+15,Luis Torres,male,hispanic,low,5787 Rock Road,7/2/18 0:20
+16,Isabella Lopez,female,hispanic,high,4047 Ashford Dunwoody Road Northeast,7/2/18 0:21
+17,Mariana Morales,female,hispanic,medium,4539 Seminole Drive,7/2/18 0:24
+18,Jimena Ramirez,female,hispanic,low,6305 Cherry Tree Lane,7/2/18 0:25

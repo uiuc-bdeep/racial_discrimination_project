@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,4135 Bonneville Drive,6/11/18 23:02
+2,Lamar Williams,male,black,medium,266 Rockbridge Road Northwest,6/11/18 23:03
+3,DaQuan Robinson,male,black,low,3896 Pine Village Place,6/11/18 23:04
+4,Nia Harris,female,black,high,2216 Clanton Terrace,
+5,Ebony James,female,black,medium,2819 Wynhaven Oaks Way,
+6,Shanice Thomas,female,black,low,2434 Hillside Avenue,6/11/18 23:07
+7,Caleb Peterson,male,white,high,4272 Bradley Drive,
+8,Charlie Myers,male,white,medium,3583 Bedford Court,
+9,Ronnie Miller,male,white,low,505 Summerhill Place,6/11/18 23:10
+10,Aubrey Murphy,female,white,high,3790 Ridgefair Drive,6/11/18 23:11
+11,Erica Cox,female,white,medium,5877 Bobbin Lane,6/11/18 23:12
+12,Leslie Wood,female,white,low,4255 Smoke Creek Parkway #A139,6/11/18 23:13
+13,Jorge Rodriguez,male,hispanic,high,2638 Cove Way,6/11/18 23:14
+14,Pedro Sanchez,male,hispanic,medium,4070 Bowie Court,6/11/18 23:15
+15,Luis Torres,male,hispanic,low,3818 Humber Court,6/11/18 23:16
+16,Isabella Lopez,female,hispanic,high,1267 Hickory Drive Southwest,
+17,Mariana Morales,female,hispanic,medium,3457 Springlake Drive,6/11/18 23:18
+18,Jimena Ramirez,female,hispanic,low,1860 Suwanee Ridge Court,6/11/18 23:19

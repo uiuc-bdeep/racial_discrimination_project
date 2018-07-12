@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1689 Viceroy Way,
+2,Lamar Williams,male,black,medium,7290 Oakley Court,7/1/18 22:29
+3,DaQuan Robinson,male,black,low,2299 Plantation Drive,7/1/18 22:30
+4,Nia Harris,female,black,high,1130 Lynmoor Drive Northeast,7/1/18 22:31
+5,Ebony James,female,black,medium,1927 Woods Court,7/1/18 22:32
+6,Shanice Thomas,female,black,low,420 Winston Manor Drive,7/1/18 22:33
+7,Caleb Peterson,male,white,high,6883 Grand Hickory Drive,7/1/18 22:34
+8,Charlie Myers,male,white,medium,235 Danbury Lane Northwest,7/1/18 22:35
+9,Ronnie Miller,male,white,low,2668 Wynter Snow Run,
+10,Aubrey Murphy,female,white,high,204 Church Street,7/1/18 22:37
+11,Erica Cox,female,white,medium,3400 Flat Shoals Road,7/1/18 22:38
+12,Leslie Wood,female,white,low,994 Poplar Street,7/1/18 22:40
+13,Jorge Rodriguez,male,hispanic,high,2010 Rachael Drive,7/1/18 22:43
+14,Pedro Sanchez,male,hispanic,medium,5559 Princeton Oaks Lane,7/1/18 22:45
+15,Luis Torres,male,hispanic,low,4118 Clairmont Road,7/1/18 22:46
+16,Isabella Lopez,female,hispanic,high,2053 Anchor Way,7/1/18 22:47
+17,Mariana Morales,female,hispanic,medium,1115 Lynmoor Drive Northeast,7/1/18 22:50
+18,Jimena Ramirez,female,hispanic,low,2580 Suncrest Court,

@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,600 Waynes Court Southeast,6/9/18 18:28
+2,Lamar Williams,male,black,medium,1331 Arkwright Place Southeast,6/9/18 18:29
+3,DaQuan Robinson,male,black,low,3935 Admiral Drive,6/9/18 18:30
+4,Nia Harris,female,black,high,1850 Cotillion Drive #2410,6/9/18 18:31
+5,Ebony James,female,black,medium,639 Blake Avenue SE,6/9/18 18:32
+6,Shanice Thomas,female,black,low,430 Lynnhaven Drive Southwest,6/9/18 18:33
+7,Caleb Peterson,male,white,high,6010 Mallory Road,6/9/18 18:34
+8,Charlie Myers,male,white,medium,5155 Cascade Hills Circle Southwest,
+9,Ronnie Miller,male,white,low,2780 Hidden Forest Court Southeast,6/9/18 18:36
+10,Aubrey Murphy,female,white,high,2138 Arlington Avenue NE,6/9/18 18:37
+11,Erica Cox,female,white,medium,964 Allene Avenue SW,6/9/18 18:38
+12,Leslie Wood,female,white,low,1724 Alvarado Terrace Southwest,6/9/18 18:39
+13,Jorge Rodriguez,male,hispanic,high,786 Clifton Heights Lane Northeast,6/9/18 18:40
+14,Pedro Sanchez,male,hispanic,medium,1168 Biltmore Drive Northeast,6/9/18 18:41
+15,Luis Torres,male,hispanic,low,1490 Kenwood Avenue NW,6/9/18 18:42
+16,Isabella Lopez,female,hispanic,high,27 Northwood Avenue NE,6/9/18 18:43
+17,Mariana Morales,female,hispanic,medium,1460 Beatie Avenue SW,6/9/18 18:44
+18,Jimena Ramirez,female,hispanic,low,510 Connally Street Southeast,6/9/18 19:14

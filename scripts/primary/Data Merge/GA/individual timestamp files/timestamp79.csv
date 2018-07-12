@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,611 Paden Mill Trail,6/13/18 13:45
+2,Lamar Williams,male,black,medium,2071 Blackberry Lane,6/13/18 13:46
+3,DaQuan Robinson,male,black,low,1700 Pilgrim Road,6/13/18 13:47
+4,Nia Harris,female,black,high,4255 Smoke Creek Parkway #C014,6/13/18 13:48
+5,Ebony James,female,black,medium,1792 Austin Drive,6/13/18 13:49
+6,Shanice Thomas,female,black,low,3458 Lark Lane,6/13/18 13:50
+7,Caleb Peterson,male,white,high,1903 Old Concord Drive Southeast,6/13/18 13:51
+8,Charlie Myers,male,white,medium,1467 Thompson Place,6/13/18 13:52
+9,Ronnie Miller,male,white,low,2457 Stancrest Lane,6/13/18 13:53
+10,Aubrey Murphy,female,white,high,994 Hazel Court Southwest #994,6/13/18 13:54
+11,Erica Cox,female,white,medium,30 Kentshire Place,
+12,Leslie Wood,female,white,low,4103 Par 3 Way,
+13,Jorge Rodriguez,male,hispanic,high,2231 Ousley Court,6/13/18 13:57
+14,Pedro Sanchez,male,hispanic,medium,2225 Pair Road Southwest,6/13/18 13:58
+15,Luis Torres,male,hispanic,low,3458 Winston Mason Drive,6/13/18 13:59
+16,Isabella Lopez,female,hispanic,high,1280 Waterwood Drive,6/13/18 14:00
+17,Mariana Morales,female,hispanic,medium,7448 Edenberry Way,6/13/18 14:01
+18,Jimena Ramirez,female,hispanic,low,1450 Timber Walk Drive,6/13/18 14:02

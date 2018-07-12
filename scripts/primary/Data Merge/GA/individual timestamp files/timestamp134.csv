@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,6780 Mableton Parkway Southeast #33,
+2,Lamar Williams,male,black,medium,742 Stone Hill Drive,6/22/18 22:24
+3,DaQuan Robinson,male,black,low,176 Ilex Drive,6/22/18 22:25
+4,Nia Harris,female,black,high,1400 Bailey Court Southwest,6/22/18 22:26
+5,Ebony James,female,black,medium,300 Spring Drive,6/22/18 22:27
+6,Shanice Thomas,female,black,low,19 Case Street,6/22/18 22:28
+7,Caleb Peterson,male,white,high,42 Arrowhead Drive,6/22/18 22:29
+8,Charlie Myers,male,white,medium,448 Susan Creek Drive,6/22/18 22:30
+9,Ronnie Miller,male,white,low,220 Charity Drive,6/22/18 22:31
+10,Aubrey Murphy,female,white,high,1097 Trestle Drive,6/22/18 22:32
+11,Erica Cox,female,white,medium,3267 Highpoint Court #3,6/22/18 22:33
+12,Leslie Wood,female,white,low,7631 Dallas Highway #D018,6/22/18 22:34
+13,Jorge Rodriguez,male,hispanic,high,230 Brittany Court #230,6/22/18 22:35
+14,Pedro Sanchez,male,hispanic,medium,6359 Bells Ferry Road #605,6/22/18 22:36
+15,Luis Torres,male,hispanic,low,1045 Ivy Brooke Drive,6/22/18 22:37
+16,Isabella Lopez,female,hispanic,high,1730 Sierra Drive,6/22/18 22:38
+17,Mariana Morales,female,hispanic,medium,115 Creekmont Court,6/22/18 22:39
+18,Jimena Ramirez,female,hispanic,low,226 Skyland Drive,6/22/18 22:40

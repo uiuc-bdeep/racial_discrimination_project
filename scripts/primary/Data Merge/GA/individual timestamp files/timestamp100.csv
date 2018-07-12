@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,133 Iron Bound Trail,6/19/18 20:19
+2,Lamar Williams,male,black,medium,5144 Legendary Lane,6/19/18 20:20
+3,DaQuan Robinson,male,black,low,1730 Sierra Drive #1730,6/19/18 20:21
+4,Nia Harris,female,black,high,133 Danville Trail,6/19/18 20:22
+5,Ebony James,female,black,medium,2606 Hedgerow Drive,6/19/18 20:23
+6,Shanice Thomas,female,black,low,4120 Woodcrest Lane,6/19/18 20:24
+7,Caleb Peterson,male,white,high,5193 Alder Lane,6/19/18 21:56
+8,Charlie Myers,male,white,medium,554 San Pablo Drive,
+9,Ronnie Miller,male,white,low,4805 West Village Way SE,
+10,Aubrey Murphy,female,white,high,790 Virginia Court Southeast,6/20/18 14:15
+11,Erica Cox,female,white,medium,1851 Twin Branch Drive,
+12,Leslie Wood,female,white,low,1021 Whispering Woods Drive,6/20/18 14:17
+13,Jorge Rodriguez,male,hispanic,high,130 Montrose Terrace,6/20/18 14:18
+14,Pedro Sanchez,male,hispanic,medium,482 Palm Street,6/20/18 14:19
+15,Luis Torres,male,hispanic,low,2008 Greenhill Pass,6/20/18 14:20
+16,Isabella Lopez,female,hispanic,high,1774 Ascot Run Northwest,
+17,Mariana Morales,female,hispanic,medium,99 Homer Cochran Road,6/20/18 14:22
+18,Jimena Ramirez,female,hispanic,low,1130 Stone Brook Lane,6/20/18 14:23

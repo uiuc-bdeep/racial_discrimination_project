@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,130 Little Brook Drive,6/29/18 18:36
+2,Lamar Williams,male,black,medium,6266 Dorsett Shoals Road #297,6/29/18 18:37
+3,DaQuan Robinson,male,black,low,1009 Rich Davis Road,6/29/18 18:38
+4,Nia Harris,female,black,high,177 Cotton Drive,6/29/18 18:39
+5,Ebony James,female,black,medium,7595 Volion Parkway,6/29/18 18:40
+6,Shanice Thomas,female,black,low,10875 Southshore Court,6/29/18 18:41
+7,Caleb Peterson,male,white,high,7 Saddlebrook Chase,6/29/18 18:42
+8,Charlie Myers,male,white,medium,200 Vienna Cove,6/29/18 18:43
+9,Ronnie Miller,male,white,low,7006 Knollwood Drive,6/29/18 18:44
+10,Aubrey Murphy,female,white,high,190 Malibu Drive,6/29/18 18:45
+11,Erica Cox,female,white,medium,120 West Lane,6/29/18 18:46
+12,Leslie Wood,female,white,low,135 Firethorn Lane,6/29/18 18:47
+13,Jorge Rodriguez,male,hispanic,high,400 Cedar Lane,6/29/18 18:48
+14,Pedro Sanchez,male,hispanic,medium,140 Cloverwood Drive,6/29/18 18:49
+15,Luis Torres,male,hispanic,low,925 Tope Road,6/29/18 18:50
+16,Isabella Lopez,female,hispanic,high,109 Silver Fir Court,
+17,Mariana Morales,female,hispanic,medium,55 Titleist Court,6/29/18 18:52
+18,Jimena Ramirez,female,hispanic,low,3572 Vicki Lane,6/29/18 18:53

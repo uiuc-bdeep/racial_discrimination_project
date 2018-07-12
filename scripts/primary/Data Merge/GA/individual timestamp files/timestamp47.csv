@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,140 Kay Circle,6/11/18 16:40
+2,Lamar Williams,male,black,medium,2995 Cordite Loop,6/11/18 16:41
+3,DaQuan Robinson,male,black,low,3940 Ferncliff Road,6/11/18 16:42
+4,Nia Harris,female,black,high,3575 Oakvale Road #1106,6/11/18 16:43
+5,Ebony James,female,black,medium,1467 Thompson Place,6/11/18 16:44
+6,Shanice Thomas,female,black,low,2600 Golfview Terrace Southeast #A,6/11/18 16:45
+7,Caleb Peterson,male,white,high,2991 Serenade Court,6/11/18 16:46
+8,Charlie Myers,male,white,medium,3470 Orchard Circle,6/11/18 16:47
+9,Ronnie Miller,male,white,low,669 Kilkenny Circle,6/11/18 16:48
+10,Aubrey Murphy,female,white,high,4322 Glenwood Parkway,6/11/18 16:49
+11,Erica Cox,female,white,medium,5005 Timberbridge Lane,6/11/18 16:50
+12,Leslie Wood,female,white,low,280 Mountainview Drive,6/11/18 16:51
+13,Jorge Rodriguez,male,hispanic,high,160 Wills Lane,6/11/18 16:52
+14,Pedro Sanchez,male,hispanic,medium,885 Stonemill Mnr,6/11/18 16:53
+15,Luis Torres,male,hispanic,low,754 Shore Drive,
+16,Isabella Lopez,female,hispanic,high,3128 Columbia Woods Drive,6/11/18 16:55
+17,Mariana Morales,female,hispanic,medium,400 South Preston Trail,6/11/18 16:57
+18,Jimena Ramirez,female,hispanic,low,1708 Danrich Drive,6/11/18 16:58

@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,51 Villa Ridge Drive,6/27/18 3:46
+2,Lamar Williams,male,black,medium,401 Pilgrim Court,6/27/18 3:47
+3,DaQuan Robinson,male,black,low,628 West Mnr,6/27/18 3:48
+4,Nia Harris,female,black,high,3571 Stratford Place,6/27/18 3:49
+5,Ebony James,female,black,medium,75 Beaver Run Road,6/27/18 3:50
+6,Shanice Thomas,female,black,low,135 Greenview Circle,6/27/18 3:51
+7,Caleb Peterson,male,white,high,275 West Lane,6/27/18 3:52
+8,Charlie Myers,male,white,medium,2112 Highway 34 East,6/27/18 3:53
+9,Ronnie Miller,male,white,low,709 Douglass Circle,6/27/18 3:54
+10,Aubrey Murphy,female,white,high,260 Shelburn Drive,6/27/18 6:11
+11,Erica Cox,female,white,medium,30 Sawgrass Manor Drive,6/27/18 14:20
+12,Leslie Wood,female,white,low,6059 Arden Court,6/27/18 14:21
+13,Jorge Rodriguez,male,hispanic,high,201 Hillandale Drive,6/27/18 14:22
+14,Pedro Sanchez,male,hispanic,medium,15 Abby Court,6/27/18 14:23
+15,Luis Torres,male,hispanic,low,100 Wesley Mill Drive,
+16,Isabella Lopez,female,hispanic,high,2921 Maple Road Southeast,6/27/18 14:25
+17,Mariana Morales,female,hispanic,medium,265 Arbor Way,6/27/18 14:26
+18,Jimena Ramirez,female,hispanic,low,6303 Mount Pisgah Lane,6/27/18 14:27

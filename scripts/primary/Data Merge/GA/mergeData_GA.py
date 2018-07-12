@@ -40,7 +40,7 @@ if __name__ == '__main__':
 	inquiry_dict = {}
 
 	# get addresses
-	df = pd.read_csv(os.getcwd() + '/input/Atlanta_trulia_tract_6_7_18_round_3.csv')
+	df = pd.read_csv(os.getcwd() + '/input/atlanta_ga_7_10_18_round_2_6_census.csv')
 	#df = df.loc[(df['Bedroom_max'] == '3') & (df['Bathroom_max'] == 2.0)]
 	df = df.drop_duplicates(subset = 'Address')
 	df = df.reset_index(drop=True)
@@ -58,8 +58,6 @@ if __name__ == '__main__':
 		tempDF = df[cols]
 		tempDF = tempDF.loc[tempDF['address ' + str(i)] != 'NA']
 		tempDF = tempDF.reset_index(drop=True)
-		#tempDF = tempDF.loc[tempDF['timestamp ' + str(i)] != 'NA']
-		#tempDF = tempDF.reset_index(drop=True)
 		if len(tempDF) != 0:
 			tempDF['address ' + str(i)] = tempDF['address ' + str(i)].str.split(',', expand=True)[0].str.split('(', expand=True)[1]
 			for j in range(len(tempDF)):
@@ -129,8 +127,6 @@ if __name__ == '__main__':
 	
 	print("'timeDiff' and 'response' columns have been made. \n")
 
-	#df = df.drop_duplicates()
-	
 	D = {}
 	for i in range(len(df)):
 		if df['response'][i] == 1:
@@ -147,11 +143,13 @@ if __name__ == '__main__':
 	totalResponses = []
 	inquiryOrder = []
 	for i in range(len(df)):
+		# for matches
 		if df['response'][i] == 1:
 			order.append(find(D[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])], responseParse(df['dateTime_selection/timestamp'][i])))
 			totalResponses.append(len(D[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])]))
 			inquiryOrder.append(inquiry_dict[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])])
 		else:
+			# for non-matches
 			order.append('n/a')
 			totalResponses.append(0)
 			inquiryOrder.append('n/a')
@@ -167,5 +165,5 @@ if __name__ == '__main__':
 	cols = [cols[83]] + [cols[115]] + [cols[82]] + [cols[81]] + [cols[80]] + [cols[84]] + [cols[79]] + [cols[85]] + [cols[96]] + [cols[114]] + cols[116:] + cols[:3] + cols[4:79] + cols[86:96] + cols[97:114]
 	df = df[cols]
 
-	df.to_csv(os.getcwd() + '/output/GA_Trulia_MERGED_allTimestamps_MERGED_allResponses.csv', index=False)
-	print('GA_Trulia_MERGED_allTimestamps_MERGED_allResponses.csv has been written. \n')
+	df.to_csv(os.getcwd() + '/output/atlanta_ga_final.csv', index=False)
+	print('atlanta_ga_final.csv has been written. \n')

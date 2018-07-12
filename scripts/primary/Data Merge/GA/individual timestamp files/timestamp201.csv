@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,8963 Habersham Drive,
+2,Lamar Williams,male,black,medium,3411 Richardson Road,
+3,DaQuan Robinson,male,black,low,209 Brown Branch Road,6/30/18 4:24
+4,Nia Harris,female,black,high,45 Links Court,6/30/18 4:25
+5,Ebony James,female,black,medium,6269 Valdez Drive,
+6,Shanice Thomas,female,black,low,231 Cedar Drive,6/30/18 4:27
+7,Caleb Peterson,male,white,high,413 Rosemont Court,
+8,Charlie Myers,male,white,medium,223 Chateau Drive,6/30/18 4:29
+9,Ronnie Miller,male,white,low,3571 Stratford Place,6/30/18 4:30
+10,Aubrey Murphy,female,white,high,210 King Arthur Drive,6/30/18 4:31
+11,Erica Cox,female,white,medium,3035 Reynolds Run,
+12,Leslie Wood,female,white,low,180 Water View Drive,6/30/18 4:33
+13,Jorge Rodriguez,male,hispanic,high,350 West Lane,6/30/18 4:34
+14,Pedro Sanchez,male,hispanic,medium,100 Winston Way,6/30/18 4:35
+15,Luis Torres,male,hispanic,low,177 Bentley Parkway,6/30/18 4:36
+16,Isabella Lopez,female,hispanic,high,1133 Larkspur Drive,
+17,Mariana Morales,female,hispanic,medium,1093 Dunedin Trail,6/30/18 4:38
+18,Jimena Ramirez,female,hispanic,low,1900 Turner McCall Boulevard Southwest,6/30/18 4:39

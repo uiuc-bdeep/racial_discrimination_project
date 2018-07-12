@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,403 Ethridge Drive Northwest,6/28/18 19:24
+2,Lamar Williams,male,black,medium,100 Winston Way,6/28/18 19:25
+3,DaQuan Robinson,male,black,low,216 Overlook Drive,6/28/18 19:26
+4,Nia Harris,female,black,high,1406 North Hampton Drive,6/28/18 19:27
+5,Ebony James,female,black,medium,177 Bentley Parkway,6/28/18 19:28
+6,Shanice Thomas,female,black,low,3136 Mobley Bridge Road #I-G,6/28/18 19:29
+7,Caleb Peterson,male,white,high,1266 Summerstone Trace,
+8,Charlie Myers,male,white,medium,240 Carriage Circle,
+9,Ronnie Miller,male,white,low,115 River Birch Trace,6/28/18 19:33
+10,Aubrey Murphy,female,white,high,1914 Lake Chase Lane,
+11,Erica Cox,female,white,medium,3107 Waterford Court,
+12,Leslie Wood,female,white,low,209 Brown Branch Road,6/28/18 19:36
+13,Jorge Rodriguez,male,hispanic,high,628 West Mnr,6/28/18 19:37
+14,Pedro Sanchez,male,hispanic,medium,90 Millstream Drive,6/28/18 19:38
+15,Luis Torres,male,hispanic,low,143 Riva Ridge Lane,6/28/18 19:39
+16,Isabella Lopez,female,hispanic,high,120 Morning Creek Court,6/28/18 19:40
+17,Mariana Morales,female,hispanic,medium,109 Elcona Drive,6/28/18 19:41
+18,Jimena Ramirez,female,hispanic,low,190 Malibu Drive,6/28/18 19:42

@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,237 Red Oak Court,6/29/18 18:54
+2,Lamar Williams,male,black,medium,3493 Sharpsburg McCullum Road,
+3,DaQuan Robinson,male,black,low,15 Abby Court,6/29/18 19:26
+4,Nia Harris,female,black,high,449 Cathedral Drive,6/29/18 19:27
+5,Ebony James,female,black,medium,106 Halifax Drive,
+6,Shanice Thomas,female,black,low,25 Cloud Forest Court,6/29/18 19:29
+7,Caleb Peterson,male,white,high,124 Springwood Valley Road,6/29/18 19:30
+8,Charlie Myers,male,white,medium,103 Willhaven Drive,6/29/18 19:31
+9,Ronnie Miller,male,white,low,24 Cool Water Court,6/29/18 19:32
+10,Aubrey Murphy,female,white,high,111 Park Forest Drive Northwest,6/29/18 19:33
+11,Erica Cox,female,white,medium,293 Eagle Way,
+12,Leslie Wood,female,white,low,37 Waterloo Court,6/29/18 19:35
+13,Jorge Rodriguez,male,hispanic,high,3765 Blairs Valley Way,6/29/18 19:36
+14,Pedro Sanchez,male,hispanic,medium,182 Peachtree Drive,
+15,Luis Torres,male,hispanic,low,185 Stillwood Drive,6/29/18 19:38
+16,Isabella Lopez,female,hispanic,high,75 Valley Drive,6/29/18 19:39
+17,Mariana Morales,female,hispanic,medium,1406 North Hampton Drive,6/29/18 19:40
+18,Jimena Ramirez,female,hispanic,low,1378 Briar Ridge Court,6/29/18 19:41

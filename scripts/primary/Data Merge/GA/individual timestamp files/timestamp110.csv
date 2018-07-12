@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,4030 Meadow Way,6/20/18 19:46
+2,Lamar Williams,male,black,medium,5126 Dekalb Way,6/20/18 19:47
+3,DaQuan Robinson,male,black,low,7631 Dallas Highway #A003,6/20/18 19:48
+4,Nia Harris,female,black,high,4310 Brandy Ann Court,6/20/18 19:49
+5,Ebony James,female,black,medium,1820 Creat Trail Southeast,
+6,Shanice Thomas,female,black,low,3267 Highpoint Court #3,6/20/18 19:51
+7,Caleb Peterson,male,white,high,6780 Mableton Parkway Southeast #51,6/20/18 19:52
+8,Charlie Myers,male,white,medium,4865 Muirwood Drive,6/20/18 19:53
+9,Ronnie Miller,male,white,low,452 Elaine Drive Southwest,6/20/18 19:54
+10,Aubrey Murphy,female,white,high,23 Landmark Court Southwest,6/20/18 19:55
+11,Erica Cox,female,white,medium,2923 Old Dallas Road Southwest,6/20/18 19:56
+12,Leslie Wood,female,white,low,561 Ridge Avenue,6/20/18 19:57
+13,Jorge Rodriguez,male,hispanic,high,460 Holly Lane,6/20/18 19:58
+14,Pedro Sanchez,male,hispanic,medium,4732 White Oak Path,6/20/18 19:59
+15,Luis Torres,male,hispanic,low,3209 Larkspur Circle,6/20/18 20:00
+16,Isabella Lopez,female,hispanic,high,378 Kenilworth Circle,
+17,Mariana Morales,female,hispanic,medium,2858 Forest Wood Drive Northeast,6/20/18 20:02
+18,Jimena Ramirez,female,hispanic,low,716 Boone Court,6/20/18 20:03

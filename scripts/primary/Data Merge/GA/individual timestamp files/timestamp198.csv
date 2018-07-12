@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,160 Spring Ridge Drive,
+2,Lamar Williams,male,black,medium,404 Streamview Lane,6/30/18 3:29
+3,DaQuan Robinson,male,black,low,6303 Mount Pisgah Lane,6/30/18 3:30
+4,Nia Harris,female,black,high,540 Brentwood Boulevard,6/30/18 3:31
+5,Ebony James,female,black,medium,125 Creekview Drive,6/30/18 3:32
+6,Shanice Thomas,female,black,low,303 Tamarac Trail,
+7,Caleb Peterson,male,white,high,240 Saddlebrook Drive,6/30/18 3:34
+8,Charlie Myers,male,white,medium,322 Ashton Place,6/30/18 3:35
+9,Ronnie Miller,male,white,low,100 West Bridge Court,
+10,Aubrey Murphy,female,white,high,453 Bald Eagle Way,6/30/18 3:37
+11,Erica Cox,female,white,medium,51 Villa Ridge Drive,6/30/18 3:38
+12,Leslie Wood,female,white,low,1393 North Hampton Drive,
+13,Jorge Rodriguez,male,hispanic,high,6059 Arden Court,6/30/18 3:40
+14,Pedro Sanchez,male,hispanic,medium,437 Rosewood Circle,6/30/18 3:41
+15,Luis Torres,male,hispanic,low,1442 North Hampton Drive,6/30/18 3:42
+16,Isabella Lopez,female,hispanic,high,500 Cody Lane,6/30/18 3:43
+17,Mariana Morales,female,hispanic,medium,176 Stroud Road,
+18,Jimena Ramirez,female,hispanic,low,25 Teal Court,6/30/18 3:45

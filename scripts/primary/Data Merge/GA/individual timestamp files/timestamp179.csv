@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,4667 Cresant Lane,6/28/18 20:58
+2,Lamar Williams,male,black,medium,421 Riverlake Court,
+3,DaQuan Robinson,male,black,low,84 Lakeshore Parkway,6/28/18 21:00
+4,Nia Harris,female,black,high,4074 Yeager Road,
+5,Ebony James,female,black,medium,420 Freestone Drive,6/28/18 21:02
+6,Shanice Thomas,female,black,low,500 Cody Lane,6/28/18 21:03
+7,Caleb Peterson,male,white,high,4645 Skyward Pass,6/28/18 21:04
+8,Charlie Myers,male,white,medium,1745 Fielding Way,6/28/18 21:05
+9,Ronnie Miller,male,white,low,6266 Dorsett Shoals Road #297,6/28/18 21:06
+10,Aubrey Murphy,female,white,high,130 Little Brook Drive,6/28/18 21:07
+11,Erica Cox,female,white,medium,6311 South Skyline Drive,6/28/18 21:08
+12,Leslie Wood,female,white,low,8046 Northcrest Drive,
+13,Jorge Rodriguez,male,hispanic,high,601 Henni Circle,6/28/18 21:10
+14,Pedro Sanchez,male,hispanic,medium,598 Southern Trace Drive,6/28/18 21:11
+15,Luis Torres,male,hispanic,low,167 Morningside Drive,6/28/18 21:12
+16,Isabella Lopez,female,hispanic,high,380 Pleasant Valley Road,6/28/18 21:13
+17,Mariana Morales,female,hispanic,medium,650 North Rope Mill Road,6/28/18 21:14
+18,Jimena Ramirez,female,hispanic,low,111 Park Forest Drive Northwest,6/28/18 21:15

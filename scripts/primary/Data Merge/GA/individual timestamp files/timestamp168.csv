@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1093 Dunedin Trail,6/28/18 15:14
+2,Lamar Williams,male,black,medium,116 Ringer Xrds,6/28/18 15:15
+3,DaQuan Robinson,male,black,low,106 Oakwood Circle,6/28/18 15:16
+4,Nia Harris,female,black,high,3765 Blairs Valley Way,6/28/18 15:17
+5,Ebony James,female,black,medium,6812 Oakland Drive,
+6,Shanice Thomas,female,black,low,313 East 15th Street SW,
+7,Caleb Peterson,male,white,high,7210 Little Fawn Parkway,
+8,Charlie Myers,male,white,medium,290 Malibu Drive,6/28/18 15:21
+9,Ronnie Miller,male,white,low,125 Creekview Drive,6/28/18 15:22
+10,Aubrey Murphy,female,white,high,724 Highway 293 #58,6/28/18 15:23
+11,Erica Cox,female,white,medium,8963 Habersham Drive,
+12,Leslie Wood,female,white,low,920 River Rock Drive,6/28/18 15:25
+13,Jorge Rodriguez,male,hispanic,high,36 Stonehaven Drive,6/28/18 15:26
+14,Pedro Sanchez,male,hispanic,medium,325 Summer Place,
+15,Luis Torres,male,hispanic,low,111 Bradford Court,6/28/18 15:31
+16,Isabella Lopez,female,hispanic,high,707 Mossy Oak Drive,6/28/18 15:32
+17,Mariana Morales,female,hispanic,medium,37 Waterloo Court,6/28/18 15:34
+18,Jimena Ramirez,female,hispanic,low,207 Misty Ridge Trail,

@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,448 Susan Creek Drive,6/20/18 14:42
+2,Lamar Williams,male,black,medium,25 Magnolia Avenue,6/20/18 14:43
+3,DaQuan Robinson,male,black,low,4465 High Gate Drive Northwest,
+4,Nia Harris,female,black,high,4682 Big Valley Court,6/20/18 15:44
+5,Ebony James,female,black,medium,31 Landing Lane,6/20/18 15:45
+6,Shanice Thomas,female,black,low,207 Towering Peaks,6/20/18 15:46
+7,Caleb Peterson,male,white,high,3835 Mason Drive,6/20/18 15:47
+8,Charlie Myers,male,white,medium,735 Greenhedge Drive,6/20/18 15:48
+9,Ronnie Miller,male,white,low,37 Hamil Court Northwest,6/20/18 15:49
+10,Aubrey Murphy,female,white,high,2663 Candler Drive Southwest #95,6/20/18 15:50
+11,Erica Cox,female,white,medium,691 Oak Glen Drive,6/20/18 15:51
+12,Leslie Wood,female,white,low,510 Sheringham Court,6/20/18 15:52
+13,Jorge Rodriguez,male,hispanic,high,3036 Nappa Trail,6/20/18 15:53
+14,Pedro Sanchez,male,hispanic,medium,6359 Bells Ferry Road #193,6/20/18 15:54
+15,Luis Torres,male,hispanic,low,1582 Kings Ridge Drive,6/20/18 15:55
+16,Isabella Lopez,female,hispanic,high,2553 Mohawk Trail,6/20/18 15:56
+17,Mariana Morales,female,hispanic,medium,3098 Old Canton Court,6/20/18 15:57
+18,Jimena Ramirez,female,hispanic,low,1133 Lightfoot Drive,6/20/18 15:58

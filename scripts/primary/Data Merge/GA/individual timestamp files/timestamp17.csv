@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1220 Mecaslin Street Northwest,6/8/18 18:02
+2,Lamar Williams,male,black,medium,2400 Parkland Drive Northeast,6/8/18 18:03
+3,DaQuan Robinson,male,black,low,7700 Colquitt Road,6/8/18 18:04
+4,Nia Harris,female,black,high,77 East Andrews Drive NW,6/8/18 18:05
+5,Ebony James,female,black,medium,1155 Lavista Road Northeast,6/8/18 18:06
+6,Shanice Thomas,female,black,low,47 Spalding Trail,6/8/18 18:07
+7,Caleb Peterson,male,white,high,500 Briarvista Way Northeast,6/8/18 18:09
+8,Charlie Myers,male,white,medium,3505 Windy Ridge Lane Southeast,6/8/18 18:10
+9,Ronnie Miller,male,white,low,3378 Greenbriar Parkway Southwest,6/8/18 18:11
+10,Aubrey Murphy,female,white,high,5750 Buffington Road,6/8/18 18:12
+11,Erica Cox,female,white,medium,1000 Peachtree Park Drive Northeast,6/8/18 18:13
+12,Leslie Wood,female,white,low,222 14th Street Northeast,6/8/18 18:14
+13,Jorge Rodriguez,male,hispanic,high,855 Emory Point Drive,6/8/18 18:15
+14,Pedro Sanchez,male,hispanic,medium,1185 Collier Road Northwest,6/8/18 18:16
+15,Luis Torres,male,hispanic,low,1000 Ashwood Parkway,6/8/18 18:19
+16,Isabella Lopez,female,hispanic,high,3205 Cumberland Boulevard,6/8/18 18:20
+17,Mariana Morales,female,hispanic,medium,2000 Asbury Square,6/8/18 18:21
+18,Jimena Ramirez,female,hispanic,low,4883 Roswell Road,6/8/18 18:22

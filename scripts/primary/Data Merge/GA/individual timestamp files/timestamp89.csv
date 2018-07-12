@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,3055 Baymount Drive,6/13/18 17:22
+2,Lamar Williams,male,black,medium,1175 Milstead Avenue NE,6/13/18 17:23
+3,DaQuan Robinson,male,black,low,6124 Dana Court,6/13/18 17:24
+4,Nia Harris,female,black,high,105 Hidden Pines Drive,6/13/18 17:25
+5,Ebony James,female,black,medium,240 Circle Road,6/13/18 17:26
+6,Shanice Thomas,female,black,low,311 Allatoona Road,6/13/18 17:27
+7,Caleb Peterson,male,white,high,30 Hegwood Drive,6/13/18 17:28
+8,Charlie Myers,male,white,medium,2783 Coventry Grn Southeast #C,6/13/18 17:31
+9,Ronnie Miller,male,white,low,8520 Holcomb Bridge Road #3,6/13/18 17:32
+10,Aubrey Murphy,female,white,high,3741 Salem Meadows Drive,
+11,Erica Cox,female,white,medium,1082 Wildwood Wake Bend,6/13/18 17:34
+12,Leslie Wood,female,white,low,4441 Ford Place,
+13,Jorge Rodriguez,male,hispanic,high,20 Kendall Lane,6/13/18 17:36
+14,Pedro Sanchez,male,hispanic,medium,11150 Brookhollow Trail,6/13/18 17:37
+15,Luis Torres,male,hispanic,low,2795 Wildflower Lane,6/13/18 17:38
+16,Isabella Lopez,female,hispanic,high,280 Mountainview Drive,
+17,Mariana Morales,female,hispanic,medium,4255 Smoke Creek Parkway #A014,6/13/18 17:40
+18,Jimena Ramirez,female,hispanic,low,253 Bailey Avenue,6/13/18 17:41

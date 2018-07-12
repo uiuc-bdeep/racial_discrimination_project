@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,6451 Chickasaw Drive,6/29/18 20:08
+2,Lamar Williams,male,black,medium,100 East Holw,6/29/18 20:09
+3,DaQuan Robinson,male,black,low,334 Orchard Drive,
+4,Nia Harris,female,black,high,1368 Chatley Way,6/29/18 20:11
+5,Ebony James,female,black,medium,100 Wesley Mill Drive,
+6,Shanice Thomas,female,black,low,2532 Dobbs Drive Northwest,6/29/18 20:13
+7,Caleb Peterson,male,white,high,1483 Paladin Court,6/29/18 20:14
+8,Charlie Myers,male,white,medium,249 Blue Springs Way,6/29/18 20:15
+9,Ronnie Miller,male,white,low,133 Prescott Court,6/29/18 20:16
+10,Aubrey Murphy,female,white,high,312 Liberty Court,6/29/18 20:17
+11,Erica Cox,female,white,medium,230 Charlotte Boulevard,6/29/18 20:20
+12,Leslie Wood,female,white,low,39 Belltree Circle,6/29/18 20:21
+13,Jorge Rodriguez,male,hispanic,high,255 West Lane,6/29/18 20:22
+14,Pedro Sanchez,male,hispanic,medium,7907 Taylor Circle,
+15,Luis Torres,male,hispanic,low,350 Greenview Boulevard,6/29/18 20:24
+16,Isabella Lopez,female,hispanic,high,7728 Oriole Trail,6/29/18 20:25
+17,Mariana Morales,female,hispanic,medium,480 Willow Lane,6/29/18 20:26
+18,Jimena Ramirez,female,hispanic,low,108 Taylor Knoll Way,6/29/18 20:27

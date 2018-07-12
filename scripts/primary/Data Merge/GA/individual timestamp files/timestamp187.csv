@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,195 Sea Marsh Court,6/29/18 19:42
+2,Lamar Williams,male,black,medium,6 Evan Court,6/29/18 19:50
+3,DaQuan Robinson,male,black,low,485 Cathedral Drive,6/29/18 19:52
+4,Nia Harris,female,black,high,920 River Rock Drive,6/29/18 19:53
+5,Ebony James,female,black,medium,313 Everdale Road,
+6,Shanice Thomas,female,black,low,228 Leafwood Lane,6/29/18 19:55
+7,Caleb Peterson,male,white,high,115 Lakeview Drive,6/29/18 19:56
+8,Charlie Myers,male,white,medium,728 South Fairfield Drive,6/29/18 19:57
+9,Ronnie Miller,male,white,low,3650 Mill Lake Drive,
+10,Aubrey Murphy,female,white,high,104 Catalba Court,6/29/18 19:59
+11,Erica Cox,female,white,medium,2941 Bretton Drive,6/29/18 20:00
+12,Leslie Wood,female,white,low,10833 Clearwater Drive,6/29/18 20:01
+13,Jorge Rodriguez,male,hispanic,high,4465 Patrick Drive Northeast,6/29/18 20:02
+14,Pedro Sanchez,male,hispanic,medium,10 Laura Way,6/29/18 20:03
+15,Luis Torres,male,hispanic,low,220 Marron Road,6/29/18 20:04
+16,Isabella Lopez,female,hispanic,high,498 Old Corinth Road,6/29/18 20:05
+17,Mariana Morales,female,hispanic,medium,547 Joneus Drive,6/29/18 20:06
+18,Jimena Ramirez,female,hispanic,low,95 Rosebud Lane,6/29/18 20:07

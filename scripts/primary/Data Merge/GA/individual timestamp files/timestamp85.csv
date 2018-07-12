@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1406 Alverado Way,
+2,Lamar Williams,male,black,medium,6716 Gina Agha Circle,
+3,DaQuan Robinson,male,black,low,2698 Winky Blf,6/13/18 16:10
+4,Nia Harris,female,black,high,10765 Indian Village Drive,6/13/18 16:11
+5,Ebony James,female,black,medium,4030 Riverside Parkway,6/13/18 16:12
+6,Shanice Thomas,female,black,low,3109 Brook Drive,6/13/18 16:13
+7,Caleb Peterson,male,white,high,6525 Cold Stream Drive,6/13/18 16:14
+8,Charlie Myers,male,white,medium,2995 Cordite Loop,6/13/18 16:15
+9,Ronnie Miller,male,white,low,6032 Old Wellborn Trace,6/13/18 16:16
+10,Aubrey Murphy,female,white,high,3168 Oak Ridge Lane,6/13/18 16:17
+11,Erica Cox,female,white,medium,2680 Kentshire Way,6/13/18 16:18
+12,Leslie Wood,female,white,low,5115 Remington Court Northwest,6/13/18 16:19
+13,Jorge Rodriguez,male,hispanic,high,130 Branchwood Drive,6/13/18 16:20
+14,Pedro Sanchez,male,hispanic,medium,616 Hunters Cove Lane,6/13/18 16:21
+15,Luis Torres,male,hispanic,low,5781 Taffeta Court,
+16,Isabella Lopez,female,hispanic,high,3379 Woods Drive,6/13/18 16:23
+17,Mariana Morales,female,hispanic,medium,3448 Elgin Drive,6/13/18 16:24
+18,Jimena Ramirez,female,hispanic,low,4364 Cary Drive,6/13/18 16:25

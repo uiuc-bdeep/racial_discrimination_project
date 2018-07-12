@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,115 River Birch Trace,6/30/18 1:56
+2,Lamar Williams,male,black,medium,25 Teal Court #25,6/30/18 1:57
+3,DaQuan Robinson,male,black,low,168 Meadow Spring Lane,6/30/18 1:58
+4,Nia Harris,female,black,high,555 Meadows Court,
+5,Ebony James,female,black,medium,289 Monarch Village Way,6/30/18 2:00
+6,Shanice Thomas,female,black,low,3867 Pedenville Road,6/30/18 2:01
+7,Caleb Peterson,male,white,high,1239 Dallas Nebo Road,6/30/18 2:02
+8,Charlie Myers,male,white,medium,143 Riva Ridge Lane,6/30/18 2:03
+9,Ronnie Miller,male,white,low,157 Zachary Drive,6/30/18 2:04
+10,Aubrey Murphy,female,white,high,306 Providence Drive,6/30/18 2:05
+11,Erica Cox,female,white,medium,601 Henni Circle,6/30/18 2:06
+12,Leslie Wood,female,white,low,109 Elcona Drive,6/30/18 2:07
+13,Jorge Rodriguez,male,hispanic,high,212 Harris Oaks,
+14,Pedro Sanchez,male,hispanic,medium,313 East 15th Street SW,6/30/18 2:09
+15,Luis Torres,male,hispanic,low,6160 Princeton Avenue,6/30/18 2:10
+16,Isabella Lopez,female,hispanic,high,168 Sherwood Loop,6/30/18 2:13
+17,Mariana Morales,female,hispanic,medium,1738 Portwest Way,
+18,Jimena Ramirez,female,hispanic,low,116 Ringer Xrds,6/30/18 2:15

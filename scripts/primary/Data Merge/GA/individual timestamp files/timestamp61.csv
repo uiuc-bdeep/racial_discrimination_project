@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,4205 Bonneville Drive,6/12/18 14:16
+2,Lamar Williams,male,black,medium,5445 Fieldfreen Drive,6/12/18 14:17
+3,DaQuan Robinson,male,black,low,20 Kendall Lane,6/12/18 14:18
+4,Nia Harris,female,black,high,4255 Smoke Creek Parkway #A014,6/12/18 14:19
+5,Ebony James,female,black,medium,731 Exchange Mill Place,6/12/18 14:20
+6,Shanice Thomas,female,black,low,757 Bedrock Run,6/12/18 14:21
+7,Caleb Peterson,male,white,high,2600 Falcon Ridge Drive,6/12/18 14:22
+8,Charlie Myers,male,white,medium,10500 Colony Glen Drive,6/12/18 14:23
+9,Ronnie Miller,male,white,low,17 Brookview Drive,6/12/18 14:24
+10,Aubrey Murphy,female,white,high,3457 Springlake Drive,6/12/18 14:25
+11,Erica Cox,female,white,medium,1032 Pine Lane,6/12/18 14:26
+12,Leslie Wood,female,white,low,3691 Salem Hills Court,6/12/18 14:27
+13,Jorge Rodriguez,male,hispanic,high,1109 Westwood Place,6/12/18 14:28
+14,Pedro Sanchez,male,hispanic,medium,2524 Holly Berry Trail,6/12/18 14:29
+15,Luis Torres,male,hispanic,low,6269 Marbut Farms Road,6/12/18 14:30
+16,Isabella Lopez,female,hispanic,high,474 Allen Drive,6/12/18 14:31
+17,Mariana Morales,female,hispanic,medium,2865 Leisure Springs Circle,6/12/18 15:10
+18,Jimena Ramirez,female,hispanic,low,1903 Old Concord Drive Southeast,6/12/18 15:11

@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,10931 Alderwood Cove,6/20/18 21:30
+2,Lamar Williams,male,black,medium,3461 Bankhead Highway #38,6/20/18 21:31
+3,DaQuan Robinson,male,black,low,650 Cranberry Court,6/20/18 21:32
+4,Nia Harris,female,black,high,2760 Lake Park Ridge West,6/20/18 21:33
+5,Ebony James,female,black,medium,3063 Bruckner Boulevard,6/20/18 21:34
+6,Shanice Thomas,female,black,low,2440 Wood Meadows Drive Southwest,6/20/18 21:35
+7,Caleb Peterson,male,white,high,141 Cooper Lake Road Southeast,
+8,Charlie Myers,male,white,medium,7631 Dallas Highway #D040,6/20/18 21:37
+9,Ronnie Miller,male,white,low,1206 West Pine Ridge Drive #6,6/20/18 21:38
+10,Aubrey Murphy,female,white,high,1045 Ivy Brooke Drive,6/20/18 21:39
+11,Erica Cox,female,white,medium,2605 Indian Lake Drive #SINGLE,6/20/18 21:40
+12,Leslie Wood,female,white,low,4245 Autumn Hill Drive,6/20/18 21:41
+13,Jorge Rodriguez,male,hispanic,high,6780 Mableton Parkway Southeast #54,6/20/18 21:42
+14,Pedro Sanchez,male,hispanic,medium,6359 Bells Ferry Road #53,6/20/18 21:43
+15,Luis Torres,male,hispanic,low,2370 Rock Creek Drive Southwest,6/20/18 21:44
+16,Isabella Lopez,female,hispanic,high,1467 Waterton Trail,
+17,Mariana Morales,female,hispanic,medium,3199 Rock Pine Way,6/20/18 21:46
+18,Jimena Ramirez,female,hispanic,low,6359 Bells Ferry Road #210,6/20/18 21:47

@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,2672 Windrock Court,7/1/18 16:26
+2,Lamar Williams,male,black,medium,4252 Catalpa Court,7/1/18 16:28
+3,DaQuan Robinson,male,black,low,2754 Elliott Family Parkway,7/1/18 16:30
+4,Nia Harris,female,black,high,1157 Standard Drive Northeast,
+5,Ebony James,female,black,medium,4804 Diggers Way,
+6,Shanice Thomas,female,black,low,1461 Dove Creek Road,7/1/18 16:33
+7,Caleb Peterson,male,white,high,3203 Neal Way,7/1/18 16:35
+8,Charlie Myers,male,white,medium,6511 Meadow Lark Drive,7/1/18 16:38
+9,Ronnie Miller,male,white,low,2185 Fairway Circle Northeast,7/1/18 16:40
+10,Aubrey Murphy,female,white,high,4633 Devencrest Lane,7/1/18 16:41
+11,Erica Cox,female,white,medium,7020 Cedar Court,7/1/18 16:42
+12,Leslie Wood,female,white,low,1163 Highway 124,7/1/18 16:43
+13,Jorge Rodriguez,male,hispanic,high,550 Cherokee Circle,7/1/18 16:44
+14,Pedro Sanchez,male,hispanic,medium,6960 Crooked O Trail,7/1/18 16:45
+15,Luis Torres,male,hispanic,low,468 Cynthia Lane,
+16,Isabella Lopez,female,hispanic,high,6928 Cedar Hill Court,7/1/18 16:47
+17,Mariana Morales,female,hispanic,medium,636 Pauley Place,7/1/18 16:48
+18,Jimena Ramirez,female,hispanic,low,1084 Shieldcrest Way,7/1/18 16:49

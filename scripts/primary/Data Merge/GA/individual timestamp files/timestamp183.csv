@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,3355 Franklin Forest Drive,6/28/18 23:13
+2,Lamar Williams,male,black,medium,150 Postmaster Drive #3,6/28/18 23:14
+3,DaQuan Robinson,male,black,low,2922 Owens Point Trail Northwest,6/28/18 23:15
+4,Nia Harris,female,black,high,109 Lanyard Bend,6/28/18 23:16
+5,Ebony James,female,black,medium,9500 Poole Road,6/28/18 23:17
+6,Shanice Thomas,female,black,low,235 Medford Drive,6/28/18 23:18
+7,Caleb Peterson,male,white,high,275 Grandchester Way,6/28/18 23:19
+8,Charlie Myers,male,white,medium,300 Sharon Drive,6/28/18 23:20
+9,Ronnie Miller,male,white,low,170 Widgeon Drive,6/28/18 23:21
+10,Aubrey Murphy,female,white,high,598 Southern Trace Drive,6/28/18 23:22
+11,Erica Cox,female,white,medium,8892 Wellston Court,6/28/18 23:23
+12,Leslie Wood,female,white,low,3 Mill Gate Drive,6/28/18 23:24
+13,Jorge Rodriguez,male,hispanic,high,6866 Fielder Court,6/28/18 23:25
+14,Pedro Sanchez,male,hispanic,medium,115 Ivy Mill Way,6/28/18 23:26
+15,Luis Torres,male,hispanic,low,166 White Antelope Street,6/28/18 23:27
+16,Isabella Lopez,female,hispanic,high,233 Greensprings Terrace,6/28/18 23:28
+17,Mariana Morales,female,hispanic,medium,30 Sawgrass Manor Drive,6/28/18 23:29
+18,Jimena Ramirez,female,hispanic,low,130 Concord Terrace,

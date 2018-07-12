@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,527 Fieldgreen Drive,6/27/18 0:44
+2,Lamar Williams,male,black,medium,120 Morning Creek Court,6/27/18 0:45
+3,DaQuan Robinson,male,black,low,3035 Reynolds Run,6/27/18 0:46
+4,Nia Harris,female,black,high,453 Bald Eagle Way,6/27/18 0:47
+5,Ebony James,female,black,medium,707 Mossy Oak Drive,6/27/18 0:48
+6,Shanice Thomas,female,black,low,1921 Fisher Drive,6/27/18 0:49
+7,Caleb Peterson,male,white,high,1445 Lafayette Square,6/27/18 0:50
+8,Charlie Myers,male,white,medium,1442 North Hampton Drive,6/27/18 0:51
+9,Ronnie Miller,male,white,low,785 Peeksville Road,6/27/18 0:52
+10,Aubrey Murphy,female,white,high,25 Teal Court,6/27/18 0:53
+11,Erica Cox,female,white,medium,115 Ivy Mill Way,6/27/18 0:54
+12,Leslie Wood,female,white,low,166 Swafford Drive,6/27/18 0:55
+13,Jorge Rodriguez,male,hispanic,high,225 South Barbara Lane,6/27/18 0:56
+14,Pedro Sanchez,male,hispanic,medium,239 Northbridge Drive,6/27/18 0:57
+15,Luis Torres,male,hispanic,low,1914 Lake Chase Lane,6/27/18 0:58
+16,Isabella Lopez,female,hispanic,high,68 Horizon Hill,6/27/18 0:59
+17,Mariana Morales,female,hispanic,medium,8130 Woodcliff Trail,6/27/18 1:00
+18,Jimena Ramirez,female,hispanic,low,435 Greenview Circle,6/27/18 1:01

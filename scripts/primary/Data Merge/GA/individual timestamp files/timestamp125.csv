@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1180 Canton Street #3,6/21/18 23:07
+2,Lamar Williams,male,black,medium,226 Skyland Drive,6/21/18 23:08
+3,DaQuan Robinson,male,black,low,146 Parkmont Court,6/21/18 23:09
+4,Nia Harris,female,black,high,4464 High Gate Court Northwest,6/21/18 23:10
+5,Ebony James,female,black,medium,2605 Indian Lake Drive #SINGLE,6/21/18 23:11
+6,Shanice Thomas,female,black,low,6359 Bells Ferry Road #605,6/21/18 23:12
+7,Caleb Peterson,male,white,high,2572 Old Norcross Road,6/21/18 23:13
+8,Charlie Myers,male,white,medium,2778 Fran Lane Southwest,6/21/18 23:14
+9,Ronnie Miller,male,white,low,33 Emily Lane,
+10,Aubrey Murphy,female,white,high,1774 Ascot Run Northwest,6/21/18 23:16
+11,Erica Cox,female,white,medium,121 Leland Drive Southwest,6/21/18 23:17
+12,Leslie Wood,female,white,low,742 Stone Hill Drive,6/21/18 23:18
+13,Jorge Rodriguez,male,hispanic,high,3881 Spring Meadow Drive,6/21/18 23:19
+14,Pedro Sanchez,male,hispanic,medium,3376 Campbell Road,6/21/18 23:20
+15,Luis Torres,male,hispanic,low,768 Martin Road,6/21/18 23:21
+16,Isabella Lopez,female,hispanic,high,2883 Williams Place,6/21/18 23:22
+17,Mariana Morales,female,hispanic,medium,2176 Serenity Drive Northwest,6/21/18 23:23
+18,Jimena Ramirez,female,hispanic,low,5329 Biffle Downs Road,6/21/18 23:24

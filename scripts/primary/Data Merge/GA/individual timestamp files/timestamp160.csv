@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,259 Highland Falls Boulevard,6/27/18 20:34
+2,Lamar Williams,male,black,medium,36 Stonehaven Drive,6/27/18 20:35
+3,DaQuan Robinson,male,black,low,101 Settlers Ridge Lane,6/27/18 20:36
+4,Nia Harris,female,black,high,366 Paces Overlook Trace,6/27/18 20:37
+5,Ebony James,female,black,medium,7006 Knollwood Drive,6/27/18 20:38
+6,Shanice Thomas,female,black,low,306 Providence Drive,6/27/18 20:39
+7,Caleb Peterson,male,white,high,210 Dillard Drive Northeast,6/27/18 20:40
+8,Charlie Myers,male,white,medium,6160 Princeton Avenue,6/27/18 20:41
+9,Ronnie Miller,male,white,low,151 Hunterian Place,6/27/18 20:42
+10,Aubrey Murphy,female,white,high,5228 Central Church Road,6/27/18 20:43
+11,Erica Cox,female,white,medium,4667 Cresant Lane,6/27/18 20:44
+12,Leslie Wood,female,white,low,140 Beech Creek Court Northwest,6/27/18 20:45
+13,Jorge Rodriguez,male,hispanic,high,100 Bridge Court,
+14,Pedro Sanchez,male,hispanic,medium,394 Peachtree Drive Southeast,6/27/18 20:47
+15,Luis Torres,male,hispanic,low,187 Lantana Drive,6/27/18 20:48
+16,Isabella Lopez,female,hispanic,high,9500 Poole Road,6/27/18 20:49
+17,Mariana Morales,female,hispanic,medium,424 Serenity Walk,6/27/18 20:50
+18,Jimena Ramirez,female,hispanic,low,307 Westover Drive,6/27/18 20:51

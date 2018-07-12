@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,130 Montrose Terrace,6/22/18 23:04
+2,Lamar Williams,male,black,medium,1117 Malibu Drive,6/22/18 23:05
+3,DaQuan Robinson,male,black,low,780 Whitehall Way,6/22/18 23:06
+4,Nia Harris,female,black,high,6359 Bells Ferry Road #193,6/22/18 23:07
+5,Ebony James,female,black,medium,3209 Larkspur Circle,6/22/18 23:08
+6,Shanice Thomas,female,black,low,5352 Windfern Court,
+7,Caleb Peterson,male,white,high,204 Ranier Court,6/22/18 23:10
+8,Charlie Myers,male,white,medium,650 Cranberry Court,6/22/18 23:11
+9,Ronnie Miller,male,white,low,6658 Marsh Avenue,6/22/18 23:12
+10,Aubrey Murphy,female,white,high,6780 Mableton Parkway Southeast #5A,
+11,Erica Cox,female,white,medium,6359 Bells Ferry Road #479,6/22/18 23:14
+12,Leslie Wood,female,white,low,1190 Lightfoot Drive,6/22/18 23:15
+13,Jorge Rodriguez,male,hispanic,high,2663 Candler Drive Southwest #95,6/22/18 23:16
+14,Pedro Sanchez,male,hispanic,medium,146 Parkmont Court,6/22/18 23:17
+15,Luis Torres,male,hispanic,low,790 Virginia Court Southeast,6/22/18 23:18
+16,Isabella Lopez,female,hispanic,high,4322 Idlewood Lane,6/22/18 23:19
+17,Mariana Morales,female,hispanic,medium,3185 Lawrenceville Highway,6/22/18 23:20
+18,Jimena Ramirez,female,hispanic,low,281 Bakers Bridge Circle,6/22/18 23:21

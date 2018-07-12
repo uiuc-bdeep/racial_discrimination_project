@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1267 Sycamore Drive Southwest,6/13/18 19:14
+2,Lamar Williams,male,black,medium,3221 Springdale Road,6/13/18 19:15
+3,DaQuan Robinson,male,black,low,3195 Aintree Chase,6/13/18 19:16
+4,Nia Harris,female,black,high,2548 Tyler Way,6/13/18 19:17
+5,Ebony James,female,black,medium,2926 Winding Grove Drive,6/13/18 19:18
+6,Shanice Thomas,female,black,low,9103 Fairington Ridge Circle,6/13/18 19:19
+7,Caleb Peterson,male,white,high,5033 Eagles Nest Court,6/13/18 19:20
+8,Charlie Myers,male,white,medium,6346 Alford Circle,6/13/18 19:21
+9,Ronnie Miller,male,white,low,4255 Smoke Creek Parkway #D008,6/13/18 19:22
+10,Aubrey Murphy,female,white,high,3879 Waldrop Lane,6/13/18 19:27
+11,Erica Cox,female,white,medium,2032 Twin Falls Road,6/13/18 19:28
+12,Leslie Wood,female,white,low,3469 Mansfield Lane,6/13/18 19:29
+13,Jorge Rodriguez,male,hispanic,high,2457 Briar Knoll Road,6/13/18 19:30
+14,Pedro Sanchez,male,hispanic,medium,6001 Regent Mnr,
+15,Luis Torres,male,hispanic,low,2619 Majestic Circle,6/13/18 19:32
+16,Isabella Lopez,female,hispanic,high,757 Bedrock Run,6/13/18 19:33
+17,Mariana Morales,female,hispanic,medium,75 Heatherstone Way,6/13/18 19:34
+18,Jimena Ramirez,female,hispanic,low,271 Rockingham Drive,6/13/18 19:35

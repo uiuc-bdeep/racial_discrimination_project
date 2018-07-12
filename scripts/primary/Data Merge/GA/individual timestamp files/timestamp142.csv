@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,8057 Fieldstream Way,
+2,Lamar Williams,male,black,medium,1 Sweetwater Parkway,
+3,DaQuan Robinson,male,black,low,4741 White Oak Path,6/23/18 1:28
+4,Nia Harris,female,black,high,2858 Forest Wood Drive Northeast,6/23/18 1:29
+5,Ebony James,female,black,medium,3711 Autumn Leaves Lane,6/23/18 1:30
+6,Shanice Thomas,female,black,low,482 Palm Street,6/23/18 1:31
+7,Caleb Peterson,male,white,high,1350 Waterton Trail,6/23/18 1:34
+8,Charlie Myers,male,white,medium,726 Mountain Laurel Drive,6/23/18 1:35
+9,Ronnie Miller,male,white,low,133 Danville Trail,6/23/18 1:36
+10,Aubrey Murphy,female,white,high,3376 Campbell Road,6/23/18 1:38
+11,Erica Cox,female,white,medium,3063 Bruckner Boulevard,
+12,Leslie Wood,female,white,low,4120 Woodcrest Lane,6/23/18 1:40
+13,Jorge Rodriguez,male,hispanic,high,4805 West Village Way SE,6/23/18 1:41
+14,Pedro Sanchez,male,hispanic,medium,213 Fieldcrest Drive,6/23/18 1:42
+15,Luis Torres,male,hispanic,low,3935 Stanton Trail,
+16,Isabella Lopez,female,hispanic,high,202 Clydesdale Lane Southeast,
+17,Mariana Morales,female,hispanic,medium,5193 Alder Lane,
+18,Jimena Ramirez,female,hispanic,low,23 Landmark Court Southwest,6/23/18 1:46

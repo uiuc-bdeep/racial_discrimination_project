@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,147 Shady Lane Circle,6/21/18 20:34
+2,Lamar Williams,male,black,medium,202 Clydesdale Lane Southeast,6/21/18 20:35
+3,DaQuan Robinson,male,black,low,6698 Baker Drive,6/21/18 20:36
+4,Nia Harris,female,black,high,691 Oak Glen Drive,6/21/18 20:37
+5,Ebony James,female,black,medium,7631 Dallas Highway #D040,6/21/18 20:38
+6,Shanice Thomas,female,black,low,3661 Marlborough Drive,6/21/18 20:39
+7,Caleb Peterson,male,white,high,300 Spring Drive,6/21/18 20:40
+8,Charlie Myers,male,white,medium,3209 Larkspur Circle,6/21/18 20:41
+9,Ronnie Miller,male,white,low,110 Aspen Court,6/21/18 20:42
+10,Aubrey Murphy,female,white,high,4741 White Oak Path,6/21/18 20:43
+11,Erica Cox,female,white,medium,3559 Ulster Lane Northeast,6/21/18 20:44
+12,Leslie Wood,female,white,low,4121 Sweet Water Court Southeast,6/21/18 21:16
+13,Jorge Rodriguez,male,hispanic,high,2392 Rodgers Drive Southeast,6/21/18 21:17
+14,Pedro Sanchez,male,hispanic,medium,1145 Bank Street Southeast,
+15,Luis Torres,male,hispanic,low,6780 Mableton Parkway Southeast #20,
+16,Isabella Lopez,female,hispanic,high,165 Tyson Circle,6/21/18 21:20
+17,Mariana Morales,female,hispanic,medium,132 Johnson Drive,6/21/18 21:21
+18,Jimena Ramirez,female,hispanic,low,413 Valley View Drive,6/21/18 21:22

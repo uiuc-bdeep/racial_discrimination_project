@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,6883 Grand Hickory Drive,6/30/18 15:40
+2,Lamar Williams,male,black,medium,3203 Neal Way,6/30/18 15:41
+3,DaQuan Robinson,male,black,low,2623 Riggs Drive,6/30/18 15:42
+4,Nia Harris,female,black,high,3400 Flat Shoals Road,6/30/18 15:43
+5,Ebony James,female,black,medium,204 Church Street,6/30/18 15:44
+6,Shanice Thomas,female,black,low,235 Danbury Lane Northwest,6/30/18 15:45
+7,Caleb Peterson,male,white,high,5559 Princeton Oaks Lane,6/30/18 15:46
+8,Charlie Myers,male,white,medium,5787 Rock Road,6/30/18 15:47
+9,Ronnie Miller,male,white,low,942 Century Oak Drive,6/30/18 15:48
+10,Aubrey Murphy,female,white,high,1022 King Road,6/30/18 15:49
+11,Erica Cox,female,white,medium,4739 Cherrywood Circle,6/30/18 15:50
+12,Leslie Wood,female,white,low,156 Blake Lane,6/30/18 15:51
+13,Jorge Rodriguez,male,hispanic,high,4631 Candlewyck Way,6/30/18 15:52
+14,Pedro Sanchez,male,hispanic,medium,7290 Oakley Court,6/30/18 15:53
+15,Luis Torres,male,hispanic,low,2765 Tryon Place Northeast,6/30/18 15:54
+16,Isabella Lopez,female,hispanic,high,1157 Standard Drive Northeast,6/30/18 15:55
+17,Mariana Morales,female,hispanic,medium,2299 Plantation Drive,6/30/18 15:56
+18,Jimena Ramirez,female,hispanic,low,2292 Ivy Crest Drive,6/30/18 15:57

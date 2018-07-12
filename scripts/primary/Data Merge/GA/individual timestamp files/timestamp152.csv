@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,103 Willhaven Drive,6/27/18 2:50
+2,Lamar Williams,male,black,medium,275 Grandchester Way,6/27/18 2:51
+3,DaQuan Robinson,male,black,low,115 Lakeview Drive,6/27/18 2:52
+4,Nia Harris,female,black,high,781 Jasperson Court,6/27/18 2:53
+5,Ebony James,female,black,medium,2941 Bretton Drive,6/27/18 2:54
+6,Shanice Thomas,female,black,low,151 Players Circle,6/27/18 2:55
+7,Caleb Peterson,male,white,high,141 North Square Lane,6/27/18 2:56
+8,Charlie Myers,male,white,medium,11 Ryan Trail,6/27/18 2:57
+9,Ronnie Miller,male,white,low,1394 Winndale Road,6/27/18 2:58
+10,Aubrey Murphy,female,white,high,403 Ethridge Drive Northwest,6/27/18 2:59
+11,Erica Cox,female,white,medium,5744 Mountain Park Way,6/27/18 3:00
+12,Leslie Wood,female,white,low,400 Cedar Lane,6/27/18 3:01
+13,Jorge Rodriguez,male,hispanic,high,105 Sheldon Way,6/27/18 3:02
+14,Pedro Sanchez,male,hispanic,medium,1248 Silverstone Trail,6/27/18 3:03
+15,Luis Torres,male,hispanic,low,134 Highland Circle,6/27/18 3:04
+16,Isabella Lopez,female,hispanic,high,115 River Birch Trace,6/27/18 3:05
+17,Mariana Morales,female,hispanic,medium,935 Highway 81 West,6/27/18 3:06
+18,Jimena Ramirez,female,hispanic,low,130 Gingercake Court,6/27/18 3:07

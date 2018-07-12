@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,100 Bridge Court,
+2,Lamar Williams,male,black,medium,8130 Woodcliff Trail,6/30/18 1:21
+3,DaQuan Robinson,male,black,low,3138 Calumet Circle Northwest,6/30/18 1:22
+4,Nia Harris,female,black,high,295 Malibu Drive,6/30/18 1:23
+5,Ebony James,female,black,medium,321 Nunnally Drive,6/30/18 1:24
+6,Shanice Thomas,female,black,low,2334 Iron Horse Drive,
+7,Caleb Peterson,male,white,high,146 Oakland Circle,6/30/18 1:26
+8,Charlie Myers,male,white,medium,8191 Dunellen Lane,6/30/18 1:27
+9,Ronnie Miller,male,white,low,781 Jasperson Court,6/30/18 1:28
+10,Aubrey Murphy,female,white,high,245 Brolley Woods Drive,
+11,Erica Cox,female,white,medium,8572 Glenwoods Drive,
+12,Leslie Wood,female,white,low,444 Jefferson Street Ext #5,
+13,Jorge Rodriguez,male,hispanic,high,166 Swafford Drive,6/30/18 1:32
+14,Pedro Sanchez,male,hispanic,medium,275 West Lane,6/30/18 1:33
+15,Luis Torres,male,hispanic,low,571 Sandy Creek Road,6/30/18 1:34
+16,Isabella Lopez,female,hispanic,high,235 Yardsley Drive,
+17,Mariana Morales,female,hispanic,medium,260 Shelburn Drive,6/30/18 1:36
+18,Jimena Ramirez,female,hispanic,low,151 Hunterian Place,6/30/18 1:37

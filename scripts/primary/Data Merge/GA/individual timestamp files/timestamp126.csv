@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,731 Valley View Drive,6/21/18 23:25
+2,Lamar Williams,male,black,medium,6780 Mableton Parkway Southeast #78,6/21/18 23:26
+3,DaQuan Robinson,male,black,low,16 Jackson Place Northwest,6/21/18 23:27
+4,Nia Harris,female,black,high,1021 Whispering Woods Drive,6/21/18 23:28
+5,Ebony James,female,black,medium,2236 Blenheim Court,6/21/18 23:29
+6,Shanice Thomas,female,black,low,3835 Mason Drive,6/21/18 23:30
+7,Caleb Peterson,male,white,high,716 Boone Court,6/21/18 23:31
+8,Charlie Myers,male,white,medium,378 Kenilworth Circle,
+9,Ronnie Miller,male,white,low,3018 Estuary Ridge,6/21/18 23:33
+10,Aubrey Murphy,female,white,high,1130 Stone Brook Lane,6/21/18 23:34
+11,Erica Cox,female,white,medium,3461 Bankhead Highway #43,6/21/18 23:35
+12,Leslie Wood,female,white,low,1400 Bailey Court Southwest,6/21/18 23:36
+13,Jorge Rodriguez,male,hispanic,high,300 Hurt Road Southwest #3,6/21/18 23:37
+14,Pedro Sanchez,male,hispanic,medium,5108 North Woodbridge Trail,
+15,Luis Torres,male,hispanic,low,54 Betty Lane,6/21/18 23:39
+16,Isabella Lopez,female,hispanic,high,5701 Woodland Drive,6/21/18 23:40
+17,Mariana Morales,female,hispanic,medium,2606 Hedgerow Drive,6/21/18 23:41
+18,Jimena Ramirez,female,hispanic,low,6359 Bells Ferry Road #640,6/21/18 23:42

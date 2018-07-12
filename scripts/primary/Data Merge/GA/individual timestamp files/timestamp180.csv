@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,185 Stillwood Drive,6/28/18 21:16
+2,Lamar Williams,male,black,medium,925 Tope Road,6/28/18 21:17
+3,DaQuan Robinson,male,black,low,25 Teal Court,6/28/18 21:18
+4,Nia Harris,female,black,high,75 Valley Drive,6/28/18 21:19
+5,Ebony James,female,black,medium,350 West Lane,6/28/18 21:20
+6,Shanice Thomas,female,black,low,103 Nettlecure Court,6/28/18 21:21
+7,Caleb Peterson,male,white,high,4650 Fox Hollow Court,6/28/18 21:22
+8,Charlie Myers,male,white,medium,8061 Glasgow Court,
+9,Ronnie Miller,male,white,low,612 South Dogwood Street,6/28/18 21:24
+10,Aubrey Murphy,female,white,high,321 Nunnally Drive,6/28/18 21:55
+11,Erica Cox,female,white,medium,10 Beverly Park Drive,6/28/18 21:56
+12,Leslie Wood,female,white,low,449 Cathedral Drive,6/28/18 21:57
+13,Jorge Rodriguez,male,hispanic,high,310 Everdale Road,
+14,Pedro Sanchez,male,hispanic,medium,124 Springwood Valley Road,6/28/18 21:59
+15,Luis Torres,male,hispanic,low,2790 Jodeco Drive,6/28/18 22:00
+16,Isabella Lopez,female,hispanic,high,101 Settlers Ridge Lane,6/28/18 22:01
+17,Mariana Morales,female,hispanic,medium,157 Zachary Drive,6/28/18 22:02
+18,Jimena Ramirez,female,hispanic,low,8191 Dunellen Lane,6/28/18 22:03

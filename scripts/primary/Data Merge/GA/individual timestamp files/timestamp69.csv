@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,4255 Smoke Creek Parkway #C033,6/12/18 18:21
+2,Lamar Williams,male,black,medium,1613 Picadilly Court Northeast,6/12/18 18:22
+3,DaQuan Robinson,male,black,low,4255 Smoke Creek Parkway #A139,6/12/18 18:23
+4,Nia Harris,female,black,high,3794 Mulkey Circle Southwest,6/12/18 18:24
+5,Ebony James,female,black,medium,1639 Crestfield Lane,6/12/18 21:06
+6,Shanice Thomas,female,black,low,5760 Millstone Drive,6/12/18 21:07
+7,Caleb Peterson,male,white,high,754 Shore Drive,
+8,Charlie Myers,male,white,medium,2698 Winky Blf,6/12/18 21:09
+9,Ronnie Miller,male,white,low,128 Shadowbrooke Circle,6/12/18 21:10
+10,Aubrey Murphy,female,white,high,4185 Panola Road,6/12/18 21:11
+11,Erica Cox,female,white,medium,3055 Baymount Drive,6/12/18 21:12
+12,Leslie Wood,female,white,low,1780 Silver Leaf Court Southwest,6/12/18 21:13
+13,Jorge Rodriguez,male,hispanic,high,4103 Par 3 Way,6/12/18 21:14
+14,Pedro Sanchez,male,hispanic,medium,994 Hazel Court Southwest #994,6/12/18 21:15
+15,Luis Torres,male,hispanic,low,3469 Mansfield Lane,6/12/18 21:16
+16,Isabella Lopez,female,hispanic,high,340 Burgess Mill Trail,6/12/18 21:17
+17,Mariana Morales,female,hispanic,medium,6032 Old Wellborn Trace,6/12/18 21:18
+18,Jimena Ramirez,female,hispanic,low,140 Kay Circle,6/12/18 21:19

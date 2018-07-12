@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,2572 Old Norcross Road,6/22/18 21:24
+2,Lamar Williams,male,black,medium,301 Landon Drive Southeast,6/22/18 21:25
+3,DaQuan Robinson,male,black,low,4795 Manor Drive,6/22/18 21:26
+4,Nia Harris,female,black,high,7685 Mountain Creek Way,6/22/18 21:27
+5,Ebony James,female,black,medium,2778 Fran Lane Southwest,6/22/18 21:28
+6,Shanice Thomas,female,black,low,2370 Rock Creek Drive Southwest,6/22/18 21:29
+7,Caleb Peterson,male,white,high,5112 South Woodbridge Trail,6/22/18 21:30
+8,Charlie Myers,male,white,medium,3016 Springdale Court,6/22/18 21:31
+9,Ronnie Miller,male,white,low,5144 Legendary Lane,6/22/18 21:32
+10,Aubrey Murphy,female,white,high,1715 Wingard Drive,6/22/18 21:33
+11,Erica Cox,female,white,medium,5108 North Woodbridge Trail,
+12,Leslie Wood,female,white,low,54 Betty Lane,6/22/18 21:35
+13,Jorge Rodriguez,male,hispanic,high,2655 Trotters Walk Trail,
+14,Pedro Sanchez,male,hispanic,medium,5447 Brandon Court,
+15,Luis Torres,male,hispanic,low,691 Oak Glen Drive,6/22/18 21:38
+16,Isabella Lopez,female,hispanic,high,1206 West Pine Ridge Drive #6,6/22/18 21:39
+17,Mariana Morales,female,hispanic,medium,5207 Cindy Way,6/22/18 21:40
+18,Jimena Ramirez,female,hispanic,low,4806 Davenport Trace Northwest,6/22/18 21:41

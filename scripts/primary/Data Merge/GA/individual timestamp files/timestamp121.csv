@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,5492 Redan Road,6/21/18 21:23
+2,Lamar Williams,male,black,medium,111 Nelson Ridge Drive,
+3,DaQuan Robinson,male,black,low,50 Harbin Drive,6/21/18 21:25
+4,Nia Harris,female,black,high,5207 Cindy Way,6/21/18 21:26
+5,Ebony James,female,black,medium,7604 Stonecliff Court,6/21/18 21:27
+6,Shanice Thomas,female,black,low,382 Plantation Road Southwest,6/21/18 21:28
+7,Caleb Peterson,male,white,high,119 Magnolia Street,6/21/18 21:29
+8,Charlie Myers,male,white,medium,800 Yonah Drive,6/21/18 21:30
+9,Ronnie Miller,male,white,low,326 Mountain Drive,6/21/18 21:31
+10,Aubrey Murphy,female,white,high,482 Palm Street,6/21/18 21:32
+11,Erica Cox,female,white,medium,5352 Windfern Court,6/21/18 21:33
+12,Leslie Wood,female,white,low,350 Kades Cove Drive,6/21/18 21:34
+13,Jorge Rodriguez,male,hispanic,high,2760 Lake Park Ridge West,6/21/18 21:35
+14,Pedro Sanchez,male,hispanic,medium,448 Susan Creek Drive,6/21/18 21:36
+15,Luis Torres,male,hispanic,low,111 Dearing Court,6/21/18 21:37
+16,Isabella Lopez,female,hispanic,high,310 Soft Pine Trail,6/21/18 21:38
+17,Mariana Morales,female,hispanic,medium,1730 Sierra Drive #1730,6/21/18 21:39
+18,Jimena Ramirez,female,hispanic,low,2613 Davenham Lane,6/21/18 21:40

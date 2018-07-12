@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,3379 Woods Drive,6/12/18 16:59
+2,Lamar Williams,male,black,medium,2932 Tiffany Drive Southwest,6/12/18 17:26
+3,DaQuan Robinson,male,black,low,11150 Brookhollow Trail,6/12/18 17:27
+4,Nia Harris,female,black,high,4255 Smoke Creek Parkway #D007,6/12/18 17:28
+5,Ebony James,female,black,medium,2195 Laurel Pointe Lane,6/12/18 17:31
+6,Shanice Thomas,female,black,low,2991 Serenade Court,6/12/18 17:32
+7,Caleb Peterson,male,white,high,2775 Avalon Meadows Lane,6/12/18 17:33
+8,Charlie Myers,male,white,medium,2184 River Acres Court,6/12/18 17:34
+9,Ronnie Miller,male,white,low,6124 Dana Court,6/12/18 17:35
+10,Aubrey Murphy,female,white,high,212 Suwanee Avenue,6/12/18 17:36
+11,Erica Cox,female,white,medium,994 Hazel Court Southwest,6/12/18 17:37
+12,Leslie Wood,female,white,low,5550 Wellborn Creek Drive,6/12/18 17:38
+13,Jorge Rodriguez,male,hispanic,high,3168 Oak Ridge Lane,6/12/18 17:39
+14,Pedro Sanchez,male,hispanic,medium,3879 Waldrop Lane,6/12/18 17:40
+15,Luis Torres,male,hispanic,low,685 Prescott Way,6/12/18 17:41
+16,Isabella Lopez,female,hispanic,high,250 Bermuda Run Drive,
+17,Mariana Morales,female,hispanic,medium,2216 Clanton Terrace,
+18,Jimena Ramirez,female,hispanic,low,1785 McKendree Lake Drive,6/12/18 17:44

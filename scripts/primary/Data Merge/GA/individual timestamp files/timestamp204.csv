@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,6005 Walker Road,6/30/18 12:55
+2,Lamar Williams,male,black,medium,5407 Pine Valley Drive,6/30/18 12:56
+3,DaQuan Robinson,male,black,low,7020 Cedar Court,6/30/18 12:57
+4,Nia Harris,female,black,high,240 Deer Run Road,
+5,Ebony James,female,black,medium,5511 Rock Road,6/30/18 12:59
+6,Shanice Thomas,female,black,low,5111 Bird Road,6/30/18 13:00
+7,Caleb Peterson,male,white,high,4118 Clairmont Road,6/30/18 13:01
+8,Charlie Myers,male,white,medium,3912 Shenfield Drive,6/30/18 13:02
+9,Ronnie Miller,male,white,low,2053 Anchor Way,6/30/18 13:03
+10,Aubrey Murphy,female,white,high,636 Pauley Place,6/30/18 13:04
+11,Erica Cox,female,white,medium,40 Sweetridge Drive,6/30/18 15:32
+12,Leslie Wood,female,white,low,1130 Middleton Lane,6/30/18 15:33
+13,Jorge Rodriguez,male,hispanic,high,2830 Pine Log Way,6/30/18 15:34
+14,Pedro Sanchez,male,hispanic,medium,1927 Woods Court,6/30/18 15:35
+15,Luis Torres,male,hispanic,low,564 Hammond Drive,6/30/18 15:36
+16,Isabella Lopez,female,hispanic,high,1689 Viceroy Way,
+17,Mariana Morales,female,hispanic,medium,8258 Eastshore Drive,6/30/18 15:38
+18,Jimena Ramirez,female,hispanic,low,2658 Jefferson Terrace,6/30/18 15:39

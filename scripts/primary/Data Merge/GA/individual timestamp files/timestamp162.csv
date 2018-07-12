@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,230 Parkway Court,6/27/18 21:10
+2,Lamar Williams,male,black,medium,7 Saddlebrook Chase,6/27/18 21:11
+3,DaQuan Robinson,male,black,low,270 Amanda Court,6/27/18 21:12
+4,Nia Harris,female,black,high,9177 Chickasaw Court,6/27/18 21:13
+5,Ebony James,female,black,medium,10833 Clearwater Drive,6/27/18 21:14
+6,Shanice Thomas,female,black,low,245 Brolley Woods Drive,6/27/18 21:15
+7,Caleb Peterson,male,white,high,925 Tope Road,6/27/18 21:16
+8,Charlie Myers,male,white,medium,223 Overlook Court,6/27/18 21:17
+9,Ronnie Miller,male,white,low,106 Oakwood Circle,6/27/18 21:18
+10,Aubrey Murphy,female,white,high,7728 Oriole Trail,6/27/18 21:19
+11,Erica Cox,female,white,medium,233 Greensprings Terrace,6/28/18 2:17
+12,Leslie Wood,female,white,low,2981 Albright Cmns Northwest,6/28/18 2:18
+13,Jorge Rodriguez,male,hispanic,high,74 Woodlake Lane,6/28/18 2:19
+14,Pedro Sanchez,male,hispanic,medium,5147 Spring Glen Court,6/28/18 2:20
+15,Luis Torres,male,hispanic,low,6269 Valdez Drive,
+16,Isabella Lopez,female,hispanic,high,150 Postmaster Drive #3,6/28/18 2:22
+17,Mariana Morales,female,hispanic,medium,8963 Habersham Drive,
+18,Jimena Ramirez,female,hispanic,low,449 Cathedral Drive,6/28/18 2:24

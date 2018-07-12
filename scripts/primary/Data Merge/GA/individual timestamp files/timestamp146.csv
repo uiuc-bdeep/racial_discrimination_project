@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,6293 Silver Creek Lane,6/26/18 21:10
+2,Lamar Williams,male,black,medium,601 Henni Circle,6/26/18 21:11
+3,DaQuan Robinson,male,black,low,167 Morningside Drive,6/26/18 21:12
+4,Nia Harris,female,black,high,111 Park Forest Drive Northwest,6/26/18 21:13
+5,Ebony James,female,black,medium,180 Malibu Drive,6/26/18 21:14
+6,Shanice Thomas,female,black,low,120 West Lane,6/26/18 21:15
+7,Caleb Peterson,male,white,high,498 Old Corinth Road,6/26/18 21:16
+8,Charlie Myers,male,white,medium,183 Seabreeze Court,6/26/18 21:17
+9,Ronnie Miller,male,white,low,576 Woodbridge Drive,6/26/18 21:18
+10,Aubrey Murphy,female,white,high,4465 Patrick Drive Northeast,6/26/18 21:19
+11,Erica Cox,female,white,medium,109 Silver Fir Court,6/26/18 21:20
+12,Leslie Wood,female,white,low,17 Westgate Park Drive,6/26/18 21:21
+13,Jorge Rodriguez,male,hispanic,high,3138 Calumet Circle Northwest,6/26/18 21:22
+14,Pedro Sanchez,male,hispanic,medium,160 Devilla Trace,6/26/18 21:23
+15,Luis Torres,male,hispanic,low,8061 Glasgow Court,6/26/18 21:24
+16,Isabella Lopez,female,hispanic,high,177 Cotton Drive,6/26/18 22:58
+17,Mariana Morales,female,hispanic,medium,8117 Attleboro Drive,6/26/18 22:59
+18,Jimena Ramirez,female,hispanic,low,61 Hood Park Court,6/26/18 23:00

@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1130 Middleton Lane,7/1/18 14:57
+2,Lamar Williams,male,black,medium,14475 Highway 18 Chalet #89,7/1/18 15:00
+3,DaQuan Robinson,male,black,low,2053 Anchor Way,7/1/18 15:01
+4,Nia Harris,female,black,high,2010 Rachael Drive,7/1/18 15:02
+5,Ebony James,female,black,medium,2860 Oxford Road,7/1/18 15:03
+6,Shanice Thomas,female,black,low,1115 Lynmoor Drive Northeast,7/1/18 15:04
+7,Caleb Peterson,male,white,high,31 Maple Walk,7/1/18 15:05
+8,Charlie Myers,male,white,medium,4631 Candlewyck Way,7/1/18 15:06
+9,Ronnie Miller,male,white,low,6297 Queens Court,7/1/18 15:08
+10,Aubrey Murphy,female,white,high,3635 Meadow Glen Circle,7/1/18 15:09
+11,Erica Cox,female,white,medium,2474 Highway 330 #2,7/1/18 15:10
+12,Leslie Wood,female,white,low,366 Glenmoor Place,7/1/18 15:11
+13,Jorge Rodriguez,male,hispanic,high,1453 Iroquois Path Northeast,7/1/18 15:13
+14,Pedro Sanchez,male,hispanic,medium,8480 Oakley Circle,7/1/18 15:14
+15,Luis Torres,male,hispanic,low,5041 Cleveland Highway,7/1/18 15:15
+16,Isabella Lopez,female,hispanic,high,5647 Blanchard Place,7/1/18 15:16
+17,Mariana Morales,female,hispanic,medium,4679 Lois Drive,
+18,Jimena Ramirez,female,hispanic,low,283 Pinewood Trail #A,7/1/18 15:18

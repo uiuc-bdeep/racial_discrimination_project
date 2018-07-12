@@ -1,0 +1,19 @@
+person id,people_name_selection/person_name,gender,racial category,education level,address_selection/property,timestamp inquiry sent out
+1,Jalen Jackson,male,black,high,1734 Cardinal Road,6/28/18 19:43
+2,Lamar Williams,male,black,medium,923 Carlton Pointe Terrace,6/28/18 19:45
+3,DaQuan Robinson,male,black,low,275 West Lane,6/28/18 19:46
+4,Nia Harris,female,black,high,4035 North Quail Drive,6/28/18 19:47
+5,Ebony James,female,black,medium,3850 Notnomis Road,6/28/18 19:48
+6,Shanice Thomas,female,black,low,305 Malibu Drive,6/28/18 19:49
+7,Caleb Peterson,male,white,high,177 Cotton Drive,6/28/18 19:50
+8,Charlie Myers,male,white,medium,1368 Chatley Way,6/28/18 19:55
+9,Ronnie Miller,male,white,low,100 Wesley Mill Drive,
+10,Aubrey Murphy,female,white,high,4006 Cinnamon Fern Lane,6/28/18 19:58
+11,Erica Cox,female,white,medium,2921 Maple Road Southeast,
+12,Leslie Wood,female,white,low,228 Leafwood Lane,6/28/18 20:00
+13,Jorge Rodriguez,male,hispanic,high,366 Paces Overlook Trace,6/28/18 20:01
+14,Pedro Sanchez,male,hispanic,medium,148 Adrian Drive,6/28/18 20:02
+15,Luis Torres,male,hispanic,low,116 Old Chapel Lane,6/28/18 20:03
+16,Isabella Lopez,female,hispanic,high,10833 Clearwater Drive,6/28/18 20:05
+17,Mariana Morales,female,hispanic,medium,104 Catalba Court,6/28/18 20:06
+18,Jimena Ramirez,female,hispanic,low,146 Oakland Circle,6/28/18 20:07
