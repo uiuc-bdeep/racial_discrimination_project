@@ -155,6 +155,14 @@ if __name__ == '__main__':
 	inquiryOrder = []
 	inquiryWeekday = []
 	responseWeekday = []
+	income = []
+	references = []
+	credit = []
+	employment = []
+	coRenters = []
+	family = []
+	smoking = []
+	pets = []
 	for i in range(len(df)):
 		# for matches
 		if df['response'][i] == 1:
@@ -163,6 +171,17 @@ if __name__ == '__main__':
 			inquiryOrder.append(inquiry_dict[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])])
 			inquiryWeekday.append(getWeekday(inquiryParse(str(df['timestamp inquiry sent out'][i]))))
 			responseWeekday.append(getWeekday(responseParse(str(df['dateTime_selection/timestamp'][i]))))
+
+			if str(df['screening_selection/screening_terms'][i] != 'nan'):
+				income.append(1) if 'Income' in df['screening_selection/screening_terms'][i] else income.append(0)
+				references.append(1) if 'References' in df['screening_selection/screening_terms'][i] else references.append(0)
+				credit.append(1) if 'Credit' in df['screening_selection/screening_terms'][i] else credit.append(0)
+				employment.append(1) if 'Employment/Job' in df['screening_selection/screening_terms'][i] else employment.append(0)
+				coRenters.append(1) if 'Co-renters/Roommates' in df['screening_selection/screening_terms'][i] else coRenters.append(0)
+				family.append(1) if 'Family' in df['screening_selection/screening_terms'][i] else family.append(0)
+				smoking.append(1) if 'Smoking' in df['screening_selection/screening_terms'][i] else smoking.append(0)
+				pets.append(1) if 'Pets' in df['screening_selection/screening_terms'][i] else pets.append(0)
+
 		else:
 			# for non-matches
 			order.append('n/a')
@@ -170,6 +189,14 @@ if __name__ == '__main__':
 			inquiryOrder.append('n/a')
 			inquiryWeekday.append('n/a')
 			responseWeekday.append('n/a')
+			income.append('n/a')
+			references.append('n/a')
+			credit.append('n/a')
+			employment.append('n/a')
+			coRenters.append('n/a')
+			family.append('n/a')
+			smoking.append('n/a')
+			pets.append('n/a')
 
 	df['response order'] = pd.Series(order)
 	df['total responses'] = pd.Series(totalResponses)
@@ -183,7 +210,18 @@ if __name__ == '__main__':
 	cols = df.columns.tolist()
 	cols = cols[79:85] + [cols[118]] + [cols[95]] + [cols[119]] + cols[113:115] + [cols[117]] + [cols[115]] + [cols[116]] + cols[1:79] + cols[85:95] + cols[96:109] + cols[110:113]
 	df = df[cols]
-	
+
+	# add additional columns
+	df['Income'] = pd.Series(income)
+	df['References'] = pd.Series(references)
+	df['Credit'] = pd.Series(credit)
+	df['Employment/Job'] = pd.Series(employment)
+	df['Co-renters/Roommates'] = pd.Series(coRenters)
+	df['Family'] = pd.Series(family)
+	df['Smoking'] = pd.Series(smoking)
+	df['Pets'] = pd.Series(pets)
+
+	print("'Income', 'References', 'Credit', 'Employment/Job', 'Co-renters/Roommates', 'Family', 'Smoking', and 'Pets' columns have been made. \n")
 
 	df.to_csv(os.getcwd() + '/output/atlanta_ga_final.csv', index=False)
 	print('atlanta_ga_final.csv has been written. \n')
