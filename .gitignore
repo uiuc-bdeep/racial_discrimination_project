@@ -5,3 +5,4 @@ env/
 *.swo
 parameters.json
 *.DS_Store
+.DS_Store
