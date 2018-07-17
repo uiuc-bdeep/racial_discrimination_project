@@ -24,8 +24,6 @@ names = pd.read_csv(NAMES_FILE)
 ACCOUNT_LIST = names['email'].values
 print (ACCOUNT_LIST)
 
-# ACCOUNT_LIST = ['jramirez7561','woodleslie542','shanicethomas086']
-
 def process_mailbox(M, account_prefix, folder):
     """
     Dump all emails in folder to files in output directory labeled
