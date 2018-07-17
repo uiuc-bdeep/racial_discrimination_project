@@ -51,13 +51,12 @@ if __name__ == '__main__':
 	inquiry_dict = {}
 
 	# get addresses
-	df = pd.read_csv(os.getcwd() + '/input/atlanta_ga_7_10_18_round_2_6_census.csv')
-	#df = df.loc[(df['Bedroom_max'] == '3') & (df['Bathroom_max'] == 2.0)]
-	df = df.drop_duplicates(subset = 'Address')
-	df = df.reset_index(drop=True)
-	df.to_csv(os.getcwd() + '/input/Trulia.csv', index=False)
-
-	print("Trulia.csv has been written. \n")
+	df_trulia = pd.read_csv(os.getcwd() + '/input/atlanta_ga_7_10_18_round_2_6_census.csv')
+	#df_trulia = df_trulia.loc[(df['Bedroom_max'] == '3') & (df_trulia['Bathroom_max'] == 2.0)]
+	df_trulia = df_trulia.drop_duplicates(subset = 'Address')
+	df_trulia = df_trulia.reset_index(drop=True)
+	
+	print("Acquired Trulia addresses. \n")
 
 	# create individual address timestamp files
 	df = pd.read_csv(os.getcwd() + '/input/atlanta_ga_metro_7_2_18_round_6_timestamp_fin.csv')
@@ -83,13 +82,12 @@ if __name__ == '__main__':
 
 	print("")
 
-	# join addresses file with each individual timestamp file
+	# join trulia addresses file with each individual timestamp file
 	files = os.listdir('individual timestamp files')
-	df = pd.read_csv(os.getcwd() + '/input/Trulia.csv')
 	for file in files:
 		if file != ".DS_Store":
 			df2 = pd.read_csv(os.getcwd() + '/individual timestamp files/' + file)
-			df2 = pd.merge(df, df2,
+			df2 = pd.merge(df_trulia, df2,
 				left_on=['Address'],
 				right_on=['address_selection/property'],
 				how='right')
@@ -110,16 +108,16 @@ if __name__ == '__main__':
 		else:
 			df = df.append(pd.read_csv(os.getcwd() + "/individual joins/" + file), ignore_index=True)
 	
-	print("Trulia.csv merged with all timestamp files. \n")
+	print("Trulia addresses merged with all timestamp files. \n")
 
 	# merge file with combined responses
 	df = pd.merge(df, pd.read_csv(os.getcwd() + '/input/responses_concatenated.csv'),
 			left_on=['people_name_selection/person_name', 'address_selection/property'],
 			right_on=['people_name_selection/person_name', 'address_selection/property'],
 			how='left')
-	print("Trulia.csv merged with all timestamp files merged with all responses. \n")
+	print("Trulia addresses merged with all timestamp files merged with all responses. \n")
 
-	# create new column for timedelta and "response"
+	# create new column for "timeDiff" and "response"
 	diffs = []
 	resp = []
 	for i in range(len(df)):
@@ -131,9 +129,9 @@ if __name__ == '__main__':
 			diffs[-1] = (diffs[-1].days*24*60) + (diffs[-1].seconds/60.0)
 			resp.append(1)
 		else:
-			diffs.append("")
+			diffs.append("n/a")
 			resp.append(0)
-	df['timeDiff'] = pd.Series(diffs)
+	df['timeDiff'] = pd.Series(diffs) # timeDiff is in minutes
 	df['response'] = pd.Series(resp)
 	
 	print("'timeDiff' and 'response' columns have been made. \n")
@@ -198,13 +196,13 @@ if __name__ == '__main__':
 			smoking.append('n/a')
 			pets.append('n/a')
 
-	df['response order'] = pd.Series(order)
-	df['total responses'] = pd.Series(totalResponses)
-	df['inquiry order'] = pd.Series(inquiryOrder)
-	df['inquiry weekday'] = pd.Series(inquiryWeekday)
-	df['response weekday'] = pd.Series(responseWeekday)
+	df['response_order'] = pd.Series(order)
+	df['total_responses'] = pd.Series(totalResponses)
+	df['inquiry_order'] = pd.Series(inquiryOrder)
+	df['inquiry_weekday'] = pd.Series(inquiryWeekday)
+	df['response_weekday'] = pd.Series(responseWeekday)
 	
-	print("'response order', 'total responses', and 'inquiry order' columns have been made. \n")
+	print("'response_order', 'total_responses', 'inquiry_order', 'inquiry_weekday', and 'response_weekday' columns have been made. \n")
 
 	# reorder columns
 	cols = df.columns.tolist()
@@ -223,5 +221,12 @@ if __name__ == '__main__':
 
 	print("'Income', 'References', 'Credit', 'Employment/Job', 'Co-renters/Roommates', 'Family', 'Smoking', and 'Pets' columns have been made. \n")
 
-	df.to_csv(os.getcwd() + '/output/atlanta_ga_final.csv', index=False)
+	# make sure all column names do not have spaces
+	cols = df.columns.tolist()
+	new_headers = [col.replace(" ", "_") for col in cols]
+
+	df.to_csv(os.getcwd() + '/output/atlanta_ga_final.csv', 
+		columns=cols,
+		header=new_headers,
+		index=False)
 	print('atlanta_ga_final.csv has been written. \n')
