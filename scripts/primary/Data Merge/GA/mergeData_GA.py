@@ -21,6 +21,34 @@ def responseParse(d):
 	else: # tz == '05:00' (CST)
 		return pytz.timezone('America/Chicago').localize(datetime.datetime(year, month, day, hour, minute))
 
+def time_of_day(d, type_):
+	curr_date = inquiryParse(d) if type_ == "inquiry" else responseParse(d)
+	curr_minutes = curr_date.hour*60 + curr_date.minute
+	if curr_minutes <= 119: 	# 00-01:59
+		return "00-02"
+	elif curr_minutes <= 239: 	# 02-03:59
+		return "02-04"
+	elif curr_minutes <= 359: 	# 04-05:59
+		return "04-06"
+	elif curr_minutes <= 479: 	# 06-07:59
+		return "06-08"
+	elif curr_minutes <= 599: 	# 08-09:59
+		return "08-10"
+	elif curr_minutes <= 719: 	# 10-11:59
+		return "10-12"
+	elif curr_minutes <= 839: 	# 12-13:59
+		return "12-14"
+	elif curr_minutes <= 959: 	# 14-15:59
+		return "14-16"
+	elif curr_minutes <= 1079: 	# 16-17:59
+		return "16-18"
+	elif curr_minutes <= 1199: 	# 18-19:59
+		return "18-20"
+	elif curr_minutes <= 1319: 	# 20-21:59
+		return "20-22"
+	else: 						# 22-23:59
+		return "22-24"
+
 def find(A, x):
 	for i in range(len(A)):
 		if A[i] == x:
@@ -121,6 +149,8 @@ if __name__ == '__main__':
 	diffs = []
 	resp = []
 	for i in range(len(df)):
+		# dateTime_selection/timestamp := timestamp of response received
+		# timestamp inquiry sent out := timestamp of inquiry sent out
 		if len(str(df['timestamp inquiry sent out'][i])) > 5 and len(str(df['dateTime_selection/timestamp'][i])) > 5:
 			# decrease 'timestamp inquiry sent out' column by 5 hours
 			df['timestamp inquiry sent out'][i] = timestampSubParse(str(df['timestamp inquiry sent out'][i]))
@@ -161,6 +191,8 @@ if __name__ == '__main__':
 	family = []
 	smoking = []
 	pets = []
+	inquiry_time_of_day = []
+	response_time_of_day = []
 	for i in range(len(df)):
 		# for matches
 		if df['response'][i] == 1:
@@ -169,6 +201,8 @@ if __name__ == '__main__':
 			inquiryOrder.append(inquiry_dict[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])])
 			inquiryWeekday.append(getWeekday(inquiryParse(str(df['timestamp inquiry sent out'][i]))))
 			responseWeekday.append(getWeekday(responseParse(str(df['dateTime_selection/timestamp'][i]))))
+			inquiry_time_of_day.append(time_of_day(str(df['timestamp inquiry sent out'][i]), "inquiry"))
+			response_time_of_day.append(time_of_day(str(df['dateTime_selection/timestamp'][i]), "response"))
 
 			if str(df['screening_selection/screening_terms'][i] != 'nan'):
 				income.append(1) if 'Income' in df['screening_selection/screening_terms'][i] else income.append(0)
@@ -181,11 +215,16 @@ if __name__ == '__main__':
 				pets.append(1) if 'Pets' in df['screening_selection/screening_terms'][i] else pets.append(0)
 
 		else:
+			if len(str(df['timestamp inquiry sent out'][i])) > 5:
+				inquiryOrder.append(inquiry_dict[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])])
+				inquiryWeekday.append(getWeekday(inquiryParse(str(df['timestamp inquiry sent out'][i]))))
+			else:
+				inquiryOrder.append('n/a')
+				inquiryWeekday.append('n/a')
+			
 			# for non-matches
 			order.append('n/a')
 			totalResponses.append(0)
-			inquiryOrder.append('n/a')
-			inquiryWeekday.append('n/a')
 			responseWeekday.append('n/a')
 			income.append('n/a')
 			references.append('n/a')
@@ -220,6 +259,11 @@ if __name__ == '__main__':
 	df['Pets'] = pd.Series(pets)
 
 	print("'Income', 'References', 'Credit', 'Employment/Job', 'Co-renters/Roommates', 'Family', 'Smoking', and 'Pets' columns have been made. \n")
+
+	df["response_time_of_day"] = pd.Series(response_time_of_day)
+	df["inquiry_time_of_day"] = pd.Series(inquiry_time_of_day)
+
+	print("'response_time_of_day' and 'inquiry_time_of_day' columns have been written. \n")
 
 	# make sure all column names do not have spaces
 	cols = df.columns.tolist()
