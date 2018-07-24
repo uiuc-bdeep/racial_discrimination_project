@@ -89,9 +89,9 @@ if __name__ == '__main__':
 	# create individual address timestamp files
 	df = pd.read_csv(os.getcwd() + '/input/atlanta_ga_metro_7_2_18_round_6_timestamp_fin.csv')
 	num_inquiries = int(df.columns.tolist()[-1].split(" ")[-1])
-	df['people_name_selection/person_name'] = df['first name'] + ' ' + df['last name']
+	df['person_name'] = df['first name'] + ' ' + df['last name']
 	for i in range(1, num_inquiries + 1):
-		cols = ['person id', 'people_name_selection/person_name', 'gender', 'racial category',
+		cols = ['person id', 'person_name', 'gender', 'racial category',
 			'education level', 'address ' + str(i), 'timestamp ' + str(i), 'inquiry order ' + str(i)]
 		tempDF = df[cols]
 		tempDF = tempDF.loc[tempDF['address ' + str(i)] != 'NA']
@@ -99,12 +99,12 @@ if __name__ == '__main__':
 		if len(tempDF) != 0:
 			tempDF['address ' + str(i)] = tempDF['address ' + str(i)].str.split(',', expand=True)[0].str.split('(', expand=True)[1]
 			for j in range(len(tempDF)):
-				inquiry_dict[(tempDF['people_name_selection/person_name'][j], tempDF['address ' + str(i)][j])] = tempDF['inquiry order ' + str(i)][j]
+				inquiry_dict[(tempDF['person_name'][j], tempDF['address ' + str(i)][j])] = tempDF['inquiry order ' + str(i)][j]
 			tempDF.to_csv('individual timestamp files/timestamp' + str(i) + '.csv',
-				columns=['person id', 'people_name_selection/person_name', 'gender', 'racial category',
+				columns=['person id', 'person_name', 'gender', 'racial category',
 					'education level', 'address ' + str(i), 'timestamp ' + str(i)],
-				header=['person id', 'people_name_selection/person_name', 'gender', 'racial category',
-					'education level', 'address_selection/property', 'timestamp inquiry sent out'],
+				header=['person id', 'person_name', 'gender', 'racial category',
+					'education level', 'inquiry_address', 'timestamp inquiry sent out'],
 				index=False)
 			print("timestamp" + str(i) + ".csv has been written.")
 
@@ -117,7 +117,7 @@ if __name__ == '__main__':
 			df2 = pd.read_csv(os.getcwd() + '/individual timestamp files/' + file)
 			df2 = pd.merge(df_trulia, df2,
 				left_on=['Address'],
-				right_on=['address_selection/property'],
+				right_on=['inquiry_address'],
 				how='right')
 			df2 = df2.sort_values('person id')
 			df2.to_csv('individual joins/Trulia_MERGED_' + file, index=False)
@@ -140,7 +140,7 @@ if __name__ == '__main__':
 
 	# merge file with combined responses
 	df = pd.merge(df, pd.read_csv(os.getcwd() + '/input/responses_concatenated.csv'),
-			left_on=['people_name_selection/person_name', 'address_selection/property'],
+			left_on=['person_name', 'inquiry_address'],
 			right_on=['people_name_selection/person_name', 'address_selection/property'],
 			how='left')
 	print("Trulia addresses merged with all timestamp files merged with all responses. \n")
@@ -169,10 +169,10 @@ if __name__ == '__main__':
 	D = {}
 	for i in range(len(df)):
 		if df['response'][i] == 1:
-			if not (df['people_name_selection/person_name'][i], df['address_selection/property'][i]) in D:
-				D[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])] = [responseParse(df['dateTime_selection/timestamp'][i])]
+			if not (df['person_name'][i], df['address_selection/property'][i]) in D:
+				D[(df['person_name'][i], df['address_selection/property'][i])] = [responseParse(df['dateTime_selection/timestamp'][i])]
 			else:
-				D[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])].append(responseParse(df['dateTime_selection/timestamp'][i]))
+				D[(df['person_name'][i], df['address_selection/property'][i])].append(responseParse(df['dateTime_selection/timestamp'][i]))
 
 	for key in D:
 		D[key].sort()
@@ -191,14 +191,18 @@ if __name__ == '__main__':
 	family = []
 	smoking = []
 	pets = []
+	criminal_history = []
+	eviction_history = []
+	rental_history = []
+	government_housing_vouchers = []
 	inquiry_time_of_day = []
 	response_time_of_day = []
 	for i in range(len(df)):
 		# for matches
 		if df['response'][i] == 1:
-			order.append(find(D[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])], responseParse(df['dateTime_selection/timestamp'][i])))
-			totalResponses.append(len(D[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])]))
-			inquiryOrder.append(inquiry_dict[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])])
+			order.append(find(D[(df['person_name'][i], df['address_selection/property'][i])], responseParse(df['dateTime_selection/timestamp'][i])))
+			totalResponses.append(len(D[(df['person_name'][i], df['address_selection/property'][i])]))
+			inquiryOrder.append(inquiry_dict[(df['person_name'][i], df['inquiry_address'][i])])
 			inquiryWeekday.append(getWeekday(inquiryParse(str(df['timestamp inquiry sent out'][i]))))
 			responseWeekday.append(getWeekday(responseParse(str(df['dateTime_selection/timestamp'][i]))))
 			inquiry_time_of_day.append(time_of_day(str(df['timestamp inquiry sent out'][i]), "inquiry"))
@@ -213,10 +217,13 @@ if __name__ == '__main__':
 				family.append(1) if 'Family' in df['screening_selection/screening_terms'][i] else family.append(0)
 				smoking.append(1) if 'Smoking' in df['screening_selection/screening_terms'][i] else smoking.append(0)
 				pets.append(1) if 'Pets' in df['screening_selection/screening_terms'][i] else pets.append(0)
-
+				criminal_history.append(1) if 'Criminal History' in df['screening_selection/screening_terms'][i] else criminal_history.append(0)
+				eviction_history.append(1) if 'Eviction History' in df['screening_selection/screening_terms'][i] else eviction_history.append(0)
+				rental_history.append(1) if 'Rental History' in df['screening_selection/screening_terms'][i] else rental_history.append(0)
+				government_housing_vouchers.append(1) if 'Government Housing Vouchers' in df['screening_selection/screening_terms'][i] else government_housing_vouchers.append(0) 
 		else:
 			if len(str(df['timestamp inquiry sent out'][i])) > 5:
-				inquiryOrder.append(inquiry_dict[(df['people_name_selection/person_name'][i], df['address_selection/property'][i])])
+				inquiryOrder.append(inquiry_dict[(df['person_name'][i], df['inquiry_address'][i])])
 				inquiryWeekday.append(getWeekday(inquiryParse(str(df['timestamp inquiry sent out'][i]))))
 			else:
 				inquiryOrder.append('n/a')
@@ -234,6 +241,10 @@ if __name__ == '__main__':
 			family.append('n/a')
 			smoking.append('n/a')
 			pets.append('n/a')
+			criminal_history.append('n/a')
+			eviction_history.append('n/a')
+			rental_history.append('n/a')
+			government_housing_vouchers.append('n/a')
 
 	df['response_order'] = pd.Series(order)
 	df['total_responses'] = pd.Series(totalResponses)
@@ -257,8 +268,12 @@ if __name__ == '__main__':
 	df['Family'] = pd.Series(family)
 	df['Smoking'] = pd.Series(smoking)
 	df['Pets'] = pd.Series(pets)
+	df['criminal_history'] = pd.Series(criminal_history)
+	df['eviction_history'] = pd.Series(eviction_history)
+	df['rental_history'] = pd.Series(rental_history)
+	df['government_housing_vouchers'] = pd.Series(government_housing_vouchers)
 
-	print("'Income', 'References', 'Credit', 'Employment/Job', 'Co-renters/Roommates', 'Family', 'Smoking', and 'Pets' columns have been made. \n")
+	print("'Income', 'References', 'Credit', 'Employment/Job', 'Co-renters/Roommates', 'Family', 'Smoking', 'Pets', 'Criminal History', 'Eviction History', 'Rental History', and 'Government Housing Vouchers' columns have been made. \n")
 
 	df["response_time_of_day"] = pd.Series(response_time_of_day)
 	df["inquiry_time_of_day"] = pd.Series(inquiry_time_of_day)
