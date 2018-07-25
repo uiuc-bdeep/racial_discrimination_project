@@ -2,6 +2,9 @@ import pandas as pd
 import os
 import datetime, pytz
 
+TRULIA_ADDRESSES_FILE = 'atlanta_ga_7_10_18_round_2_6_census.csv'
+TIMESTAMP_FILE = 'atlanta_ga_metro_7_2_18_round_6_timestamp_fin.csv'
+
 def inquiryParse(d):
 	tmp = d.split('/')
 	tmp2 = tmp[2].split(' ')
@@ -79,15 +82,14 @@ if __name__ == '__main__':
 	inquiry_dict = {}
 
 	# get addresses
-	df_trulia = pd.read_csv(os.getcwd() + '/input/atlanta_ga_7_10_18_round_2_6_census.csv')
-	#df_trulia = df_trulia.loc[(df['Bedroom_max'] == '3') & (df_trulia['Bathroom_max'] == 2.0)]
+	df_trulia = pd.read_csv(os.getcwd() + '/input/' + TRULIA_ADDRESSES_FILE)
 	df_trulia = df_trulia.drop_duplicates(subset = 'Address')
 	df_trulia = df_trulia.reset_index(drop=True)
 	
 	print("Acquired Trulia addresses. \n")
 
 	# create individual address timestamp files
-	df = pd.read_csv(os.getcwd() + '/input/atlanta_ga_metro_7_2_18_round_6_timestamp_fin.csv')
+	df = pd.read_csv(os.getcwd() + '/input/' + TIMESTAMP_FILE)
 	num_inquiries = int(df.columns.tolist()[-1].split(" ")[-1])
 	df['person_name'] = df['first name'] + ' ' + df['last name']
 	for i in range(1, num_inquiries + 1):
