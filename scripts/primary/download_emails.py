@@ -59,21 +59,21 @@ def main():
     for account in ACCOUNT_LIST:
         print(account)
         email_account = account + EMAIL_DOMAIN
-
-         M = imaplib.IMAP4_SSL(IMAP_SERVER)
-         M.login(email_account, PASSWORD)
+        M = imaplib.IMAP4_SSL(IMAP_SERVER)
+        M.login(email_account, PASSWORD)
 
         for folder in EMAIL_FOLDERS:
             os.chdir(EMAIL_DIR+folder)
             print(os.getcwd())
             print("Processing mailbox: ", folder)
-             rv, data = M.select(folder)
-             if rv == 'OK':
-                 process_mailbox(M,account,folder)
-                 M.close()
-             else:
-                 print ("ERROR: Unable to open mailbox ", rv)
-         M.logout()
+            rv, data = M.select(folder)
+            if rv == 'OK':
+                process_mailbox(M,account,folder)
+                M.close()
+            else:
+                print ("ERROR: Unable to open mailbox ", rv)
+
+        M.logout()
 
 if __name__ == "__main__":
     main()
